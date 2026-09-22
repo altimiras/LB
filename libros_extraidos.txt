@@ -1,0 +1,827 @@
+Autor del libro|título del libro|link para descarga
+Kurt Vonnegut|Payasadas|https://drive.google.com/file/d/0B_yJXv2pEPBwNG04QjI4ZWF3V0U/view?usp=drivesdk&resourcekey=0-_1RqmMm9xlDaG2hVGI7pUw
+Kurt Vonnegut|Pajaro De Celda|https://drive.google.com/file/d/0B_yJXv2pEPBwa2xkS2dwdEhiY3M/view?usp=drivesdk&resourcekey=0-dLt0GED3GF7xp0LybTMUnA
+Kurt Vonnegut|Matadero Cinco|https://drive.google.com/file/d/0B_yJXv2pEPBwMU5pYTVINzFWLVU/view?usp=drivesdk&resourcekey=0-FoOPsTJ-x5Z6DDLu8NadrA
+Kurt Vonnegut|Las Sirenas De Titan|https://drive.google.com/file/d/0B_yJXv2pEPBwTTRhblFhNG9CZVU/view?usp=drivesdk&resourcekey=0-TPi3ifYvYo-bsEHoWXwSmA
+Kurt Vonnegut|Hocus Pocus|https://drive.google.com/file/d/0B_yJXv2pEPBwTDNEZ0VsWDM1SXc/view?usp=drivesdk&resourcekey=0-a2PFJSo7FSN6iyL-Raq9wQ
+Kurt Vonnegut|Harrison Bergeron|https://drive.google.com/file/d/0B_yJXv2pEPBwR2swMWI0SUU0ZlU/view?usp=drivesdk&resourcekey=0-7-rT4IxPXDv-hVRW1W_SnA
+Kurt Vonnegut|Galapagos|https://drive.google.com/file/d/0B_yJXv2pEPBwbmY3UFpUY0UwTk0/view?usp=drivesdk&resourcekey=0-WLxc8J5Cfa0ONWguSBg09w
+Kurt Vonnegut|El Perro Lanudo De Tom Edison|https://drive.google.com/file/d/0B_yJXv2pEPBwWEFVTjM3UUNFSG8/view?usp=drivesdk&resourcekey=0-8jifNSFMljqpSdYkiqSauw
+Kurt Vonnegut|Dios Le Bendiga, MrRosewater|http://vonnegut,%20kurt%20-%20dios%20le%20bendiga,%20mr.%20rosewater.rar/
+Kurt Vonnegut|Cuna De Gato|https://drive.google.com/file/d/0B_yJXv2pEPBwZFFySUMwemNhRTA/view?usp=drivesdk&resourcekey=0-EI9B2BMecocCrTq2xjSi7A
+Kurt Vonnegut|Bienvenida A La Jaula De Los Monos|https://drive.google.com/file/d/0B_yJXv2pEPBwY3VQUFlyYXFENmM/view?usp=drivesdk&resourcekey=0-mjQFRpm4TJPNxr5yMjJwEQ
+Fernando Vallejo|El Desbarrancadero|https://drive.google.com/file/d/0B_yJXv2pEPBwTURsb012THp5VFU/view?usp=drivesdk&resourcekey=0-jVd8I7vNVNY8wMeSJkNvXw
+Luis Vgil|Camino|https://drive.google.com/file/d/0B_yJXv2pEPBwY0QyQzBncWRnZmc/view?usp=drivesdk&resourcekey=0-MjN1Qy7qXSkNKTHRnGAPnA
+Irma G. Vela Meza|Una Princesa En La Playa|https://drive.google.com/file/d/0B_yJXv2pEPBwYjdsYlhOclB5aEU/view?usp=drivesdk&resourcekey=0-FKxen9_tEmCqpZztv0vIEQ
+Irma G. Vela Meza|Por Ti y Para Ti|https://drive.google.com/file/d/0B_yJXv2pEPBwUDZtc3J3Mk5yc0U/view?usp=drivesdk&resourcekey=0-g06ezxMiDnQTLWFvlO6plw
+Pedro de Valdivia|Cartas Que Tratan Del Descubrimiento Y Conquista De Chile|https://drive.google.com/file/d/0B_yJXv2pEPBwRnctWDZlbzlCM00/view?usp=drivesdk&resourcekey=0-GNR6A11-XEqJ7rQsTRJ8LQ
+José Pedro Varela|La Educacion Del Pueblo|https://drive.google.com/file/d/0B_yJXv2pEPBwdWk4alpxekZCMGc/view?usp=drivesdk&resourcekey=0-ApWVSxzJSdYkZEG3gmKH4g
+José Pedro Varela|La Educacion Del Pueblo Tomo I|https://drive.google.com/file/d/0B_yJXv2pEPBwQkcxcE12SmRDOWc/view?usp=drivesdk&resourcekey=0-F0ro6ui30Gi6AwZfZmQmag
+Sergio Gaut Vel Hartman|Naufrago De Si Mismo|https://drive.google.com/file/d/0B_yJXv2pEPBwNkxhZHVoZnVsc1E/view?usp=drivesdk&resourcekey=0-2KmvoV49wwHkIz7534XfKA
+Sergio Gaut Vel Hartman|Carne de cañon|https://drive.google.com/file/d/0B_yJXv2pEPBwS2Z4T1hOQ1Z2MGc/view?usp=drivesdk&resourcekey=0-Y5EtOKLqou1ZzRxd7O_EqA
+|Corazón. Diario de un niño|https://drive.google.com/file/d/1ZIjtZtgAFBVdK-m5Mes9JMXg7J0OUzAs/view?usp=drive_link
+|Tres cuentos de Las mil y una noches|https://drive.google.com/file/d/1iHn4ZwwZ7adCZ-5vnWvjA1p0TxzRE6rf/view?usp=drive_link
+|Diez cuentos de Las mil y una noches|https://drive.google.com/file/d/1nrjaWIpw9DxmzADan94o6Em6t3O6dAi-/view?usp=drive_link
+|Caballería roja|https://drive.google.com/file/d/1pKr3ffyGVnzBoQH99dQwXWjQQkFINL_6/view?usp=drive_link
+|Alberto Savaruz|https://drive.google.com/file/d/17MGVnDkhHtW65TuguWocyDT3SVDCSLVc/view?usp=drive_link
+|El asesinato|https://drive.google.com/file/d/1MVlXT27v2MXRdAcTEd7mpMWdlQsYzN_Q/view?usp=drive_link
+|El jardín de los cerezos|https://drive.google.com/file/d/1ewlxEm-fXXCxZfFSrI0f1pYyYDL_nBJI/view?usp=drive_link
+|El pabellón No. 6|https://drive.google.com/file/d/1pDwoZZuPMaCqZSSUVZI9oZdn5NopGhTc/view?usp=drive_link
+|El misterio de Copper Beeches|https://drive.google.com/file/d/1FpceuSJRKYFa-D3OaDZxV6-9LhYeBZIf/view?usp=drive_link
+|El misterio del valle Boscombe|https://drive.google.com/file/d/1DjvkQKGnSyRsFjzSN71bh3Z_WPMP-psC/view?usp=drive_link
+|El signo de los cuatro|https://drive.google.com/file/d/1XxSFTv9uPrNMUJ65jVsGFXM4cRhV6qMd/view?usp=drive_link
+|Espanto en las alturas|https://drive.google.com/file/d/1kU9G0MmO4fa1NwFn-bZAeqmOv4dldH9E/view?usp=drive_link
+|Un escándalo en Bohemia|https://drive.google.com/file/d/1pfUTSL4ILNtnVeSCz4Vf8a0l1ySeh_By/view?usp=drive_link
+|El corazón de las tinieblas|https://drive.google.com/file/d/1WHtuvuTKyhzAOj8b4z9VnrbGK9Ey3ORj/view?usp=drive_link
+|La teoría de la evolución: El origen de las especies|https://drive.google.com/file/d/1Wd578Y6LODMMaIKWXIvGz0ucJIf-mVMG/view?usp=drive_link
+|Tartarín de Tarascón|https://drive.google.com/file/d/1UxReqcl7MXZ2Z5e67xhKhGWYze4KLqio/view?usp=drive_link
+|Proceso por asesinato|https://drive.google.com/file/d/1ygo_eaqz-_2O_dZdg02J1C_jGMG8NiaA/view?usp=drive_link
+|Noches blancas|https://drive.google.com/file/d/1A5Tb38dOQAVDkhqlo5Ub5JQXprvyoD1y/view?usp=drive_link
+|La reliquia|https://drive.google.com/file/d/1ioNBeB2R1TbwLPS5A4nbXqpFvCV3snS-/view?usp=drive_link
+|El anillo|https://drive.google.com/file/d/1MC9Cs2-wsFUc5ssfK3SL4NeQr9ZM8-9b/view?usp=drive_link
+|Prometeo encadenado|https://drive.google.com/file/d/1OTTkrKbbZ1SfZIRV4FdtSKpBFpoaiZP6/view?usp=drive_link
+|Las troyanas|https://drive.google.com/file/d/1y-uzmqJo_PEE9HNO2wcnq2NFVWsXNc7F/view?usp=drive_link
+|El cuento de la serpiente verde|https://drive.google.com/file/d/16h7YdjOLDLXxyxqVjXBR4VpfuvI7xck5/view?usp=drive_link
+|Diario de un loco|https://drive.google.com/file/d/1h0ivdIKBpy1zunc9MuBLGnXEU4zdmS5v/view?usp=drive_link
+|El capote|https://drive.google.com/file/d/1haM1IRl5LT5EBS6jNAWx4pqOznvM9_PO/view?usp=drive_link
+|El retrato|https://drive.google.com/file/d/1cAaSEDVWPJyrXZOz4OdmukRROZmqwcv6/view?usp=drive_link
+|La perspectiva Nevsky|https://drive.google.com/file/d/1RFrfGaBZyt34CRZizj3gKRs0VFxlvFWc/view?usp=drive_link
+|El encuentro inesperado.|https://drive.google.com/file/d/1_O-QsUNY-KbpVPjJkJFXe6Is5yrh9c97/view?usp=drive_link
+|Demian|https://drive.google.com/file/d/1qW4gw2xLFKIvsLKY7viNdDh-EiMDN896/view?usp=drive_link
+|El lobo estepario|https://drive.google.com/file/d/1je7N9M5JkI2meFgJb4Id4nnx3DW8UOJb/view?usp=drive_link
+|Siddhartha|https://drive.google.com/file/d/1E7Uq328c85NNEw9AdfxIwLSi-JEcey94/view?usp=drive_link
+|Cuentos de miedo|https://drive.google.com/file/d/1iR1xIrnYTJPzmk33Tb2jOfbQO6iuCFTZ/view?usp=drive_link
+|La Ilíada|https://drive.google.com/file/d/1aS1dF6HyZvFfhVvV6dCVHCkoIXpyPZHH/view?usp=drive_link
+|La Odisea|https://drive.google.com/file/d/12cHohgvgu0KBY00K6UvRhvK6K1SIHde7/view?usp=drive_link
+|Bug Jargal|https://drive.google.com/file/d/10rmaLi6DDuj1RWl5Jy9GV5U8B2Ws-ZCK/view?usp=drive_link
+|Cuentos de la Alhambra. Dos leyendas|https://drive.google.com/file/d/1oKLQ6IIf2Qve3ypZQG2ia5QKQnRUxdhU/view?usp=drive_link
+|La vuelta de tuerca|https://drive.google.com/file/d/1utml9-JXxAyy0VlndkzovtBm7gtRMtQw/view?usp=drive_link
+|La rosa amarilla|https://drive.google.com/file/d/15D179AgaVi2DGVgGcxv76qrybjHH22c1/view?usp=drive_link
+|Una cruza|https://drive.google.com/file/d/1Yi3YFgPeH-UYo6NYz7ovx54lTxXQyAhZ/view?usp=drive_link
+|El carrito fantasma|https://drive.google.com/file/d/1MRjEZVQfsVxgEr_uPxdh1PzEmWVW1yfD/view?usp=drive_link
+|Si...|https://drive.google.com/file/d/19iBuH9pStkWMBhqD3hGXj8Jq6ZB_KSoT/view?usp=drive_link
+|Tao Te King|https://drive.google.com/file/d/1Bl1Xi4IGGJ1Tzz8cxF_3sKG1Yl6eiYG4/view?usp=drive_link
+|Té verde|https://drive.google.com/file/d/1fWYaABgiLgjuMzN30eL_PTxJxK_eElDl/view?usp=drive_link
+|Katha Upanishad|https://drive.google.com/file/d/1GiRIPSW2v5qdhF1XLphiUgzRBKI_NM4b/view?usp=drive_link
+|La leyenda de Gilgamesh|https://drive.google.com/file/d/1oJO4zwIGG2rty39M5e33EPJtHZUt0mHn/view?usp=drive_link
+|El color surgido del espacio y seis cuentos cortos|https://drive.google.com/file/d/15ZSvrf04Gi4RH717WR7Or_GSY2ydEJlh/view?usp=drive_link
+|Anécdota pecuniaria|https://drive.google.com/file/d/16ivvMnR6_nm3BXuzYfHim7EiEpibtLdM/view?usp=drive_link
+|Cláusula testamentaria|https://drive.google.com/file/d/14Au0x9St2_2ZO9qmQ7ccNkWAwIVoIUQY/view?usp=drive_link
+|El alienista|https://drive.google.com/file/d/1OMLqnPn-TGdhIQNOhInNfyP3M-cm0mAw/view?usp=drive_link
+|El secreto de Augusta|https://drive.google.com/file/d/16stxdsVmVxJcPuYzvaWBX4jsTuAWbzcg/view?usp=drive_link
+|La causa secreta|https://drive.google.com/file/d/1N52mMWEAJG_WH3HtHxU4Kdqee-OPdtZW/view?usp=drive_link
+|Un hombre célebre|https://drive.google.com/file/d/1CTpFRuIIoOnbNnpZqH2XCHAsYFtxzv64/view?usp=drive_link
+|La siesta del fauno, otros poemas y sonetos|https://drive.google.com/file/d/11m3e206YK6ksZqEvQd3SqyECJQUIKLKg/view?usp=drive_link
+|Meditaciones|https://drive.google.com/file/d/1ORHdl000WO3Hf2QYd4Tw37MF1KjfX6I1/view?usp=drive_link
+|La mujer loba|https://drive.google.com/file/d/14wcnNHU3M2lfTB9eBjeP36YhIR6mLclw/view?usp=drive_link
+|¿Loco?|https://drive.google.com/file/d/1oQVre_uyD8I0peJzMa2PvLennfZionqA/view?usp=drive_link
+|¿Quién sabe?|https://drive.google.com/file/d/1C3nKwdKKM2euiQNigKHby6lFyG_XP5rE/view?usp=drive_link
+|Aparición|https://drive.google.com/file/d/1Q0rOR0lN1fXS9PLe8Hcd3LDSklHAOfhK/view?usp=drive_link
+|Carta que se encontró a un ahogado|https://drive.google.com/file/d/1oeP4t2QJtq5578S5pZexWZ9r_o0V5o4e/view?usp=drive_link
+|Cuento de Navidad|https://drive.google.com/file/d/1n3GDCR4aADWMiPu7X29mO9G3uqEGm9la/view?usp=drive_link
+|El Horla|https://drive.google.com/file/d/15fhlLyCPtUgvB4CGTcjHU_IrJ1kWohg8/view?usp=drive_link
+|El lobo|https://drive.google.com/file/d/1y8Qj8E0cU-FIGFMKMrN1Ov3IqXo6vOrY/view?usp=drive_link
+|El miedo|https://drive.google.com/file/d/1WOLr5ddjN3RFZql9_8GWUq9wr1jvkKB8/view?usp=drive_link
+|Junto a un muerto|https://drive.google.com/file/d/18Mwulap6-zKm4Kml8f7mHIBj-C8aVOLr/view?usp=drive_link
+|La cabellera|https://drive.google.com/file/d/1D8CGYAX_vqlMPqa1jE2-PWvTZ7mjM2ro/view?usp=drive_link
+|La mano disecada|https://drive.google.com/file/d/1RNZ3EXhOJLUMriUFtviK7fZM6eoyVFaw/view?usp=drive_link
+|Los sepulcrales|https://drive.google.com/file/d/1Jc0uCoViElZ2TdQU6A6-PQzhjVlXKxHN/view?usp=drive_link
+|Suicidas|https://drive.google.com/file/d/1yI0SlES2RIT8ON_b058K45yQYS6knQXY/view?usp=drive_link
+|Un loco|https://drive.google.com/file/d/1Ph5dFZc9w42KUhDfvFbqLXtk8o2duj18/view?usp=drive_link
+|La mano encantada|https://drive.google.com/file/d/1p3mJHbQ-ULWq1ofRNP_nhCPYbZLRZZ-Y/view?usp=drive_link
+|El anticristo|https://drive.google.com/file/d/1MDm5Mi-hcwyT8-JNvVLFZYAVg8tUw3Iv/view?usp=drive_link
+|Apología de Sócrates|https://drive.google.com/file/d/1TFUZENea99asQgIvZNCsDysitUXyvLr_/view?usp=drive_link
+|El banquete|https://drive.google.com/file/d/1boyGVEoawEliNQ9gFHhdsJBGcPVi7wL7/view?usp=drive_link
+|Fedón o del alma|https://drive.google.com/file/d/1WqdA8Px3bLb5xpCcEdV0DyW7jIqkZpb3/view?usp=drive_link
+|Berenice|https://drive.google.com/file/d/1mShq_4UD_3ieeYrWzlMZwv2U9UE-_AqD/view?usp=drive_link
+|El camelo del globo|https://drive.google.com/file/d/1_g06MsqFASoFyWrcEA3IefOdi5VN2IuJ/view?usp=drive_link
+|El corazón delator|https://drive.google.com/file/d/1T__laIzK4WqV64oN9RglIgNj9MAETL95/view?usp=drive_link
+|El cuervo|https://drive.google.com/file/d/10_v2l-1n4lH_XobbnAip9k7pKuG8pl76/view?usp=drive_link
+|El entierro prematuro|https://drive.google.com/file/d/1bBW6WFK0ioBMdoJ7dXkB_8TY1PxSUEpR/view?usp=drive_link
+|El escarabajo de oro|https://drive.google.com/file/d/13GiSQyHWHrIPQUathpHKLh43tzUSv9V1/view?usp=drive_link
+|El gato negro|https://drive.google.com/file/d/1ghGTci0MpP9Z1LA12YKBq75DWI7fmu9P/view?usp=drive_link
+|El retrato oval|https://drive.google.com/file/d/1MxF4FKijTgvfhZOPQzKFsHZzTfoPmPkT/view?usp=drive_link
+|El tonel de amontillado|https://drive.google.com/file/d/1NvPUnX8mv5P32SZOx_AD6FgMl-TUaJRP/view?usp=drive_link
+|La caída de la casa de Usher|https://drive.google.com/file/d/1fwYEr89j8iS57r-48d8q8z_ZnlIz6pLh/view?usp=drive_link
+|Ligeia|https://drive.google.com/file/d/1SFuTqKFvnWLWFO7npb1C7fUHaVzwvUm5/view?usp=drive_link
+|Los crímenes de la calle Morgue|https://drive.google.com/file/d/1ub8BgFsdQjrLaCF7GeW5czMx0RG3Q9N-/view?usp=drive_linkf
+|Metzengerstein|https://drive.google.com/file/d/1zp1ho3qICJPfTfYgLFk_tfLvSB05UaYW/view?usp=drive_link
+|William Wilson|https://drive.google.com/file/d/1VuoyuWgLrV1JTlwN6-CiniT4KkpEVqer/view?usp=drive_link
+|El fabricante de ataúdes|https://drive.google.com/file/d/1m90i63rj-o4_vW1q86WRYVTe1xaeJi7P/view?usp=drive_link
+|El cuento de Omar y Dilaram|https://drive.google.com/file/d/1VHK1Cl1mFHCXfkJBt-xqAAirVnCrb5SQ/view?usp=drive_link
+|Una temporada en el infierno|https://drive.google.com/file/d/1I6rhncTvAjE-ek5pU_sMslYGQ9Al3iUf/view?usp=drive_link
+|El contrato social|https://drive.google.com/file/d/1fIjjMG9TDqhhxdsgRz9Gmf4Q9rjQbafT/view?usp=drive_link
+|El principito|https://drive.google.com/file/d/1yUuxS8x4zJGlH1Uf-EOD4rAoOlU3zhqF/view?usp=drive_link
+|El mortal inmortal|https://drive.google.com/file/d/14FniFQzD7GA6JY7JwKJRX427LZ2whGVO/view?usp=drive_link
+|La nube de lluvia|https://drive.google.com/file/d/1Ybcj-UHUu2vihwWEGi2mR17QGK5Sgf6U/view?usp=drive_link
+|El extraño caso del Dr. Jekyll y Mr. Hyde|https://drive.google.com/file/d/1FJZA4RjiL1wRDOq0l7X1uYrc58OVXy5Q/view?usp=drive_link
+|Markheim|https://drive.google.com/file/d/18RwP6FpwXRhDPaVqQ2lk0pb6iOxGJt7H/view?usp=drive_link
+|Olalla|https://drive.google.com/file/d/1V48Qa74qpMLQgq9yIBsA65Y4EPWWatqu/view?usp=drive_link
+|Drácula|https://drive.google.com/file/d/1EfdxZG1aq2ew9UB2coUJ-1Xt7VVNE4Oo/view?usp=drive_link
+|La casa del juez|https://drive.google.com/file/d/1-phpMbKQLhMuUbcm1CLO96JVdS8lIuMp/view?usp=drive_link
+|El jardinero|https://drive.google.com/file/d/1_rBkIloYIwECwFVRVg7NJOXp3scWb9eo/view?usp=drive_link
+|Los elfos|https://drive.google.com/file/d/1vovEtc_cPE7UMH_sv5Ci_ZD6fF7gXRyh/view?usp=drive_link
+|El origen del mal|https://drive.google.com/file/d/1KUV3aO5iY1Ar-bGZ8p_W71Pit0M7eGzs/view?usp=drive_link
+|La muerte de Iván Ilich|https://drive.google.com/file/d/1EB3u4Vg-TlNvruXolwap6l4QrdqNiRNr/view?usp=drive_link
+|Demetrio Rudin|https://drive.google.com/file/d/1U2zTW9pLG5P9rBY3-qW9zUTPa4LPuncV/view?usp=drive_link
+|De la Tierra a la Luna|https://drive.google.com/file/d/1QFno5G8ifvLQpHd5US5EEE-r5raTNE-F/view?usp=drive_link
+|El castillo de los Cárpatos|https://drive.google.com/file/d/1hpsVZ_3SBETwyJS3TBKWHNEUXyJmKX1V/view?usp=drive_link
+|El eterno Adán|https://drive.google.com/file/d/1832u4EvX_mUWUXsSQzIDNfa-LosVLpm7/view?usp=drive_link
+|Cándido o el optimismo|https://drive.google.com/file/d/1iw_fg3loRHZozeJv9yo0NTZq2gx3bado/view?usp=drive_link
+|Un maravilloso cuento oriental de un santo desnudo|https://drive.google.com/file/d/1SdMCkgX1SkK0qhosBJX8MPzZOtnBOXIr/view?usp=drive_link
+|El fantasma de Canterville|https://drive.google.com/file/d/19b5TvslCEKkCjxr_vqYTBPAWXi_bg0cO/view?usp=drive_link
+|Una partida de ajedrez|https://drive.google.com/file/d/1PpcJphYhERP3N39kmBK4DulnhBpMTvax/view?usp=drive_link
+Francisco Valverde|Un Angel Me Acompaña|https://drive.google.com/file/d/0B_yJXv2pEPBwRTBiMng3WFUxR2s/view?usp=drivesdk&resourcekey=0-nXHOvzdLNeJGWNRwynuVAQ
+Eduardo Vaquerizo|Una Esfera Perfecta|https://drive.google.com/file/d/0B_yJXv2pEPBwTGhkMXlVbXRnUnc/view?usp=drivesdk&resourcekey=0-XKiuR-K2XCKuKWOZlTDUgQ
+Eduardo Vaquerizo|Per Adspera|https://drive.google.com/file/d/0B_yJXv2pEPBwby1QNkJWeTYxTEk/view?usp=drivesdk&resourcekey=0-p4olC06Oo7dfEeIn5FG_eg
+Eduardo Vaquerizo|Peor que la Muerte|https://drive.google.com/file/d/0B_yJXv2pEPBwMldnY2hYUnFKTVU/view?usp=drivesdk&resourcekey=0-6Uuw2hln58ty4nbTEr9BSA
+Eduardo Vaquerizo|Luna|https://drive.google.com/file/d/0B_yJXv2pEPBwZFRlNFZqcmhHbTg/view?usp=drivesdk&resourcekey=0--5wXliMC5o1OSqyWfYa7oA
+Eduardo Vaquerizo|Llorando silencio|https://drive.google.com/file/d/0B_yJXv2pEPBwRFFQQ1I0enpwRTA/view?usp=drivesdk&resourcekey=0-6Nva6NQIfrRjD3K7Vr99lw
+Eduardo Vaquerizo|El Regalo de Reyes|https://drive.google.com/file/d/0B_yJXv2pEPBwMTBTVGRUalJPaUE/view?usp=drivesdk&resourcekey=0-37gQZjZnTNo7sJ-6f5vY8A
+Eduardo Vaquerizo|Ejercitos|https://drive.google.com/file/d/0B_yJXv2pEPBwTzkzYnNxOWxOQTA/view?usp=drivesdk&resourcekey=0-7IdZBe8dPgFrV8O2RVLoUQ
+Hermeticum Votivum|Tabula Maxima Hiperborea|https://drive.google.com/file/d/0B_yJXv2pEPBwa2lMU01NZjFsUGc/view?usp=drivesdk&resourcekey=0-Qj_tSZ5IhKMe3V7FQZegcw
+Juan Bautista Alberdi|Viajes Y Descripciones|https://drive.google.com/file/d/0B_yJXv2pEPBwb0dwRUhlUGFfTEk/view?usp=drivesdk&resourcekey=0-_HNGcWSvGM5KpD_X36Xmaw
+Juan Bautista Alberdi|Una Entrevista Historica|https://drive.google.com/file/d/0B_yJXv2pEPBwdjJaMWNEQkVFS00/view?usp=drivesdk&resourcekey=0-H9WjlrXgVPsG70M2umIlqQ
+Juan Bautista Alberdi|Tobias|https://drive.google.com/file/d/0B_yJXv2pEPBwNmhzTXZxNzYzeDA/view?usp=drivesdk&resourcekey=0-6Vj-fIJaxCuHrK8zoGQTag
+Juan Bautista Alberdi|Tobias o la Carcel a la vela|https://drive.google.com/file/d/0B_yJXv2pEPBwNWV4c0pJci03OGs/view?usp=drivesdk&resourcekey=0--sWYrCnNb7j0lceDb3-RtQ
+Juan Bautista Alberdi|Reaccion Contra El Españolismo|https://drive.google.com/file/d/0B_yJXv2pEPBwZzlTY1RBYWJiTTQ/view?usp=drivesdk&resourcekey=0-LE7K6jUaPvyPnWgb3ZSvQw
+Juan Bautista Alberdi|Predicar en desiertos|https://drive.google.com/file/d/0B_yJXv2pEPBwbG9jYVlib1JqcHM/view?usp=drivesdk&resourcekey=0-FN5FOj6SA2-dirLffdnHjg
+Juan Bautista Alberdi|Pensamiento|https://drive.google.com/file/d/0B_yJXv2pEPBwMDJRSzVOZ0JWdkU/view?usp=drivesdk&resourcekey=0-KRKMKlc7lJ_3E-NARSJr3g
+Juan Bautista Alberdi|Palabras de un ausente|https://drive.google.com/file/d/0B_yJXv2pEPBwb3VSUDNOZnZ3M2M/view?usp=drivesdk&resourcekey=0-fK6Rc5409FXWkzwqvk6y2w
+Juan Bautista Alberdi|La generacion presente a la faz de la generacion pasada|https://drive.google.com/file/d/0B_yJXv2pEPBwUUpVOGFaM3BQams/view?usp=drivesdk&resourcekey=0-fea04mS-dToUivZU-aBGrA
+Juan Bautista Alberdi|Ideas para presidir a la confeccion del curso de filosofia contenporanea|https://drive.google.com/file/d/0B_yJXv2pEPBwMGdoaEh4M3E3Tk0/view?usp=drivesdk&resourcekey=0-C3PDlWCe20M5h0FStYWMMQ
+Juan Bautista Alberdi|Gigante Amapolas y sus formidables enemigos|https://drive.google.com/file/d/0B_yJXv2pEPBwNloyNVkzOFROajA/view?usp=drivesdk&resourcekey=0-AmlamAwIfCgzXAtIFfyU6w
+Juan Bautista Alberdi|El Crimen de la Guerra|https://drive.google.com/file/d/0B_yJXv2pEPBwUEs4MEhndUQyelk/view?usp=drivesdk&resourcekey=0-oXgOcL1HGjRJlokj5FYOCw
+Juan Bautista Alberdi|Bases y punto de partida pata la organizacion politica de la Republica A|https://drive.google.com/file/d/0B_yJXv2pEPBwT2tMd0YzZ2VGR1E/view?usp=drivesdk&resourcekey=0-7wSJTkPB2KPk9UJvL38N1A
+Hernando Acuña|Sonetos|https://drive.google.com/file/d/0B_yJXv2pEPBwMVdCLXNQRnRlQWM/view?usp=drivesdk&resourcekey=0-XOycDrMkROMm2YDAhGSZXQ
+Hernando Acuña|Cuatro Poemas|https://drive.google.com/file/d/0B_yJXv2pEPBwSjJ1Nlh0dF90LWs/view?usp=drivesdk&resourcekey=0-x9JL3XMkJ22b5sJc3xCgsQ
+Lloyd Alexander|Cronicas de Prydain 5 _ El Gran Rey|https://drive.google.com/file/d/0B_yJXv2pEPBwZ0dHX2Vxejh6MzA/view?usp=drivesdk&resourcekey=0-BoIXvlqJ5VPD5Ad6amIHQw
+Lloyd Alexander|Cronicas de Prydain 4 _ Taran El Vagabundo|https://drive.google.com/file/d/0B_yJXv2pEPBwbVdrNHFQVENTMWM/view?usp=drivesdk&resourcekey=0-lB8Q3GA3wrSLTa2E7H5-Sw
+Lloyd Alexander|Cronicas de Prydain 3 _ El Castillo De Llyr|https://drive.google.com/file/d/0B_yJXv2pEPBwbmFwcWpXZ0V2cW8/view?usp=drivesdk&resourcekey=0-_tTlh457EbPcdrMlZ4jPrA
+Lloyd Alexander|Cronicas de Prydain 2 _ El Caldero Magico|https://drive.google.com/file/d/0B_yJXv2pEPBwbWoxVFhxYmdSSms/view?usp=drivesdk&resourcekey=0-xJEODvywiKTMGNQqui0njA
+Lloyd Alexander|Cronicas de Prydain 1 _ El libro De Los Tres|https://drive.google.com/file/d/0B_yJXv2pEPBwWktRR0xoZl9SamM/view?usp=drivesdk&resourcekey=0-2kkeY9cfaQLIDzXg2fcZJg
+Mario Vargas Llosa|Seleccion de Articulos|https://drive.google.com/file/d/0B_yJXv2pEPBwTHF0ZlRSd1U3YnM/view?usp=drivesdk&resourcekey=0-_yySkWwF5qwq6K477e8dHw
+Mario Vargas Llosa|Quien Mato A Palomino Molero|https://drive.google.com/file/d/0B_yJXv2pEPBwQVFqeTdJbGVvUDg/view?usp=drivesdk&resourcekey=0-gWRQPSNWtMQNaV-srLQQMg
+Mario Vargas Llosa|Pantaleon Y Las Visitadoras|https://drive.google.com/file/d/0B_yJXv2pEPBwWmgtQ1lCb0VXMDA/view?usp=drivesdk&resourcekey=0-Cq9pCZmG5SfOipbhmR615g
+Mario Vargas Llosa|Los Cuadernos De Don Rigoberto|https://drive.google.com/file/d/0B_yJXv2pEPBwOVZzVF9UUk10Y2s/view?usp=drivesdk&resourcekey=0-rPBSp2pWEqhV2NP2G7-_cQ
+Mario Vargas Llosa|Lituma En Los Andes|https://drive.google.com/file/d/0B_yJXv2pEPBwUlU2RFBTYm5sRVk/view?usp=drivesdk&resourcekey=0-LrQupkll6P19Yy60id_4fg
+Mario Vargas Llosa|La Tia Julia Y El Escribidor|https://drive.google.com/file/d/0B_yJXv2pEPBweEw2b0lOcTdpS28/view?usp=drivesdk&resourcekey=0-O9ZRCyzhWm8gJGI-hpykEA
+Mario Vargas Llosa|La Guerra Del Fin Del Mundo|https://drive.google.com/file/d/0B_yJXv2pEPBwSkNPVEQzczU1cVE/view?usp=drivesdk&resourcekey=0-8Jtz-t1WnK6STkiZLy_tPw
+Mario Vargas Llosa|La fiesta del chivo|https://drive.google.com/file/d/0B_yJXv2pEPBwdm0tMlUzTG9VWnM/view?usp=drivesdk&resourcekey=0-39pm7Kjzu8SmztLxEnrXsA
+Mario Vargas Llosa|El Paraiso En La Otra Esquina|https://drive.google.com/file/d/0B_yJXv2pEPBwMElnZXUwTUlRalU/view?usp=drivesdk&resourcekey=0-rl15dRIBF_KLt3TB1JMsvw
+Mario Vargas Llosa|Cartas a Un Joven Novelista|https://drive.google.com/file/d/0B_yJXv2pEPBwbnVsSkdKZkJJV00/view?usp=drivesdk&resourcekey=0-DbEW052PS7Fx-Me9b0sZsg
+Pierre Versins|Vaya Planeta|https://drive.google.com/file/d/0B_yJXv2pEPBwczhoVktEanhXR3M/view?usp=drivesdk&resourcekey=0-pX00ldTNJZUyoh6KTVg0vA
+Ilya Varshavsky|El Conflicto|https://drive.google.com/file/d/0B_yJXv2pEPBwVzhBYWhpUFZWT3M/view?usp=drivesdk&resourcekey=0-ikdzWn8yk9Cti57zO56IHA
+Luisa M. Alcott|Un Hueco En La Pared|https://drive.google.com/file/d/0B_yJXv2pEPBwRjYwdmpTeUJFWW8/view?usp=drivesdk&resourcekey=0-pyIqW70-PxxW0AFSjyRYXg
+Luisa M. Alcott|Otra mujercita|https://drive.google.com/file/d/0B_yJXv2pEPBwb294eTBvVngzS1U/view?usp=drivesdk&resourcekey=0-QgGZf50LTRO2B4KiLAZpHA
+Luisa M. Alcott|Ocho Primos|https://drive.google.com/file/d/0B_yJXv2pEPBwdFhrVUtUZmVrdzg/view?usp=drivesdk&resourcekey=0-UQx5lEGHnKr1wxfl6gu6xg
+Luisa M. Alcott|Musica Y Macarrones|https://drive.google.com/file/d/0B_yJXv2pEPBwZTdWUmZmQVNENU0/view?usp=drivesdk&resourcekey=0-fc6-evJAFcDsiGEPgylANg
+Luisa M. Alcott|Mujercitas|https://drive.google.com/file/d/0B_yJXv2pEPBwX1FwM2lIbThIbDA/view?usp=drivesdk&resourcekey=0-kRFxHnA0XUeWZz8WwibPwA
+Luisa M. Alcott|Merienda|https://drive.google.com/file/d/0B_yJXv2pEPBwVUV5TlQxbEhucnc/view?usp=drivesdk&resourcekey=0-Dzb3L8NfIVBugNnnIcU_gg
+Luisa M. Alcott|Las Mujercitas Se Casan|https://drive.google.com/file/d/0B_yJXv2pEPBwQkI1RExlNmh4ZU0/view?usp=drivesdk&resourcekey=0-9xy22aymknqOoRJaQrMmQA
+Luisa M. Alcott|La Liebre Y La Tortuga|https://drive.google.com/file/d/0B_yJXv2pEPBwX1FxeHk3YlY0Rmc/view?usp=drivesdk&resourcekey=0-Z5_Z0MBFF7-HGtzmpLfJwg
+Luisa M. Alcott|La Fiesta De Los Cubiertos|https://drive.google.com/file/d/0B_yJXv2pEPBwak1Tcy1rRFcwUkU/view?usp=drivesdk&resourcekey=0-uBz-PDz7PaDkKlelgV3Rww
+Luisa M. Alcott|La Clase De Cocina|https://drive.google.com/file/d/0B_yJXv2pEPBwNGJtMkNOcklZdzA/view?usp=drivesdk&resourcekey=0-jcPGCZG8FK_C5BCzBJWh6Q
+Luisa M. Alcott|Jack Y Jill|https://drive.google.com/file/d/0B_yJXv2pEPBwNWVXZmlnNEZqSVk/view?usp=drivesdk&resourcekey=0-WKIN64eQ6S6Ls_ncm3XQoQ
+Luisa M. Alcott|Hombrecitos|https://drive.google.com/file/d/0B_yJXv2pEPBwV1dieW9CSkZ0eTA/view?usp=drivesdk&resourcekey=0-PSaeo8WXK6p2WTK_BcmtTg
+Luisa M. Alcott|Excursion Accidentada|https://drive.google.com/file/d/0B_yJXv2pEPBwSjNfR2QtdVpUZFk/view?usp=drivesdk&resourcekey=0-2RxnKerXMSKNfuGc_Qi1Iw
+Luisa M. Alcott|El Mantel De Tabby|https://drive.google.com/file/d/0B_yJXv2pEPBwSnI2WjR4YzRwems/view?usp=drivesdk&resourcekey=0-Ns5GNYu6GEDr3YpeSymFVQ
+Luisa M. Alcott|El Buen Duende Y La Princesa|https://drive.google.com/file/d/0B_yJXv2pEPBwX3F2THNjZjEyRUU/view?usp=drivesdk&resourcekey=0-IsB_WsI7rH_r9GJ9SlRLtQ
+Luisa M. Alcott|Bee! Bee!|https://drive.google.com/file/d/0B_yJXv2pEPBwcjlJOUEzazFCc3c/view?usp=drivesdk&resourcekey=0-xvaIm_aAufRM2-_UGEKwig
+Luisa M. Alcott|Bajo las lilas|https://drive.google.com/file/d/0B_yJXv2pEPBwZjIzTGgzY0EwNW8/view?usp=drivesdk&resourcekey=0-RBE41H3YYkymf7urO2jVVg
+Friedrich Von Hardenberg|Europa O La Cristiandad|https://drive.google.com/file/d/0B_yJXv2pEPBwWGY3QkZsaHpTWVE/view?usp=drivesdk&resourcekey=0-_KgDjEYNYJUaGgDQNdtldA
+Alfred de Vigny|Servidumbre y Grandeza Militar|https://drive.google.com/file/d/0B_yJXv2pEPBwMlBqZnJNQUhaVjA/view?usp=drivesdk&resourcekey=0-BYOP1ym8cliZNfThpB4B6g
+Alfred de Vigny|Antologia Poetica|https://drive.google.com/file/d/0B_yJXv2pEPBwUklEQm0ycFdkRkU/view?usp=drivesdk&resourcekey=0-KivgJ3BsAxYPEmy80XPD0w
+Juan Ruiz de Alarcón y Mendoza|Todo Es Ventura|https://drive.google.com/file/d/0B_yJXv2pEPBwVzBON0xLZFNTSTg/view?usp=drivesdk&resourcekey=0-jj6pPQ1lHy1n764gBxv1Eg
+Juan Ruiz de Alarcón y Mendoza|Quien Mal Anda En Mal Acaba|https://drive.google.com/file/d/0B_yJXv2pEPBwMnZDUDUydThLclk/view?usp=drivesdk&resourcekey=0-ahVDS48VGdIENH6P3UVPYA
+Juan Ruiz de Alarcón y Mendoza|Quien Engaña Mas a Quien|https://drive.google.com/file/d/0B_yJXv2pEPBwREhCc183cmE3THc/view?usp=drivesdk&resourcekey=0-4xWVvAVJIIrZNFMnGp57oQ
+Juan Ruiz de Alarcón y Mendoza|Mudarse Por Mejorarse|https://drive.google.com/file/d/0B_yJXv2pEPBwQjBKTmNIZkgzaHc/view?usp=drivesdk&resourcekey=0-f7quV7TEs9I47xMolqJVOw
+Juan Ruiz de Alarcón y Mendoza|Los Pechos Privilegiados|https://drive.google.com/file/d/0B_yJXv2pEPBwNjdpWlkwZWJtdjA/view?usp=drivesdk&resourcekey=0-reWuO-u2zMesA0UJDZDvPQ
+Juan Ruiz de Alarcón y Mendoza|Los Favores Del Mundo|https://drive.google.com/file/d/0B_yJXv2pEPBwU0Vwcm1GX3AzYmM/view?usp=drivesdk&resourcekey=0-2r7lqiaJ5JQeEB5z9whKcw
+Juan Ruiz de Alarcón y Mendoza|Los Empeños De Un Engaño|https://drive.google.com/file/d/0B_yJXv2pEPBwWGRTdEpQUEhsZzQ/view?usp=drivesdk&resourcekey=0-yp2LPlMpFiK9CjNWcj8RWw
+Juan Ruiz de Alarcón y Mendoza|Las Prueba De Las Promesas|https://drive.google.com/file/d/0B_yJXv2pEPBwZnRwNWJMWGNldWs/view?usp=drivesdk&resourcekey=0-U7zNWULGvEY6ypz18mzRLA
+Juan Ruiz de Alarcón y Mendoza|Las Paredes Oyen|https://drive.google.com/file/d/0B_yJXv2pEPBwamNZSzRIbEx3c1U/view?usp=drivesdk&resourcekey=0-JLc98zi-guTJ8qvr_heV_Q
+Juan Ruiz de Alarcón y Mendoza|La Verdad Sospechosa|https://drive.google.com/file/d/0B_yJXv2pEPBwVGxEU3d6bHBuUG8/view?usp=drivesdk&resourcekey=0-jLkSwPZxZoE5G66PFambJQ
+Juan Ruiz de Alarcón y Mendoza|La Manganilla de Melilla|https://drive.google.com/file/d/0B_yJXv2pEPBwbzRBd3hPUFhNZXM/view?usp=drivesdk&resourcekey=0-mJ2gwmHNQifEtE9K4a64ZQ
+Juan Ruiz de Alarcón y Mendoza|La Industria y La Suerte|https://drive.google.com/file/d/0B_yJXv2pEPBwVkFlV1IwQUtKUlE/view?usp=drivesdk&resourcekey=0-qj3m7J75WFeBL1SyxrCJdQ
+Juan Ruiz de Alarcón y Mendoza|La Culpa Busca La Pena|https://drive.google.com/file/d/0B_yJXv2pEPBwWDYybkJuS2dGUzA/view?usp=drivesdk&resourcekey=0-9sljcA-EQVzDrnUvlpNwnQ
+Juan Ruiz de Alarcón y Mendoza|La cueva de Salamanca|https://drive.google.com/file/d/0B_yJXv2pEPBweEpnYU1yOTh5MWc/view?usp=drivesdk&resourcekey=0-aqOr4GIVmD1Q7spowBnnZA
+Juan Ruiz de Alarcón y Mendoza|La Crueldad Por El Honor|https://drive.google.com/file/d/0B_yJXv2pEPBwVUg5cDdmT1h4T1U/view?usp=drivesdk&resourcekey=0-fAOpGiLEl7bcEnP6aNLB4g
+Juan Ruiz de Alarcón y Mendoza|La Amistad Castigada|https://drive.google.com/file/d/0B_yJXv2pEPBwcUM2Ti14b1EtQ1E/view?usp=drivesdk&resourcekey=0-NP-a5AV3YIQYj01_xG25Ng
+Juan Ruiz de Alarcón y Mendoza|Ganar Amigos|https://drive.google.com/file/d/0B_yJXv2pEPBwWDNFcm4yc2RBbEU/view?usp=drivesdk&resourcekey=0-kUMS6d521JOseanaZCSQTg
+Juan Ruiz de Alarcón y Mendoza|El Tejedor De Segovia|https://drive.google.com/file/d/0B_yJXv2pEPBwQkJ0MG9zRE5ESU0/view?usp=drivesdk&resourcekey=0-D4R6SEccwSIRZRPB0k1eeg
+Juan Ruiz de Alarcón y Mendoza|El Semejante a Si Mismo|https://drive.google.com/file/d/0B_yJXv2pEPBwSElNbTN4Yi1rRkk/view?usp=drivesdk&resourcekey=0-Kx_p92Rqci9TlTzkaJHYlA
+Juan Ruiz de Alarcón y Mendoza|El Examen De Maridos|https://drive.google.com/file/d/0B_yJXv2pEPBwRGNKSDI2Smtsak0/view?usp=drivesdk&resourcekey=0-xl45PlC3fSakyN_wXyAPdQ
+Juan Ruiz de Alarcón y Mendoza|El Dueño De Las Estrellas|https://drive.google.com/file/d/0B_yJXv2pEPBwZloydDQ4ZktkRVE/view?usp=drivesdk&resourcekey=0-uTFcodhOTz_1k4dvLkoi3g
+Juan Ruiz de Alarcón y Mendoza|El Desdichado En Fingir|https://drive.google.com/file/d/0B_yJXv2pEPBwTlBuWVlFdFNJaGM/view?usp=drivesdk&resourcekey=0-IOb5E_Z5JzFrGtT0ZzXaiA
+Juan Ruiz de Alarcón y Mendoza|El Anticristo|https://drive.google.com/file/d/0B_yJXv2pEPBwLWRJMzUwdU5xdk0/view?usp=drivesdk&resourcekey=0-fnduvMjSjVM3TO6rYJNgYg
+Juan Ruiz de Alarcón y Mendoza|Don Domingo de Don Blas|https://drive.google.com/file/d/0B_yJXv2pEPBwU2RSWTRWVlpSNzA/view?usp=drivesdk&resourcekey=0-_UNuo9XOxdCxE_AIQsJJqQ
+Patricia Verdugo|Los Zarpazos Del Puma|https://drive.google.com/file/d/0B_yJXv2pEPBwbXkxNld4eUhpUWs/view?usp=drivesdk&resourcekey=0-YVOGiEQh4_QUk7jH3LYeyg
+Josefina Vásquez Mota|Dios Mio Hazme Viuda Por Favor|https://drive.google.com/file/d/0B_yJXv2pEPBwWVhuWGlhajlicGM/view?usp=drivesdk&resourcekey=0-4YNOANZMijwQqrvJVweQBQ
+Carlos D. Vásquez|Repuestos Repuestos|https://drive.google.com/file/d/0B_yJXv2pEPBwN1lPY1U5RHdQcW8/view?usp=drivesdk&resourcekey=0-G5WPvpkKl7S9DBATcvKlog
+Ramón María Valle Inclan|Sonata de primavera|https://drive.google.com/file/d/0B_yJXv2pEPBwTF9oOVBZQzRYUXc/view?usp=drivesdk&resourcekey=0--M4CEIszCDkdzpGHetnr4Q
+Ramón María Valle Inclan|Luces De Bohemia|https://drive.google.com/file/d/0B_yJXv2pEPBwVFQ1aXhSNXNtZHc/view?usp=drivesdk&resourcekey=0-JZ-503_Od_xygkjbIWN0GQ
+Ramón María Valle Inclan|Beatriz Satanas|https://drive.google.com/file/d/0B_yJXv2pEPBwYUdyNFJyZE9UNjg/view?usp=drivesdk&resourcekey=0-wfde8E322FszrbD9_tWHcQ
+Joseph Von Eichendorff|El Anillo|https://drive.google.com/file/d/0B_yJXv2pEPBwQVI4aFEzY2ZISmM/view?usp=drivesdk&resourcekey=0--ouZxQp1XT9F7T_r3geDIA
+Isabel Allende|Retrato En Sepia|https://drive.google.com/file/d/0B_yJXv2pEPBwRGhpU203cWZuQUU/view?usp=drivesdk&resourcekey=0-njjc8za9JuqWjPN_VMpxSQ
+Isabel Allende|Pinochet sin odio|https://drive.google.com/file/d/0B_yJXv2pEPBwa0xWVmdHLUJRYk0/view?usp=drivesdk&resourcekey=0-A507oR9UxR9yFolEShA54g
+Isabel Allende|Paula|https://drive.google.com/file/d/0B_yJXv2pEPBwa3ZOczh6R3FDRmM/view?usp=drivesdk&resourcekey=0-wFfqzByskqzs9EtQIWcxmw
+Isabel Allende|Mi Pais Inventado|https://drive.google.com/file/d/0B_yJXv2pEPBwOURMaTZnRWM3SWc/view?usp=drivesdk&resourcekey=0-gRfA3PeJ4QXnRIgb70dYXA
+Isabel Allende|La Ciudad de las bestias|https://drive.google.com/file/d/0B_yJXv2pEPBwaXVwOURMdGdwQlk/view?usp=drivesdk&resourcekey=0-VmiHKqfIqacRTUwyo89ZwQ
+Isabel Allende|La casa de los espiritus|https://drive.google.com/file/d/0B_yJXv2pEPBwTmI2T1RRQ1FNbUU/view?usp=drivesdk&resourcekey=0-GeKm4RnfAp2wotox3UTA_g
+Isabel Allende|Hija de la fortuna|https://drive.google.com/file/d/0B_yJXv2pEPBwUkVNR0EydGNYeTA/view?usp=drivesdk&resourcekey=0-UCI1Ic20WR2YC3ptgEd3Qw
+Isabel Allende|Eva Luna|https://drive.google.com/file/d/0B_yJXv2pEPBwOXdHczFpQVZ1elU/view?usp=drivesdk&resourcekey=0-OmFRkuyYPHi0275M3-W_4Q
+Isabel Allende|El Zorro|https://drive.google.com/file/d/0B_yJXv2pEPBwR3U2Vlh1U25Valk/view?usp=drivesdk&resourcekey=0-E_s1eHmZBzWwOAOe5wkvCQ
+Isabel Allende|El Sexo Y Yo|https://drive.google.com/file/d/0B_yJXv2pEPBwQ1JDc1gzVXZ2dVk/view?usp=drivesdk&resourcekey=0-BZsa4X6AqyqH6eAc68Z8qg
+Isabel Allende|El Reino Del Dragon De Oro|https://drive.google.com/file/d/0B_yJXv2pEPBwWDFHWU1qV0pjckE/view?usp=drivesdk&resourcekey=0-JGII7_demuhXpVBPOtMsfg
+Isabel Allende|El Plan Infinito (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwTUVpRWVCak5qMk0/view?usp=drivesdk&resourcekey=0-nlvw4KRxOC7mmiQHGoC1gA
+Isabel Allende|El Plan Infinito (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwNXBoRnpQSi1SSVE/view?usp=drivesdk&resourcekey=0-kb-jifI-toRjHmbJBfmymA
+Isabel Allende|El Hombre de Plata|https://drive.google.com/file/d/0B_yJXv2pEPBwS1NQWFhfRkR4R1k/view?usp=drivesdk&resourcekey=0-k29jupb3IX_Y7xzIh8XwPw
+Isabel Allende|De Amor Y De Sombra|https://drive.google.com/file/d/0B_yJXv2pEPBwMFlNZDdVNzEzQzg/view?usp=drivesdk&resourcekey=0-S2nVskf78vMORQ8tjy0ADg
+Isabel Allende|Cuentos De Eva Luna|https://drive.google.com/file/d/0B_yJXv2pEPBwdnRqMlRDRENwX28/view?usp=drivesdk&resourcekey=0-gO8ULoAyA0eir1z0I0prKw
+Alberto Vanasco|Post Bombum|https://drive.google.com/file/d/0B_yJXv2pEPBwenItQnVEbks0Yms/view?usp=drivesdk&resourcekey=0-CVcc-Xxm2Oy8afe4RePdRw
+Pina Antonio Velasco|Tlacaelel|https://drive.google.com/file/d/0B_yJXv2pEPBwVGxLa1FBaUFjVUE/view?usp=drivesdk&resourcekey=0-Vd6DMC2vTL5W1zf75SM8QA
+Brian W. Aldiss|Un Mundo Devastado|https://drive.google.com/file/d/0B_yJXv2pEPBweV9FR3l4cW5URGc/view?usp=drivesdk&resourcekey=0-xc_BdzhLw5d2mlTyqENjwQ
+Brian W. Aldiss|Un Marte Mas Blanco|https://drive.google.com/file/d/0B_yJXv2pEPBwNGViZEhFZFpUelE/view?usp=drivesdk&resourcekey=0-DjRi8uERG1P1qVYQODMrYQ
+Brian W. Aldiss|Trama Estelar|https://drive.google.com/file/d/0B_yJXv2pEPBwMmo2el9DeEhhY0E/view?usp=drivesdk&resourcekey=0-7K_bAW8202m8GMIZkivgow
+Brian W. Aldiss|T|https://drive.google.com/file/d/0B_yJXv2pEPBwZGh2QThNb2pnQU0/view?usp=drivesdk&resourcekey=0-kUy6i4qvWxrpaFbIzEfaaA
+Brian W. Aldiss|Quien Puede Reemplazar a un Hombre|https://drive.google.com/file/d/0B_yJXv2pEPBwazE1eWkxX2czSWs/view?usp=drivesdk&resourcekey=0-jp8TtdT2rhVFJKNY6HG01Q
+Brian W. Aldiss|Pobre Guerrero|https://drive.google.com/file/d/0B_yJXv2pEPBwZUFfQ2xRWWpOUUk/view?usp=drivesdk&resourcekey=0-0PTdOajk05dCvrwFxLeKUg
+Brian W. Aldiss|Plenisol|https://drive.google.com/file/d/0B_yJXv2pEPBwM3BsQ3hnaUYtQWs/view?usp=drivesdk&resourcekey=0-H2HXXHWxBcxpv4yEc6GOuw
+Brian W. Aldiss|Nataniel|https://drive.google.com/file/d/0B_yJXv2pEPBwTE14QlltVVlKczg/view?usp=drivesdk&resourcekey=0-85g32M_oMXPurGMkfxARng
+Brian W. Aldiss|Los Superjuguetes duran todo el Verano|https://drive.google.com/file/d/0B_yJXv2pEPBwajZ0RTdkeUJfQmc/view?usp=drivesdk&resourcekey=0-7wSbkWdV5_uTMjUuEy0-gQ
+Brian W. Aldiss|Los oscuros años luz|https://drive.google.com/file/d/0B_yJXv2pEPBwMVM4eXVYWHYwU3c/view?usp=drivesdk&resourcekey=0-2RJzzgO7JX-Vg4wINLBAmg
+Brian W. Aldiss|Las Ultimas Ordenes|https://drive.google.com/file/d/0B_yJXv2pEPBwQWtnM1JzX1BHaGM/view?usp=drivesdk&resourcekey=0-Nv8VIZ-KUoXhymzKeHZ0Lw
+Brian W. Aldiss|La Noche En Que Todo El Tiempo|https://drive.google.com/file/d/0B_yJXv2pEPBwYVU0alZCQkZxX1U/view?usp=drivesdk&resourcekey=0-Mk8pRngX4Zb17RDySpfTng
+Brian W. Aldiss|La Nave Estelar|https://drive.google.com/file/d/0B_yJXv2pEPBwYzJHLW8xbkJSVlU/view?usp=drivesdk&resourcekey=0-Y2EPxuBQqxOArRTd42fPdQ
+Brian W. Aldiss|La Estrella Imposible|https://drive.google.com/file/d/0B_yJXv2pEPBwenotOVlER2J3OVU/view?usp=drivesdk&resourcekey=0-ufX_J-SBV7UKT5H4kKjp_A
+Brian W. Aldiss|La Boveda Del Tiempo|https://drive.google.com/file/d/0B_yJXv2pEPBwQVlZWHUyMV9XQmc/view?usp=drivesdk&resourcekey=0-Sl46DdyemIi0YvnU5OKVPg
+Brian W. Aldiss|Herejias del Dios Inmenso|https://drive.google.com/file/d/0B_yJXv2pEPBwYkU1bU9GdENiTlE/view?usp=drivesdk&resourcekey=0-gEONogVYDxWvAqTeHh-p0g
+Brian W. Aldiss|Helioconia Invierno|https://drive.google.com/file/d/0B_yJXv2pEPBwZF9Ra3VEMjdJdzg/view?usp=drivesdk&resourcekey=0-M-sYWRCNY1kOLU9yngIQGA
+Brian W. Aldiss|Heliconia Verano|https://drive.google.com/file/d/0B_yJXv2pEPBwOS1YVHZSUVVuMDA/view?usp=drivesdk&resourcekey=0-GHFikqPypOSsRpp_eBIqwg
+Brian W. Aldiss|Heliconia Primavera|https://drive.google.com/file/d/0B_yJXv2pEPBwd2w4M09Ma2w3SFE/view?usp=drivesdk&resourcekey=0-hmdb2AYx9R3QteVC0m_c3g
+Brian W. Aldiss|Hacia Adelante|https://drive.google.com/file/d/0B_yJXv2pEPBwcWxMcHhuV2VuclE/view?usp=drivesdk&resourcekey=0-GYdr_TIjJ47r-nyDaSyUoQ
+Brian W. Aldiss|Galaxias Como Granos De Arena|https://drive.google.com/file/d/0B_yJXv2pEPBwQ1RVS1poQnRwWm8/view?usp=drivesdk&resourcekey=0-_9MdbLzULKvmYOAEdc5Bbg
+Brian W. Aldiss|Espacio Y Tiempo|https://drive.google.com/file/d/0B_yJXv2pEPBwTUU2MFZTczlacUE/view?usp=drivesdk&resourcekey=0-1VPLFI-aLxufsodRO3vPfw
+Brian W. Aldiss|Epilogo|https://drive.google.com/file/d/0B_yJXv2pEPBwbVphRWEwSkNPd1U/view?usp=drivesdk&resourcekey=0-hjHscCQdFdepfrriU9MoKQ
+Brian W. Aldiss|Entorno Total|https://drive.google.com/file/d/0B_yJXv2pEPBwUmNkZFpJdHF6anM/view?usp=drivesdk&resourcekey=0-11Aq7YX5smyFrCGDv87Chw
+Brian W. Aldiss|Enemigos del Sistema|https://drive.google.com/file/d/0B_yJXv2pEPBwXzZjU05oZndwRFk/view?usp=drivesdk&resourcekey=0-DtSVgv1TqpSUaPCMmv--3w
+Brian W. Aldiss|En la Arena|https://drive.google.com/file/d/0B_yJXv2pEPBwSk5FWG5HQVlOTmc/view?usp=drivesdk&resourcekey=0-uX5asttaNPW8e6hRT_HWRA
+Brian W. Aldiss|El Suave Dilema|https://drive.google.com/file/d/0B_yJXv2pEPBwTTdyZmRZbWVMVkk/view?usp=drivesdk&resourcekey=0-JjWMMOmP_9-XLdSuMAg01Q
+Brian W. Aldiss|El Hombre En Su Tiempo|https://drive.google.com/file/d/0B_yJXv2pEPBwUHAtS2FFOUg2Vjg/view?usp=drivesdk&resourcekey=0-ylCUW4tjqROL2WYdwVy1OA
+Brian W. Aldiss|El Exterior|https://drive.google.com/file/d/0B_yJXv2pEPBwbWVXcEZNa0U4bDQ/view?usp=drivesdk&resourcekey=0-qSuz_hSqP5vWeKa5RzA3NQ
+Brian W. Aldiss|El Arbol de Saliva|https://drive.google.com/file/d/0B_yJXv2pEPBwcTdNOVpweFRIdkU/view?usp=drivesdk&resourcekey=0-xo1ItWygXwUBlqkwOeyOww
+Brian W. Aldiss|Cuando la Tierra este Muerta|https://drive.google.com/file/d/0B_yJXv2pEPBwNElKRm5MbklDRGs/view?usp=drivesdk&resourcekey=0-gppgta3b8X6sOO54O4ZE_g
+Brian W. Aldiss|Criaturas Del Apogeo|https://drive.google.com/file/d/0B_yJXv2pEPBwNGlJc0FEb3RRZWM/view?usp=drivesdk&resourcekey=0-VMD7oA1tHC53FpBEWG_Z5g
+Brian W. Aldiss|Como se puede reemplazar a un hombre|https://drive.google.com/file/d/0B_yJXv2pEPBwYWtGWFFmak9mcVk/view?usp=drivesdk&resourcekey=0-Z5qX_lVq_k2vDw3xqJYd_A
+Brian W. Aldiss|Capullo En Flor|https://drive.google.com/file/d/0B_yJXv2pEPBwS0pVeHF3RGtkRmM/view?usp=drivesdk&resourcekey=0-0X8c_TE59M24t6GOretM6A
+Brian W. Aldiss|Barbagris|https://drive.google.com/file/d/0B_yJXv2pEPBwZVN1azNYTjJ5RTg/view?usp=drivesdk&resourcekey=0-66X20HFzydcFrfwYSiOZsg
+Brian W. Aldiss|Afuera|https://drive.google.com/file/d/0B_yJXv2pEPBwU25CSFd4V29GRFE/view?usp=drivesdk&resourcekey=0-eg2RbTFbDx2dM6RYyXNOlQ
+Abad Vonier|La Victoria De Cristo|https://drive.google.com/file/d/0B_yJXv2pEPBwVmhWaHB0N2ZZMDA/view?usp=drivesdk&resourcekey=0-WikBe1VOlgzKmF5kwJRIkg
+Álvaro Vargas Llosa|Reino Unido, El Socialismo Arrepentido|https://drive.google.com/file/d/0B_yJXv2pEPBwTVZSMW9vdkltcDA/view?usp=drivesdk&resourcekey=0-XajddVTjTJPYVlqP7UaNDA
+Álvaro Vargas Llosa|Morir de a Pocos en Bihac|https://drive.google.com/file/d/0B_yJXv2pEPBwZkFHSTBGUVBPSXM/view?usp=drivesdk&resourcekey=0-5kNkfetBL_KFcN4kGo320A
+Álvaro Vargas Llosa|Isaiah Berlin, el Otro Liberal|https://drive.google.com/file/d/0B_yJXv2pEPBwazk4bzRfVzQzTjg/view?usp=drivesdk&resourcekey=0-Qu8MJlX2fZlXK3TR6NNCgA
+Álvaro Vargas Llosa|El Ultimo Suspiro del Moro|https://drive.google.com/file/d/0B_yJXv2pEPBwUXR0djRDYjRiejA/view?usp=drivesdk&resourcekey=0-v5uBYsxkd4WEFFqU0_bU-g
+Álvaro Vargas Llosa|El Arte Mediocre Una Entrevista con Ernst Gombrich|https://drive.google.com/file/d/0B_yJXv2pEPBwTURpLUlyN0ZvWHM/view?usp=drivesdk&resourcekey=0-6u3YDOnVvgIogvNfgxbVZA
+Gore Vida|Mesias|https://drive.google.com/file/d/0B_yJXv2pEPBwTm5XbmFwTE5PX0U/view?usp=drivesdk&resourcekey=0-Xv8LCT0Ovr67Q-01RvUs7w
+Fernando Vega|Agustin Varilla|https://drive.google.com/file/d/0B_yJXv2pEPBwUUw5dW5xRmRocFE/view?usp=drivesdk&resourcekey=0-6Z_7YiezJjZ6NN7yGla2Wg
+Fernando Vega|Domini Canes (Los Perros del Señor)|https://drive.google.com/file/d/0B_yJXv2pEPBwdVlXQ1hEUlZlTWM/view?usp=drivesdk&resourcekey=0-KE6JdT_cSinnDglnzj9dZg
+Douglas Adams|Zaphod un trabajo seguro|https://drive.google.com/file/d/0B_yJXv2pEPBwUldBalJ4Ri0ta0U/view?usp=drivesdk&resourcekey=0-_V4V8Sf55iiITU5QWHBOgg
+Douglas Adams|La Vida En El Universo Y Todo Lo Demas|https://drive.google.com/file/d/0B_yJXv2pEPBwOUZMa040Tm85ZVE/view?usp=drivesdk&resourcekey=0-0kfb29QKgAJtDzjGx7l8fw
+Douglas Adams|Informe Sobre la Tierra|https://drive.google.com/file/d/0B_yJXv2pEPBwTHE2SjRCVzZfUTQ/view?usp=drivesdk&resourcekey=0-UmlNoY10CUrEPR4qe6VSIg
+Douglas Adams|Hasta Luego y Gracias por el Pescado|https://drive.google.com/file/d/0B_yJXv2pEPBwaHdKcGRjT2t2ams/view?usp=drivesdk&resourcekey=0-JD0T7EA0DD0S-nJcpan0_g
+Douglas Adams|Guia del Autoestopista Galactico|https://drive.google.com/file/d/0B_yJXv2pEPBwNy1uMkFOV25HM00/view?usp=drivesdk&resourcekey=0-echMK_HCsOzAMgWbwhWi9w
+Douglas Adams|Fundamentalmente Inofensiva|https://drive.google.com/file/d/0B_yJXv2pEPBwQlJCcmNvZzFVWHc/view?usp=drivesdk&resourcekey=0-yG8YYj0AD4ZLUkVjZQVjYg
+Douglas Adams|El Restaurante del Fin del Mundo|https://drive.google.com/file/d/0B_yJXv2pEPBwOFN3c2RrbUJJWkk/view?usp=drivesdk&resourcekey=0-5kMGrftTZqs_QH_fiy58eg
+Douglas Adams|El Joven Zaphod Y Un Trabajo Seguro|https://drive.google.com/file/d/0B_yJXv2pEPBwMldjZ1NEVTRJdG8/view?usp=drivesdk&resourcekey=0-rrqkQdv3n3KOBh8aWC5omw
+Douglas Adams|El Don De Volar|https://drive.google.com/file/d/0B_yJXv2pEPBwaHVvTTE5ampKbU0/view?usp=drivesdk&resourcekey=0-AA6MGioTq4bo9phIwYg7Pg
+Douglas Adams|Dirk Gently, Agencia De Investigaciones Holisticas|https://drive.google.com/file/d/0B_yJXv2pEPBwTEJHZ1NDUEk5MGc/view?usp=drivesdk&resourcekey=0-eVeWa9ZvqYDqQd9AfSPUgA
+Douglas Adams|Dirk Gently Agencia Investigaciones Holisticas|https://drive.google.com/file/d/0B_yJXv2pEPBwUGt2aFU2MTBVY0k/view?usp=drivesdk&resourcekey=0-4DfZDJEPqGv2GslbvwiFsA
+Alexander Von Homboldt|Hacia el valle de Caracas|https://drive.google.com/file/d/0B_yJXv2pEPBwNS1Ob2ZhUHFRMUU/view?usp=drivesdk&resourcekey=0-tbBEBQG9hhuMfsJ0Dadb8w
+Alexander Von Homboldt|En el paso del Quindio|https://drive.google.com/file/d/0B_yJXv2pEPBwV1RQd0h5bjNRTm8/view?usp=drivesdk&resourcekey=0-irStkZTxgit6krtXntJZGw
+Alexander Von Homboldt|De Cajamarca al Pacifico|https://drive.google.com/file/d/0B_yJXv2pEPBwQ3dVLUZHUE0tUlE/view?usp=drivesdk&resourcekey=0-A4J5np1OgArEcGjMb19xnQ
+Alexander Von Homboldt|Acerca de la esclavitud|https://drive.google.com/file/d/0B_yJXv2pEPBwdjlFcXNUdGtlcG8/view?usp=drivesdk&resourcekey=0-kt-JsCMmBhuTn0Rb5Vyd_Q
+Friedrich Von Schiller|La Doncella De Orleans|https://drive.google.com/file/d/0B_yJXv2pEPBwY3FCOUw3Y0EyNmc/view?usp=drivesdk&resourcekey=0-9MPIrGuN7VMiQaOcZ9VvTQ
+Friedrich Von Schiller|Intriga Y Amor|https://drive.google.com/file/d/0B_yJXv2pEPBweHlzZDdyRjFWeFE/view?usp=drivesdk&resourcekey=0-YqADmJfz9_ezwvgb-Gdwkw
+Friedrich Von Schiller|De La Gracia Y La Dignidad|https://drive.google.com/file/d/0B_yJXv2pEPBwVVoxWWRDU0tHU2c/view?usp=drivesdk&resourcekey=0-q_xYlGhnQT5NKh2qC_MkbQ
+José Mauro Vasconcelos|Mi Planta De Naranja Lima|https://drive.google.com/file/d/0B_yJXv2pEPBwand5cjBFeEI5elU/view?usp=drivesdk&resourcekey=0-Dmh6DW6_6lnPDQkq_cskww
+José Mauro Vasconcelos|El Palacio Japones|https://drive.google.com/file/d/0B_yJXv2pEPBwQUZSYUthQjI4SUU/view?usp=drivesdk&resourcekey=0-Jznv6QLkENEI5M9fVuM5Hw
+Pedro Voltes|Adorable Loca|https://drive.google.com/file/d/0B_yJXv2pEPBwekxaNUZ4c0RBU2s/view?usp=drivesdk&resourcekey=0-JL9X2lFzhUPVXfkvvuNg9w
+Hernando Valencia Goelkel|Antologia De Ensayos|https://drive.google.com/file/d/0B_yJXv2pEPBwMzVxcDZaSW5la1E/view?usp=drivesdk&resourcekey=0-SYp1Ix_vQ7a5KxZSRAPNxQ
+Américo Vespucio|Descargar|https://drive.google.com/file/d/0B_yJXv2pEPBwVUlGNlhVUGlMNnc/view?usp=drivesdk&resourcekey=0-X1Z7ssUb8i0xCDvvf4rifw
+Pedro Antonio  de Alarcón|Novela Natural|https://drive.google.com/file/d/0B_yJXv2pEPBwSklpY3JOVjNFQ2s/view?usp=drivesdk&resourcekey=0-gw_nbaoQaFCNdFEHry_mFg
+Pedro Antonio  de Alarcón|Moros Y Cristianos|https://drive.google.com/file/d/0B_yJXv2pEPBwS2FWbUUxMF81UzA/view?usp=drivesdk&resourcekey=0-SvzsU1NuiwNthVVBT1FR-A
+Pedro Antonio  de Alarcón|Los ojos negros|https://drive.google.com/file/d/0B_yJXv2pEPBwSF9Nc1hVNTRPazg/view?usp=drivesdk&resourcekey=0-UYpy0Z-x67JPNgy2_9pwyQ
+Pedro Antonio  de Alarcón|La Mujer alta|https://drive.google.com/file/d/0B_yJXv2pEPBwclQyb1RMWVBfdHM/view?usp=drivesdk&resourcekey=0-wXRnhIOpqLIlGGuPVq4WwA
+Pedro Antonio  de Alarcón|La buenaventura|https://drive.google.com/file/d/0B_yJXv2pEPBwaWFNdGFIREFqSTA/view?usp=drivesdk&resourcekey=0-XONOpKkik-HNZk-wuXeMJA
+Pedro Antonio  de Alarcón|La Alpujarra|https://drive.google.com/file/d/0B_yJXv2pEPBwYW0zUVZaVGxGVTA/view?usp=drivesdk&resourcekey=0-Cy1yo06gQUrWdi4jiMQ3mg
+Pedro Antonio  de Alarcón|El Sombrero de tres picos|https://drive.google.com/file/d/0B_yJXv2pEPBwTmhGX2hHdGpLMms/view?usp=drivesdk&resourcekey=0-sbLyu7uf6knhmqq8HK23Lg
+Pedro Antonio  de Alarcón|El Final De Norma|https://drive.google.com/file/d/0B_yJXv2pEPBwakNDNjdxckFkdnM/view?usp=drivesdk&resourcekey=0-IrJUkAoMNm54cHTd_BSveQ
+Pedro Antonio  de Alarcón|El Coro De Angeles|https://drive.google.com/file/d/0B_yJXv2pEPBwM1cwNmYwZTJSTmM/view?usp=drivesdk&resourcekey=0-VwIqHqavvfZEtu-duQtWPw
+Pedro Antonio  de Alarcón|El Clavo|https://drive.google.com/file/d/0B_yJXv2pEPBwQnpySFFpdkVaTWM/view?usp=drivesdk&resourcekey=0-Pv5d1GDmR8Syjvfox5ozYw
+Pedro Antonio  de Alarcón|El Capitan Veneno|https://drive.google.com/file/d/0B_yJXv2pEPBwWkM3WVAzS3p0Tjg/view?usp=drivesdk&resourcekey=0-DoIoYZ1vimkk8tAnWjDseA
+Pedro Antonio  de Alarcón|El Año En Spitzsberg|https://drive.google.com/file/d/0B_yJXv2pEPBwQkwzWFRkNVFkYXc/view?usp=drivesdk&resourcekey=0-S9BJGvi_Wtz5a6j86Ko4Yw
+Pedro Antonio  de Alarcón|El Amigo De La Muerte|https://drive.google.com/file/d/0B_yJXv2pEPBwMlVxWGJtWHFfM00/view?usp=drivesdk&resourcekey=0-DiQ3v6xV1j5ppOxcI_tpZQ
+Pedro Antonio  de Alarcón|Diario De Un Testigo De La Guerra De Africa 2|https://drive.google.com/file/d/0B_yJXv2pEPBwQXZEOER0cjVudGc/view?usp=drivesdk&resourcekey=0-RchVLgI7Fmu2cx1M3d5uSQ
+Pedro Antonio  de Alarcón|Diario De Un Testigo De La Guerra De Africa 1|https://drive.google.com/file/d/0B_yJXv2pEPBwbGVEeEJ4dGhZTTg/view?usp=drivesdk&resourcekey=0-GuTmADwoTJ8OcwUsBVFOvg
+Pedro Antonio  de Alarcón|Cuentos amatorios|https://drive.google.com/file/d/0B_yJXv2pEPBwWjc2b2xkRERvUkE/view?usp=drivesdk&resourcekey=0-CU7NO3rcsLn_4Roffxk0hw
+Pedro Antonio  de Alarcón|Costumbres|https://drive.google.com/file/d/0B_yJXv2pEPBwR0hYTGdlMUFUVFU/view?usp=drivesdk&resourcekey=0-kRcW7KV6mevghAfvENcvVQ
+Pedro Antonio  de Alarcón|Cosas que fueron, cuadros de costumbres|https://drive.google.com/file/d/0B_yJXv2pEPBwR1J3bjVmVDZta1E/view?usp=drivesdk&resourcekey=0-d3kygKLEY4XrZXmmjk9brA
+Pedro Antonio  de Alarcón|Buena Pesca|https://drive.google.com/file/d/0B_yJXv2pEPBwQ0ZteWZrVFQ4UlU/view?usp=drivesdk&resourcekey=0-N8PKsKCJSTZUm0I5UpDEuA
+Fred Vargas|El Hombre De Los Circulos Azules|https://drive.google.com/file/d/0B_yJXv2pEPBwbWJKSDBUVDJLWVE/view?usp=drivesdk&resourcekey=0-9p3gDA5X9rtdeX-lp9gJvg
+Eduardo Varela Cid|Colombia, Cuentos Cortos|https://drive.google.com/file/d/0B_yJXv2pEPBwV25uYmdyMmJ3TFU/view?usp=drivesdk&resourcekey=0-V6ncoGpjxHpG3NYOPPgFdA
+Giovanni Verga|Historia de una carpintera|https://drive.google.com/file/d/0B_yJXv2pEPBwVTIxSzJXeEktSTA/view?usp=drivesdk&resourcekey=0-WWVA2A5cmM2T-4YKxIsVXw
+Jegor Von Sivers|La vida cotidiana de La Habana|https://drive.google.com/file/d/0B_yJXv2pEPBwWFpLUXg5VGFxOEk/view?usp=drivesdk&resourcekey=0-fhmSlRo3pVNvA-bM_pqTbA
+Helio Vera|En Busca del Hueso Perdido, Tratado de Paraguayologia|https://drive.google.com/file/d/0B_yJXv2pEPBwdzhTQUJWT0stdG8/view?usp=drivesdk&resourcekey=0-QNypGpAx4F9MbVoGnqCueg
+Helio Vera|Angola y Otros Cuentos|https://drive.google.com/file/d/0B_yJXv2pEPBwcm9SdzhkQkxRLVE/view?usp=drivesdk&resourcekey=0-3KWTn2CviGbWC_p6eDP5mg
+John Varley|Y Mañana Seran Clones|https://drive.google.com/file/d/0B_yJXv2pEPBwQXI0a1pPREZfQUE/view?usp=drivesdk&resourcekey=0-lFLc9iCyE0q4IlaVOMEXpA
+John Varley|Pulse Enter|https://drive.google.com/file/d/0B_yJXv2pEPBwSUdlbUtZcmJ6eFk/view?usp=drivesdk&resourcekey=0-e4WWzau-hQbDvn9SIu-C_w
+John Varley|Perdido En El Banco De Memoria|https://drive.google.com/file/d/0B_yJXv2pEPBwakZiVWJRNFVVU2s/view?usp=drivesdk&resourcekey=0-6atIQEozQtVFiOGVyXRU9A
+John Varley|La Persistencia De La Vision|https://drive.google.com/file/d/0B_yJXv2pEPBwTFBJV0xiVzZhRUE/view?usp=drivesdk&resourcekey=0-6_3dVhvVn_rfAAChv6NIJw
+John Varley|La Palabra No Procesada|https://drive.google.com/file/d/0B_yJXv2pEPBwaHp3Nnp5MW9kNVE/view?usp=drivesdk&resourcekey=0-8r8e2iRVF-SOh7kyj83keQ
+John Varley|Incursion Aerea|https://drive.google.com/file/d/0B_yJXv2pEPBwLXQ4MlY4NjVydTQ/view?usp=drivesdk&resourcekey=0-D7wNIgmXMR9wT2-cpu6D4Q
+John Varley|El Pusher|https://drive.google.com/file/d/0B_yJXv2pEPBwZFN4VVdHY3VpaGM/view?usp=drivesdk&resourcekey=0-CGyFZuMpIiPUfp0a4MCS3Q
+Maria Eugenia Vaz Ferreira|La Isla De Los Canticos|https://drive.google.com/file/d/0B_yJXv2pEPBwTm1obmxuLThvb0U/view?usp=drivesdk&resourcekey=0-g0eansV-09dpK_V9s0Ligg
+Carlos Vázquez|Repuestos Repuestos|https://drive.google.com/file/d/0B_yJXv2pEPBwT0p0X2JzU3pkNGM/view?usp=drivesdk&resourcekey=0-a8LNawyNoeP_s6Pob6OBog
+Heinrich Von Kleist|El Terremoto en Chile|https://drive.google.com/file/d/0B_yJXv2pEPBwYVBEQ0JSU1pucW8/view?usp=drivesdk&resourcekey=0-HzZfxshDpnnZPuloIsgpsw
+Felix Lope Vega y Carpio|Noche de San Juan|https://drive.google.com/file/d/0B_yJXv2pEPBwcVgwTEZqV0xoUzA/view?usp=drivesdk&resourcekey=0-lHgqnT3z3-niZjm1NSkagQ
+Felix Lope Vega y Carpio|El vellocino de oro|https://drive.google.com/file/d/0B_yJXv2pEPBwY1VyX2lMZll4ZFE/view?usp=drivesdk&resourcekey=0-LHAR6SKMkoVtUIGYcDJcCQ
+Felix Lope Vega y Carpio|Antologia poetica|https://drive.google.com/file/d/0B_yJXv2pEPBwZmw1aHFBbUpWY28/view?usp=drivesdk&resourcekey=0-jM4VkMw6VnXjvf8OmeFfRw
+Rafael Alberti|Tal Vez, Oh Mar|https://drive.google.com/file/d/0B_yJXv2pEPBwTFYtc0NxcnBVa3c/view?usp=drivesdk&resourcekey=0-iAFeIrkhvWgBnnDICCs-dA
+Rafael Alberti|Sobre los angeles|https://drive.google.com/file/d/0B_yJXv2pEPBwWG9aV05wdmF2WGM/view?usp=drivesdk&resourcekey=0-u-okuTfHuzs6Cw5z3x9Rxg
+Rafael Alberti|Retornos Del Amor Tal Como Era|https://drive.google.com/file/d/0B_yJXv2pEPBwV3JBOEJRNGQxZVk/view?usp=drivesdk&resourcekey=0-05FYTBqx_5cFAJilDwhDdw
+Rafael Alberti|Retornos Del Amor En Una Azotea|https://drive.google.com/file/d/0B_yJXv2pEPBwWW1BdVpjR3RaZUE/view?usp=drivesdk&resourcekey=0-2mp1GSfu6OKxR2FTIzSs0Q
+Rafael Alberti|Retornos Del Amor En Los Vividos Paisajes|https://drive.google.com/file/d/0B_yJXv2pEPBwTExTeHRlNzE1dUk/view?usp=drivesdk&resourcekey=0-jHy5LygHpS9CTDmEGudi5g
+Rafael Alberti|Retornos Del Amor En La Noche Triste|https://drive.google.com/file/d/0B_yJXv2pEPBwS2lqMHU4YXRaU1k/view?usp=drivesdk&resourcekey=0-Ar9iRo5cJWS9HmCRHwPN9A
+Rafael Alberti|Retornos De Una Sombra Maldita|https://drive.google.com/file/d/0B_yJXv2pEPBwbmNNbzRwOEExWkU/view?usp=drivesdk&resourcekey=0-Sk6JBkGSXngV--cpfK2UQw
+Rafael Alberti|Poesias seleccion|https://drive.google.com/file/d/0B_yJXv2pEPBwTjh1Yk5rekJKazQ/view?usp=drivesdk&resourcekey=0-k_vYoSrtW3IAV1qP63M8hQ
+Rafael Alberti|Pinosanguinochetburunda|https://drive.google.com/file/d/0B_yJXv2pEPBwNWUybmRGZDZsc1k/view?usp=drivesdk&resourcekey=0-CfUMCrlxOmx8VSLlVpIsVQ
+Rafael Alberti|Nocturno (De Roma Peligro Para Caminantes)|https://drive.google.com/file/d/0B_yJXv2pEPBwRUxBN0FHV2g2ZVE/view?usp=drivesdk&resourcekey=0-KEQK0ZPmlJMOcEqyyylpPg
+Rafael Alberti|Nocturno (De El Alba Del Alheli)|https://drive.google.com/file/d/0B_yJXv2pEPBwa01lVFhUTHdxTzA/view?usp=drivesdk&resourcekey=0-U50MDuG1kOok_h_S15rjXw
+Rafael Alberti|Madrigal Al Billete Del Tranvia|https://drive.google.com/file/d/0B_yJXv2pEPBwZmlhcjQyTXo0Szg/view?usp=drivesdk&resourcekey=0-oz40jIg7gAmxV0dM-1sJ-Q
+Rafael Alberti|Lo Que Deje Por Ti|https://drive.google.com/file/d/0B_yJXv2pEPBwZTF6dlJ3bmdMUjQ/view?usp=drivesdk&resourcekey=0-iTCZRwkQ38hlcooriufGoA
+Rafael Alberti|La Arboleda Perdida|https://drive.google.com/file/d/0B_yJXv2pEPBwOFg5bHExX0lUXzA/view?usp=drivesdk&resourcekey=0-_e2xY1vBFoDGtXcEq0V0vQ
+Rafael Alberti|Elegia A Garcilaso|https://drive.google.com/file/d/0B_yJXv2pEPBwNXVjaEc2OXJwZTg/view?usp=drivesdk&resourcekey=0-brdgbe8PAzqZGFH__zNW9A
+Rafael Alberti|El Prisionero|https://drive.google.com/file/d/0B_yJXv2pEPBwcHp1TFJIbEpPblE/view?usp=drivesdk&resourcekey=0-mxD1dQQ_dzhbMbCqDpfNsQ
+Rafael Alberti|Amaranta|https://drive.google.com/file/d/0B_yJXv2pEPBwcTZ3TWxlOE5zSFk/view?usp=drivesdk&resourcekey=0-u8yrCl4nT_nzo3iAyCvlkQ
+Rafael Alberti|Al Claroscuro|https://drive.google.com/file/d/0B_yJXv2pEPBwbGNzRVpfdzZxMWc/view?usp=drivesdk&resourcekey=0-GsX-aA79JabEkJ7ybtD0WQ
+Rafael Alberti|A Niebla, Mi Perro|https://drive.google.com/file/d/0B_yJXv2pEPBwS01ReGlSbElMTlk/view?usp=drivesdk&resourcekey=0-t4mQJkw0D10HfFXg9bP-UA
+Rafael Alberti|A Federico Garcia Lorca|https://drive.google.com/file/d/0B_yJXv2pEPBwRVBTY1NIbGdwWlU/view?usp=drivesdk&resourcekey=0-THMa0bYF4YrBTGdGVp-m0w
+Salvador Allende|Su Ultimo Discurso|https://drive.google.com/file/d/0B_yJXv2pEPBwOWYtcTQwWWJ6eHM/view?usp=drivesdk&resourcekey=0-WhxWjEn3kv9ToN0XCWUH5Q
+Javier de Viana|Ultima Campaña|https://drive.google.com/file/d/0B_yJXv2pEPBwbDVvX1ZhYS1Nemc/view?usp=drivesdk&resourcekey=0-QXULXeByTtN-gIvZLNTMzg
+Dámaso Alonso|Poesias seleccion|https://drive.google.com/file/d/0B_yJXv2pEPBwaHlCYnN3TF9UakU/view?usp=drivesdk&resourcekey=0-5MOsRpF8UyN4upac3AkH0g
+Dámaso Alonso|Poemas Puros, Poemillas De La Ciudad|https://drive.google.com/file/d/0B_yJXv2pEPBwN3dRZlhlalhiWFU/view?usp=drivesdk&resourcekey=0-bxPpUJ9tFcIdRpoX6mAn5Q
+Dámaso Alonso|Oscura noticia|https://drive.google.com/file/d/0B_yJXv2pEPBwSktUemlWU1pMejQ/view?usp=drivesdk&resourcekey=0-3UaOEsNDPDXZ-8ZxwV1Eww
+Dámaso Alonso|Oscura Noticia (Seleccion)|https://drive.google.com/file/d/0B_yJXv2pEPBwRFk0WG8xbWh1VGs/view?usp=drivesdk&resourcekey=0-GN4lU1TYZMsuT3c7Cq5C8A
+Dámaso Alonso|Hombre y dios|https://drive.google.com/file/d/0B_yJXv2pEPBwaGpHTzFLRVNrbGs/view?usp=drivesdk&resourcekey=0-uB6xf31zipEst1TUdZvnjw
+Dámaso Alonso|Hombre Y Dios (Seleccion)|https://drive.google.com/file/d/0B_yJXv2pEPBwQzhRWkhvV2U0YUU/view?usp=drivesdk&resourcekey=0-Om94kF5zm_lNC55fZWeozA
+Dámaso Alonso|Hijos de la ira|https://drive.google.com/file/d/0B_yJXv2pEPBwdEVrdzJINkU1Zms/view?usp=drivesdk&resourcekey=0-1r8PMBajJhc94kNQ5le0XA
+Dámaso Alonso|Hijos De La Ira (Seleccion)|https://drive.google.com/file/d/0B_yJXv2pEPBwR2pOSlBCOTc2elk/view?usp=drivesdk&resourcekey=0-7nabs3WBTq78QyofN2wWzQ
+Jahann Baptist Von Spix|Las Tierras Auriferas De Minas|https://drive.google.com/file/d/0B_yJXv2pEPBwaTVIUzV6OWh5MU0/view?usp=drivesdk&resourcekey=0-ferVZ0NYAbGU0_XBrEO69Q
+Hendrik Vaneeckhaute|Dicen|https://drive.google.com/file/d/0B_yJXv2pEPBwMFplYlh5SlFhdlk/view?usp=drivesdk&resourcekey=0-WjOmSwY5FQfWarVmAD3I7Q
+José Manuel Valdés y Palacios|Viaje Del Cuzco A Belen En El Gran Para|https://drive.google.com/file/d/0B_yJXv2pEPBwRFpRSzEwNVNLb0E/view?usp=drivesdk&resourcekey=0-rdjpqfcwxucDLShPCl0XIQ
+José Manuel Valdés y Palacios|Bosquejo Sobre El Estado Politico Moral Y Literario Del Per|https://drive.google.com/file/d/0B_yJXv2pEPBwbzF6Q2pzVG1NVE0/view?usp=drivesdk&resourcekey=0-YgUyCMEFBCZXtURpNQ4m2A
+Paul Valery|La Libertad Del Espiritu|https://drive.google.com/file/d/0B_yJXv2pEPBwckFpTExUeW9kZFk/view?usp=drivesdk&resourcekey=0-sGLobQ3rnTohKEiQ0MbeXg
+Paul Valery|El Cementerio Marino|https://drive.google.com/file/d/0B_yJXv2pEPBwdExTZmwtQXBvWTA/view?usp=drivesdk&resourcekey=0-1wz2xFrLW7ErS5b1Dl_y4w
+Mallanaga Vatsyayana|Kamasutra|https://drive.google.com/file/d/0B_yJXv2pEPBwMHpieWctcU44VFE/view?usp=drivesdk&resourcekey=0-F7XohTfg-GtpwyHVYU0rYg
+Boris Vian|Escupire Sobre Vuestra Tumba|https://drive.google.com/file/d/0B_yJXv2pEPBwX0pjazdOck1IWVE/view?usp=drivesdk&resourcekey=0-QeLaODsFsTXaPST-iTgPhg
+Leopoldo Alas|Zurita|https://drive.google.com/file/d/0B_yJXv2pEPBwSHpSSGdNWjVWcVU/view?usp=drivesdk&resourcekey=0-ss50DG6oGzrq0jndS0I2mg
+Leopoldo Alas|Un Voto|https://drive.google.com/file/d/0B_yJXv2pEPBwbzB4eGJhS2tzaEk/view?usp=drivesdk&resourcekey=0-tkrzekX7RK5Y7TpB_YSSsA
+Leopoldo Alas|Un Viejo verde|https://drive.google.com/file/d/0B_yJXv2pEPBwelBIakRzcjdPc0k/view?usp=drivesdk&resourcekey=0-sO-j0_Vp0gBQ4TCPhKgkpA
+Leopoldo Alas|Un Viaje a Madrid|https://drive.google.com/file/d/0B_yJXv2pEPBwWm5Qb20tUGlVZDQ/view?usp=drivesdk&resourcekey=0-vEfzFbcthbYY5JP0DyBbAg
+Leopoldo Alas|Un Repatriado|https://drive.google.com/file/d/0B_yJXv2pEPBwVzM5cFo5eFNVYlU/view?usp=drivesdk&resourcekey=0-W5UtqHGeV5bckNX2ZMgnLg
+Leopoldo Alas|Un jornalero|https://drive.google.com/file/d/0B_yJXv2pEPBwRmFIRXlrS1lMbjg/view?usp=drivesdk&resourcekey=0-eg9rUSk56ExWxNciIVUxvg
+Leopoldo Alas|Un Documento|https://drive.google.com/file/d/0B_yJXv2pEPBwMFh2dHpSUlYxUHM/view?usp=drivesdk&resourcekey=0-g4KedObBeJKB2RGbZ-Cy0A
+Leopoldo Alas|Un discurso|https://drive.google.com/file/d/0B_yJXv2pEPBwZ05wQU14dlctaEU/view?usp=drivesdk&resourcekey=0-57t3wd4ZwPmhBen1sxrwKg
+Leopoldo Alas|Tres en una|https://drive.google.com/file/d/0B_yJXv2pEPBwdV9NSmttTTFFQkk/view?usp=drivesdk&resourcekey=0-DBK2blqtmrJjyB3aZHW0Tg
+Leopoldo Alas|Teresa|https://drive.google.com/file/d/0B_yJXv2pEPBwakJTdkFTOU5qSVk/view?usp=drivesdk&resourcekey=0-K87ITlaGRk1hsV038DfY5g
+Leopoldo Alas|Tambor y gaita|https://drive.google.com/file/d/0B_yJXv2pEPBwSmF3M19xXzF6Wk0/view?usp=drivesdk&resourcekey=0-Mlx-zZvj4Y1vUL4vmcCpaw
+Leopoldo Alas|Speraindeo|https://drive.google.com/file/d/0B_yJXv2pEPBwdU5lZU4zUXpLSEE/view?usp=drivesdk&resourcekey=0-PkkI4JvrxP321CnbTpkrGA
+Leopoldo Alas|Solos y Palique|https://drive.google.com/file/d/0B_yJXv2pEPBwa3JxSlYwMTk1S3M/view?usp=drivesdk&resourcekey=0-nD176LGQAh6gQvEuP0jA_Q
+Leopoldo Alas|Sinfonia de dos novelas|https://drive.google.com/file/d/0B_yJXv2pEPBwZDdaVUsta0w0Mkk/view?usp=drivesdk&resourcekey=0-LPCI3O0R4xKEmcbOaBYRlw
+Leopoldo Alas|Rivales|https://drive.google.com/file/d/0B_yJXv2pEPBwX3RySjdiWmp2SU0/view?usp=drivesdk&resourcekey=0-1nQnVul62YBHWc9vec-hIw
+Leopoldo Alas|Reflejo|https://drive.google.com/file/d/0B_yJXv2pEPBwNm5KeFBIWDZFLW8/view?usp=drivesdk&resourcekey=0-eHYdbWRoEJ2c3bW_M4DPpg
+Leopoldo Alas|Rafael Calvo y el teatro español|https://drive.google.com/file/d/0B_yJXv2pEPBwamRzUmMza3ZTbW8/view?usp=drivesdk&resourcekey=0-qiu1n4Ke-SEjdNG3aN9DNQ
+Leopoldo Alas|Protesto|https://drive.google.com/file/d/0B_yJXv2pEPBwc0Z2YWJMaU9Qa00/view?usp=drivesdk&resourcekey=0-3I3fyoSK4fmVZA7Xu8DT8Q
+Leopoldo Alas|Pipa|https://drive.google.com/file/d/0B_yJXv2pEPBwTHgwWjFSYUVHclU/view?usp=drivesdk&resourcekey=0-O1FSYYDwSwPoSX8LE_ETUg
+Leopoldo Alas|Mis plagios|https://drive.google.com/file/d/0B_yJXv2pEPBwcGpEODk5eThlQmc/view?usp=drivesdk&resourcekey=0-tElsLyUZqeB-Yy1gBoaULQ
+Leopoldo Alas|Mi entierro|https://drive.google.com/file/d/0B_yJXv2pEPBweTh0Vk1LMzItazQ/view?usp=drivesdk&resourcekey=0-WXzYuGTT4YnfpNvfmsEZzw
+Leopoldo Alas|Medalla|https://drive.google.com/file/d/0B_yJXv2pEPBwN3pOd3ZwYm5pRFU/view?usp=drivesdk&resourcekey=0-7jSr_STKe5y1r0XNPrMViw
+Leopoldo Alas|Los Imitadores de Campoamor|https://drive.google.com/file/d/0B_yJXv2pEPBwWUczcGhPbWQyMFk/view?usp=drivesdk&resourcekey=0-6gT7tqI3fcU9BkocfsUFsQ
+Leopoldo Alas|Las dos cajas|https://drive.google.com/file/d/0B_yJXv2pEPBwWjl2S0hUaW00QWM/view?usp=drivesdk&resourcekey=0-QtDuXPjTZEI5XdRBepp5AA
+Leopoldo Alas|La Yernocracia|https://drive.google.com/file/d/0B_yJXv2pEPBwUnEwRDNnOXdnWFE/view?usp=drivesdk&resourcekey=0-0vAv43XfL9HYXHHVpKnVHw
+Leopoldo Alas|La Rosa de oro|https://drive.google.com/file/d/0B_yJXv2pEPBwaUROQV9KM1doeVk/view?usp=drivesdk&resourcekey=0-1ArJunLTHCyYSnLjQWSKuQ
+Leopoldo Alas|La Ronca|https://drive.google.com/file/d/0B_yJXv2pEPBwN2xVWXFsc1RRakE/view?usp=drivesdk&resourcekey=0-lOH4srpGSEM3YDlhliuVcA
+Leopoldo Alas|La Regenta|https://drive.google.com/file/d/0B_yJXv2pEPBwRkhxN2lRWTh5RE0/view?usp=drivesdk&resourcekey=0-B_Drhx-8RpQGDXy39MZYRg
+Leopoldo Alas|La medica|https://drive.google.com/file/d/0B_yJXv2pEPBwYWkzb09pdFBVOE0/view?usp=drivesdk&resourcekey=0-r8Kp1xp9nP4zQS1JeSfiTQ
+Leopoldo Alas|La fraccioncilla de taravilla|https://drive.google.com/file/d/0B_yJXv2pEPBwOE52bE5Yd1FYeGs/view?usp=drivesdk&resourcekey=0-IUZiJGzxVFeivQb1_D9gqQ
+Leopoldo Alas|La Fantasia de un delegado de Hacienda|https://drive.google.com/file/d/0B_yJXv2pEPBwb2IyUmk0WEJzdm8/view?usp=drivesdk&resourcekey=0-2UboB6GfyaxTIkqkBvlzmQ
+Leopoldo Alas|La epoca predicador|https://drive.google.com/file/d/0B_yJXv2pEPBwUE9GUHFxMWRJZms/view?usp=drivesdk&resourcekey=0-HoA1w2kCHmADcjDewjrxQg
+Leopoldo Alas|En la drogueria|https://drive.google.com/file/d/0B_yJXv2pEPBwNUMtMlRzb0IyVVk/view?usp=drivesdk&resourcekey=0-gVRdxM0QKYtksf2G6ncyNQ
+Leopoldo Alas|En el tren|https://drive.google.com/file/d/0B_yJXv2pEPBwUzE1N01CaHl1bEU/view?usp=drivesdk&resourcekey=0-RhP2yVo8wd2FSfTincu8WQ
+Leopoldo Alas|El Sombrero del cura|https://drive.google.com/file/d/0B_yJXv2pEPBwdzVpUTFTTlQ5Ums/view?usp=drivesdk&resourcekey=0-J09jaLtlNtxufrKtn_bwEA
+Leopoldo Alas|El Señor|https://drive.google.com/file/d/0B_yJXv2pEPBwWVhuVjdRelk1V1U/view?usp=drivesdk&resourcekey=0-6EnYAr-2sIXbEN8QWMCXdw
+Leopoldo Alas|El Secreto (a voces)|https://drive.google.com/file/d/0B_yJXv2pEPBwV0ZtekVyS1hnLVU/view?usp=drivesdk&resourcekey=0-xRZ0WLPPFPizqoC6X106lA
+Leopoldo Alas|El Rey Baltasar|https://drive.google.com/file/d/0B_yJXv2pEPBwTFRtOUZVT2RUcnM/view?usp=drivesdk&resourcekey=0-M9b4nOD7k07OoVgawByLxg
+Leopoldo Alas|El Pecado original|https://drive.google.com/file/d/0B_yJXv2pEPBwWnRjbFE5RmVmX1U/view?usp=drivesdk&resourcekey=0-G9ZeDCGZdFiLclJ5iiCrig
+Leopoldo Alas|El Oso mayor|https://drive.google.com/file/d/0B_yJXv2pEPBwZDVMcTBIVDNOMGc/view?usp=drivesdk&resourcekey=0-xSl95ZDsVlVi_Els5Lt-Hg
+Leopoldo Alas|El hombre de los estrenos|https://drive.google.com/file/d/0B_yJXv2pEPBwQjgxNU1MSXJTSkE/view?usp=drivesdk&resourcekey=0-nqJaEHyvN40Lr8jGp3gjQg
+Leopoldo Alas|El gallo de Socrates|https://drive.google.com/file/d/0B_yJXv2pEPBwNERielpGZ2hWMnc/view?usp=drivesdk&resourcekey=0-bEewI6H-L9X2NWwpdUxpkA
+Leopoldo Alas|El entierro de la sardina|https://drive.google.com/file/d/0B_yJXv2pEPBwbG5JTFMzWTluYnM/view?usp=drivesdk&resourcekey=0-wiym6-na7RWZPW5R05j2Nw
+Leopoldo Alas|El doctor Pertinax|https://drive.google.com/file/d/0B_yJXv2pEPBwMjZZbkVUX2h3NFU/view?usp=drivesdk&resourcekey=0-vwUghkGxzMd3YWlWw08Pbw
+Leopoldo Alas|El Centauro|https://drive.google.com/file/d/0B_yJXv2pEPBwOGhBTXd1MnNqUE0/view?usp=drivesdk&resourcekey=0-nW1KsYeRqRo3KpKH7jBcEg
+Leopoldo Alas|Dos sabios|https://drive.google.com/file/d/0B_yJXv2pEPBwMjdpQUxvS241QzQ/view?usp=drivesdk&resourcekey=0-UgGYbXxovpxeKAo8v-T4LQ
+Leopoldo Alas|Doctor Angelicus|https://drive.google.com/file/d/0B_yJXv2pEPBwLVZOYU5NVnVOcnc/view?usp=drivesdk&resourcekey=0-p_Yg-CtaP82l6XLXJsx1uw
+Leopoldo Alas|Doble via|https://drive.google.com/file/d/0B_yJXv2pEPBwRmRwdVNURWVFS1E/view?usp=drivesdk&resourcekey=0-I_13zdz_x6KWB8x4Ld-8wQ
+Leopoldo Alas|De la Comision|https://drive.google.com/file/d/0B_yJXv2pEPBwZXAzWUFjMUVMWVU/view?usp=drivesdk&resourcekey=0-rq72CGTC_pzstkHxm7fOzw
+Leopoldo Alas|Cuesta Abajo|https://drive.google.com/file/d/0B_yJXv2pEPBwMmhGWkVwRUtGUnc/view?usp=drivesdk&resourcekey=0-d5gWIxj8Kyh0pNa3PUdU8g
+Leopoldo Alas|Cuervo|https://drive.google.com/file/d/0B_yJXv2pEPBwd3B3YzFTR0QzSzg/view?usp=drivesdk&resourcekey=0-d3oivigtgXL7mY_LokgJww
+Leopoldo Alas|Cuento futuro|https://drive.google.com/file/d/0B_yJXv2pEPBwZ0Z1RlppbDd6c2M/view?usp=drivesdk&resourcekey=0-pxt05tj7C6HE5v5MQIa8Dg
+Leopoldo Alas|Critica popular|https://drive.google.com/file/d/0B_yJXv2pEPBwVm82RnBCbmJnRVk/view?usp=drivesdk&resourcekey=0-zwV760hAQoEKXiNCqSP5PA
+Leopoldo Alas|Cristo de la Vega|https://drive.google.com/file/d/0B_yJXv2pEPBwaERhY1c4ay14bWM/view?usp=drivesdk&resourcekey=0-3w2q3c0ybF3v6Zw5pvwb9w
+Leopoldo Alas|Canovas|https://drive.google.com/file/d/0B_yJXv2pEPBwOERETDJyamhENlk/view?usp=drivesdk&resourcekey=0-vLUrdja39dodBHB6Un_oRw
+Leopoldo Alas|Cambio de luz|https://drive.google.com/file/d/0B_yJXv2pEPBwaE9EcFZ4U29LQkE/view?usp=drivesdk&resourcekey=0-rpZCUdmN8i1J3fUhksUmKw
+Leopoldo Alas|Bustamante|https://drive.google.com/file/d/0B_yJXv2pEPBwY0VIMUVKOVI2Qmc/view?usp=drivesdk&resourcekey=0-fhuXrnMoQ1-y7KchNbDyNg
+Leopoldo Alas|Boroña|https://drive.google.com/file/d/0B_yJXv2pEPBwcEt2ZGlGSW1CN2M/view?usp=drivesdk&resourcekey=0-3RORGpLgaoLuwVHWFN0KVA
+Leopoldo Alas|Benedictino|https://drive.google.com/file/d/0B_yJXv2pEPBwQU5ZaXlGNVRqX2M/view?usp=drivesdk&resourcekey=0-uQxdZhKCNw_kFYy3LX7USQ
+Leopoldo Alas|Avecilla|https://drive.google.com/file/d/0B_yJXv2pEPBwX3JFelZXQkxqNTQ/view?usp=drivesdk&resourcekey=0-T35zcdDK4ifqPTtC8DNI7Q
+Leopoldo Alas|Aprensiones|https://drive.google.com/file/d/0B_yJXv2pEPBwdmkySXhHOWZHN00/view?usp=drivesdk&resourcekey=0-lJhAPTTZdRJnMZZCRb4uxA
+Leopoldo Alas|Apolo en Pafos|https://drive.google.com/file/d/0B_yJXv2pEPBwRHdtNkdkU0ZKYk0/view?usp=drivesdk&resourcekey=0-PzzxCXYq-fq4APheXGNaxA
+Leopoldo Alas|Amor e furbo|https://drive.google.com/file/d/0B_yJXv2pEPBwZ1ZuSnZhODlraUU/view?usp=drivesdk&resourcekey=0-h-euDtsUCxlU-41DIohgLA
+Leopoldo Alas|Algo sobre Teodoro Guerrero|https://drive.google.com/file/d/0B_yJXv2pEPBwa0tGU3pNM3kwV1E/view?usp=drivesdk&resourcekey=0-6fbmHy75rTTdkq9LRD409w
+Leopoldo Alas|Adios Cordera|https://drive.google.com/file/d/0B_yJXv2pEPBwYnhfN0UyZTFZS2M/view?usp=drivesdk&resourcekey=0-gLIBK1eKWVeVX-NYunFzeg
+Leopoldo Alas|A 050 poeta|https://drive.google.com/file/d/0B_yJXv2pEPBwaUlFU0VZSVM4MW8/view?usp=drivesdk&resourcekey=0-xvbYmwjPYWAdu2s-vHh2Cw
+Luis Viadel|Los Dioses No Las Prefieren Castas Y Puras|https://drive.google.com/file/d/0B_yJXv2pEPBwR0N6MG81NW55VEU/view?usp=drivesdk&resourcekey=0-5-a3PZeNZKGbzgYycCd37A
+Thorstein Veblen|Teoria De La Clase Ociosa|https://drive.google.com/file/d/0B_yJXv2pEPBwRmxzUkZQSWcyaFk/view?usp=drivesdk&resourcekey=0-zGG6AsOMWCMA7Ho2BhiKfA
+Voltaire|Una Aventura India, De Voltaire|https://drive.google.com/file/d/0B_yJXv2pEPBwM0szaWE0TEJqbW8/view?usp=drivesdk&resourcekey=0-ToYmi7XaQJWkr0ZJJM2O_w
+Voltaire|Tratado Sobre La Tolerancia|https://drive.google.com/file/d/0B_yJXv2pEPBwWmJqT3NnYi1pV2M/view?usp=drivesdk&resourcekey=0-k-NL-QzmjDKAxgMseOMN5A
+Voltaire|Sadig o El Destino, Historia Oriental|https://drive.google.com/file/d/0B_yJXv2pEPBwa0t3QzEyLWxFek0/view?usp=drivesdk&resourcekey=0-9ka5EpUuIkYL_bYh-83aXw
+Varios|Vinieron Del Espacio Exterior|https://drive.google.com/file/d/0B_yJXv2pEPBwRkowc3k0RERDZEU/view?usp=drivesdk&resourcekey=0-p6n2W6SjsGLNf5WhUiq5nQ
+Varios|Universo 5|https://drive.google.com/file/d/0B_yJXv2pEPBwVGJTM01ucGFGZ0E/view?usp=drivesdk&resourcekey=0-qi79A-r7FDcIk1Q6brj4vQ
+Varios|Universo 2 _ Antologia de CF|https://drive.google.com/file/d/0B_yJXv2pEPBwTkhtRkl1MVJUZ0k/view?usp=drivesdk&resourcekey=0-tz0HUzIcSvi9peMHU9LxUA
+Varios|Universo 1 _ Antologia de CF|https://drive.google.com/file/d/0B_yJXv2pEPBwY3NaSjJPb3J3Xzg/view?usp=drivesdk&resourcekey=0-cIoDczZEUn4nVIj5vq0yGg
+Varios|Ultima Etapa|https://drive.google.com/file/d/0B_yJXv2pEPBwMW9ndVBCTnQ1Wjg/view?usp=drivesdk&resourcekey=0-sfyKDsUClOSCAWf9bn6hkw
+Varios|Transplante Obligatorio (Compilacion Issac Asimov)|https://drive.google.com/file/d/0B_yJXv2pEPBwRllJYWI4ekh3aTA/view?usp=drivesdk&resourcekey=0-y0E9IcA4M7dPBct1pxpjdg
+Varios|Tierra Fantasy 4|https://drive.google.com/file/d/0B_yJXv2pEPBwYjRxX00zZGJCcTg/view?usp=drivesdk&resourcekey=0-xacg8MfUhMBPqLGEyyNiEg
+Varios|Teurgia|https://drive.google.com/file/d/0B_yJXv2pEPBwX3BWMmdGai1iWUk/view?usp=drivesdk&resourcekey=0-4X834rCaUd_h6WUJtmnJrg
+Varios|Tarot Y Kabala|https://drive.google.com/file/d/0B_yJXv2pEPBwNEVCZ2QtbjRJOXM/view?usp=drivesdk&resourcekey=0-PLhl4FJTQVktEUTPDX5CRw
+Varios|Sapiens|https://drive.google.com/file/d/0B_yJXv2pEPBwLWRFR2VDcHlTV2s/view?usp=drivesdk&resourcekey=0-33AQbn8WrpB-gj_g2DhnEg
+Varios|Robot City (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwNEpiaEJPYWh6U1U/view?usp=drivesdk&resourcekey=0-eXsyt6qEqW6kp-n6v6hB8g
+Varios|Robot City (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwOTNBT0ZGMjZlRXc/view?usp=drivesdk&resourcekey=0-s-Rl7Beh1tGDG3YurInHrQ
+Varios|Relatos Urbanos|https://drive.google.com/file/d/0B_yJXv2pEPBwRTB2Tkoxa19mX3c/view?usp=drivesdk&resourcekey=0-KirNIlAV7UoFzwYtgKgxWg
+Varios|Relatos De Los Mitos De Cthulhu|https://drive.google.com/file/d/0B_yJXv2pEPBwMS1VMnVqWlB4Zzg/view?usp=drivesdk&resourcekey=0-DVVJP-XEvBsBInp3TwVQ1Q
+Varios|Relatos De Los Mitos De Cthulhu II|https://drive.google.com/file/d/0B_yJXv2pEPBwSjY2alJqQlRYU00/view?usp=drivesdk&resourcekey=0-g4OSSNaJ6YSXfmQSq_Td9Q
+Varios|Relatos De Los Mitos De Cthulhu I|https://drive.google.com/file/d/0B_yJXv2pEPBwcVpyZ3ZSRlQtdTQ/view?usp=drivesdk&resourcekey=0-PqGkCQVPlZAKjQIYOOQ1PA
+Varios|Relatos De Los Mitos De Cthulhu 3|https://drive.google.com/file/d/0B_yJXv2pEPBwUVduVHhwRWs3Y28/view?usp=drivesdk&resourcekey=0-89AUgNjSu4IIIJlyxm06vQ
+Varios|Relatos De Los Mitos De Cthulhu 1|https://drive.google.com/file/d/0B_yJXv2pEPBwbkV0Mml4VDFnS2c/view?usp=drivesdk&resourcekey=0-1aD1RGsmZnx31FglwHBYAg
+Varios|Psicofarmacologia Psicodinamica IV|https://drive.google.com/file/d/0B_yJXv2pEPBwN3dNd0ZjVzZBeDA/view?usp=drivesdk&resourcekey=0-Hu8atYYIECOYjg3hgVfKeQ
+Varios|Poeticas Del Exilio (Parte 3)|https://drive.google.com/file/d/0B_yJXv2pEPBwRTdicTdfS3lGckU/view?usp=drivesdk&resourcekey=0-YtHpTySP0ZsAncsVhun4fg
+Varios|Poeticas Del Exilio (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwQ1ZrTU5fUU1kTms/view?usp=drivesdk&resourcekey=0-jvQoIrMKYa5fYR_Z6g6yaw
+Varios|Poeticas Del Exilio (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwV3lUVTdsR0FvQjQ/view?usp=drivesdk&resourcekey=0-lif5u6u2vTowxSqIIM6JXQ
+Varios|Poesias Sobre La Ciudad De La Habana|https://drive.google.com/file/d/0B_yJXv2pEPBwX2dOeGVoZlBjaUU/view?usp=drivesdk&resourcekey=0-qcfcQsdk3LPlYfu6cAaL0w
+Varios|Nosotros Los Hombres|https://drive.google.com/file/d/0B_yJXv2pEPBwRzIya2JfQm1TRG8/view?usp=drivesdk&resourcekey=0-CRyOUfsP-kShOoBNnXTjpA
+Varios|Nave Cuna|https://drive.google.com/file/d/0B_yJXv2pEPBwczk2Y1I3RGxfTWs/view?usp=drivesdk&resourcekey=0-1hjjhj7uqOQFFT_qP2KySQ
+Varios|Mundo Desconocido, El Necronomicon|https://drive.google.com/file/d/0B_yJXv2pEPBwRVhGMHBjb2RlelE/view?usp=drivesdk&resourcekey=0-n44WOgE1zN5DlZB51-TBzw
+Varios|Mensajes De La Era Del Ordenador|https://drive.google.com/file/d/0B_yJXv2pEPBwd2lWYjhQYW9Ea2s/view?usp=drivesdk&resourcekey=0-e-FDJgltVPq9oXQl1VP5QQ
+Varios|Matrices y Determinantes|https://drive.google.com/file/d/0B_yJXv2pEPBwRGF4ZmFCcUFoT2M/view?usp=drivesdk&resourcekey=0-FqGnf595lbTCc4hAw_Ff0g
+Varios|Mataburro Lunfardo|https://drive.google.com/file/d/0B_yJXv2pEPBwZDdKX2lpcWR2TTg/view?usp=drivesdk&resourcekey=0-1gjDpHqij0jiXYuGM1UnhQ
+Varios|Manual Diagnostico Y Estadistico De Los Trastornos Mentales|https://drive.google.com/file/d/0B_yJXv2pEPBwVU5zU2MxNnVwWWs/view?usp=drivesdk&resourcekey=0--pI8FDuLh1bDYDQEQc74fQ
+Varios|Los Sintomas Del Despertar Espiritual|https://drive.google.com/file/d/0B_yJXv2pEPBwWHhSWm5ydGZoREU/view?usp=drivesdk&resourcekey=0-orPYSQvOxpy0kKG4_mAh0Q
+Varios|Los Premios Hugo 78_79|https://drive.google.com/file/d/0B_yJXv2pEPBwMkJPalpYMzNGV0k/view?usp=drivesdk&resourcekey=0-0JaiCdknskHRxbFha1lvYw
+Varios|Los Pequeños Monstruos|https://drive.google.com/file/d/0B_yJXv2pEPBwUkJrc2pPT3d1MWM/view?usp=drivesdk&resourcekey=0-5bVamjlgsz0i_UL8mb30bg
+Varios|Los Pequenos Monstruos|https://drive.google.com/file/d/0B_yJXv2pEPBwRFVRU2pkRDBfT0k/view?usp=drivesdk&resourcekey=0-4Sa4mTYF6NyLvCorfu_3GQ
+Varios|Los Nuevos Canibales|https://drive.google.com/file/d/0B_yJXv2pEPBweXBCTUNUN3RjMkE/view?usp=drivesdk&resourcekey=0-ncFrBeynQ7vXH6FskGdw_g
+Varios|Las Mejores Historias De Terror VI|https://drive.google.com/file/d/0B_yJXv2pEPBwandJM1FaS256YWc/view?usp=drivesdk&resourcekey=0-g-_AOI3lB9npu_0Y1T0Ccw
+Varios|Las Mejores Historias De Terror I|https://drive.google.com/file/d/0B_yJXv2pEPBwd2hJNHp2UDRSYkU/view?usp=drivesdk&resourcekey=0-SyYQuKF7CJgWKmeaEVXOWA
+Varios|La Sindone de Cristo, Prueba Cientifica de Su Resurrecion|https://drive.google.com/file/d/0B_yJXv2pEPBwRE5aM0hPUS01aVU/view?usp=drivesdk&resourcekey=0-lxDOFtXSPkeU8f2hlPA7CQ
+Varios|La Nueva Atlantida|https://drive.google.com/file/d/0B_yJXv2pEPBwX0VIeDFNZld1a1E/view?usp=drivesdk&resourcekey=0-nnYCsZRYbbRZLx6sNDoadA
+Varios|La Institucion Del Analisis|https://drive.google.com/file/d/0B_yJXv2pEPBwWmZUTEtMOVo2Smc/view?usp=drivesdk&resourcekey=0-fkZkWdzh4YiB_N-jCu6iKw
+Varios|La Filocalia|https://drive.google.com/file/d/0B_yJXv2pEPBwLV9waDNmZzJOVTQ/view?usp=drivesdk&resourcekey=0-h8i0b5MDa4vLyh82bGR1vQ
+Varios|Imperios galacticos IV|https://drive.google.com/file/d/0B_yJXv2pEPBwemw0eGIyT0V4blU/view?usp=drivesdk&resourcekey=0-iuyZ5ubVGAE8Hv1IZzKV2g
+Varios|Imperios Galacticos III|https://drive.google.com/file/d/0B_yJXv2pEPBwX19JN0dRNnVGQzg/view?usp=drivesdk&resourcekey=0-U91ev_EjArkZ8c-nPUxHRg
+Varios|Imperios Galacticos II|https://drive.google.com/file/d/0B_yJXv2pEPBwX3h2WjBKTklnRmM/view?usp=drivesdk&resourcekey=0-uWMeF2DzYbwPebNaFTS5ZQ
+Varios|Imperios Galacticos I|https://drive.google.com/file/d/0B_yJXv2pEPBwTTQxWWpLeDJkWm8/view?usp=drivesdk&resourcekey=0-srBK98VUf5FKlC9qHtATwQ
+Varios|Imperio Usa (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwb1hmVHpFdnJmWDQ/view?usp=drivesdk&resourcekey=0-tvuARzMXy24_pZrcd0Z8fQ
+Varios|Imperio Usa (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwSzEtSEZUNm1STTg/view?usp=drivesdk&resourcekey=0-SUwLhI3D2B2WRfEprKzb4A
+Varios|Homenaje a Weird Tales|https://drive.google.com/file/d/0B_yJXv2pEPBwX0F0NHgxYmNjTDA/view?usp=drivesdk&resourcekey=0-50TFOM_VEajHqA_Pr9ZMhg
+Varios|Guia de Estimulacion Temprana|https://drive.google.com/file/d/0B_yJXv2pEPBwdlNZRnFLUnljaU0/view?usp=drivesdk&resourcekey=0-jt71JFbgic3aQ06y_IxZMw
+Varios|Fantasias|https://drive.google.com/file/d/0B_yJXv2pEPBwa1dBZnloRGRvZk0/view?usp=drivesdk&resourcekey=0-Go8jtSX_YPSh9nIWuQtZcw
+Varios|Extraños Compañeros De Cama|https://drive.google.com/file/d/0B_yJXv2pEPBwMVQ3R2M0NC1Cd1k/view?usp=drivesdk&resourcekey=0-KfgN7frxfIsGUNnmlbPQOQ
+Varios|Ensayistas Ingleses|https://drive.google.com/file/d/0B_yJXv2pEPBwVWZKVDg5Ym5pblk/view?usp=drivesdk&resourcekey=0-BHbJoHVlZO-0icvW7h7DwA
+Varios|El Tiempo No Es Tan Simple|https://drive.google.com/file/d/0B_yJXv2pEPBwUG54WlhZSFRKN3M/view?usp=drivesdk&resourcekey=0-DLSZPmp4Tvwfu8WZnsEJog
+Varios|El Palacio De Los Cuentos Vol1|https://drive.google.com/file/d/0B_yJXv2pEPBweXc2LXpDQmRUYWs/view?usp=drivesdk&resourcekey=0-LlayKqUCvcdILqlscKfHHg
+Varios|entradas|https://drive.google.com/file/d/0B_yJXv2pEPBwbzFIVl9HblliRHc/view?usp=drivesdk&resourcekey=0-d5Nbl5YY_iDlm_z0HyA6Ow
+Varios|El Manual de Estilo Editorial, el Original para Edicion|https://drive.google.com/file/d/0B_yJXv2pEPBwUExwOG9MeHZxQXc/view?usp=drivesdk&resourcekey=0-gm246OWs3O8Ba5volf74Rg
+Varios|El Club De La Comedia|https://drive.google.com/file/d/0B_yJXv2pEPBwekotcUt4elRaU1U/view?usp=drivesdk&resourcekey=0-ezvJd_Y5FOt2NF1hlmLnNQ
+Varios|El Club De La Comedia Contraataca|https://drive.google.com/file/d/0B_yJXv2pEPBwWmZPdThzaXFYNjA/view?usp=drivesdk&resourcekey=0-L7ksxp58aOZ6JlgZx_-YLg
+Varios|El Cinturon De Venus|https://drive.google.com/file/d/0B_yJXv2pEPBwdTBXS1VoY2J0VWM/view?usp=drivesdk&resourcekey=0-NLSW7gpPrCoKzxiOUURyzw
+Varios|Dinosaurios|https://drive.google.com/file/d/0B_yJXv2pEPBwM2RPaG95TXJIQjg/view?usp=drivesdk&resourcekey=0-jEV_LgHdCsncaNhQUNS-hg
+Varios|Diccionario De Los Sueños|https://drive.google.com/file/d/0B_yJXv2pEPBwOHZwRXp3bVpiRmM/view?usp=drivesdk&resourcekey=0-WIU0agFHkxqMzbMSfeVVTw
+Varios|Diccionario de Informatica e Internet|https://drive.google.com/file/d/0B_yJXv2pEPBwdUdhbUVGSHNYMjg/view?usp=drivesdk&resourcekey=0-Ygx8VHGGWiOgTwx4XI94eg
+Varios|Diccionario Basico Español de 5000|https://drive.google.com/file/d/0B_yJXv2pEPBwb194ZzI0b3VCTjQ/view?usp=drivesdk&resourcekey=0-Yczr3VCtyytESQ4uPyP1pw
+Varios|Damas Del Crimen|https://drive.google.com/file/d/0B_yJXv2pEPBwajduOC1tSXNpMU0/view?usp=drivesdk&resourcekey=0-KSUE56YFpdKZI7gqP5xAhA
+Varios|Curso de Ortografia y Reglas Generales|https://drive.google.com/file/d/0B_yJXv2pEPBwN05FOEVGUWMzSnM/view?usp=drivesdk&resourcekey=0-3bFh7P44T-kJ-RSLPeUQHg
+Varios|Cuentos Historicos Leyendas Antiguas y Tradiciones Populares de España|https://drive.google.com/file/d/0B_yJXv2pEPBwWlpHOFhjd2YzbW8/view?usp=drivesdk&resourcekey=0--GwR_R7bqHlaygi7X2Hbow
+Varios|Cuentos Españoles Contemporaneos|https://drive.google.com/file/d/0B_yJXv2pEPBwMDVmQUMtUTNKeEU/view?usp=drivesdk&resourcekey=0-dK8baqn6tWOeaOZmoJV6pQ
+Varios|Cuentos Españoles Contemporaneos Del Siglo XX|https://drive.google.com/file/d/0B_yJXv2pEPBwUWNGWm5uSWZNaTg/view?usp=drivesdk&resourcekey=0-b6pShPPrWakGe0HLM53WDg
+Varios|Cronicas Desde Bagdad (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwRmhVbXBJMG0yN2c/view?usp=drivesdk&resourcekey=0-Nj0-bhHnets1MLEHeb6PuA
+Varios|Cronicas Desde Bagdad (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwWUhKMHE3aTJGTms/view?usp=drivesdk&resourcekey=0-HNG3pz-RM7ACDdX36S8f7Q
+Varios|Criptografia para principiantes|https://drive.google.com/file/d/0B_yJXv2pEPBwd3owSnJSc1kyemM/view?usp=drivesdk&resourcekey=0-XH129J32r_ZyTA24KznmBA
+Varios|Contactos Con Alienigenas|https://drive.google.com/file/d/0B_yJXv2pEPBwWHJzcUlJbENmRnc/view?usp=drivesdk&resourcekey=0-tNtBhv-7c9_GdAjJPUPZjg
+Varios|Coleccion de Relatos de Terror Halloween|https://drive.google.com/file/d/0B_yJXv2pEPBwNEozLUd5TGQxNDg/view?usp=drivesdk&resourcekey=0-Ef3OYPzajnby9VLDQ-5HNQ
+Varios|Coleccion De Documentos Para La Historia De Mexico|https://drive.google.com/file/d/0B_yJXv2pEPBwaG5fZVFCMTlGYWM/view?usp=drivesdk&resourcekey=0-tTauc3n0IJLxV96haZHv-w
+Varios|Citas Celebres|https://drive.google.com/file/d/0B_yJXv2pEPBwN2Nqb0lSRVlZQ1E/view?usp=drivesdk&resourcekey=0-tj3XpQQicQNFawnRxtXGng
+Varios|Ciencia Ficcion Seleccion 7|https://drive.google.com/file/d/0B_yJXv2pEPBwYUdiVFg3eS1FZVE/view?usp=drivesdk&resourcekey=0-Vv5UbVvGGGKy08F_nG2SMA
+Varios|Ciencia Ficcion Seleccion 40|https://drive.google.com/file/d/0B_yJXv2pEPBwc3FaWm1zRnR6QXM/view?usp=drivesdk&resourcekey=0--8SwcmmaCNLK9gjOdDZGJg
+Varios|Ciencia Ficcion Seleccion 14|https://drive.google.com/file/d/0B_yJXv2pEPBwYWc1cTVnODg3b28/view?usp=drivesdk&resourcekey=0-NuIji4yPxfhOek8veWuOAw
+Varios|Ciencia Ficcion 22|https://drive.google.com/file/d/0B_yJXv2pEPBwQXgyRTJlNWgxeEE/view?usp=drivesdk&resourcekey=0-vNfVTkmTO9CNh5pB5OjbGQ
+Varios|CF Seleccion 40|https://drive.google.com/file/d/0B_yJXv2pEPBwekFrTnc5aHFsV2c/view?usp=drivesdk&resourcekey=0-XCciqhv_2-C1g0rnNgIouQ
+Varios|CF Seleccion 39|https://drive.google.com/file/d/0B_yJXv2pEPBwRWNfOHRVUEpZeGM/view?usp=drivesdk&resourcekey=0-uLo03clgi0dRH58u1utM-g
+Varios|CF Seleccion 38|https://drive.google.com/file/d/0B_yJXv2pEPBwM2ZxNnBiQl9xeGM/view?usp=drivesdk&resourcekey=0-fCYPIjSlAllzGiyrm8kgXw
+Varios|Bosquejo sobre el Estado Politico Moral y Literario del Peru|https://drive.google.com/file/d/0B_yJXv2pEPBwbUNZY29mTEVqYTg/view?usp=drivesdk&resourcekey=0-0GuMOeS1h0q9jiOqwIaceA
+Varios|Borges, Criticas Y Comentarios Sobre Sus Obras|https://drive.google.com/file/d/0B_yJXv2pEPBwNlo5UlJWQjdOdXc/view?usp=drivesdk&resourcekey=0-n7w0IKe6p1llInjVmM3gQw
+Varios|Biologia Celular|https://drive.google.com/file/d/0B_yJXv2pEPBwcXpNVG04dDMzOEk/view?usp=drivesdk&resourcekey=0-qZqWIFoWAMbGnqEmdPiw0A
+Varios|Bestiario 6 _ Zoologos y cazadores|https://drive.google.com/file/d/0B_yJXv2pEPBwSTBoOWdfUW9XWEE/view?usp=drivesdk&resourcekey=0-htMEcIlSToeoT1qDrt3EhA
+Varios|Bestiario 5 _ Bestias Mundos|https://drive.google.com/file/d/0B_yJXv2pEPBwWEJVeDR5R1A3MkU/view?usp=drivesdk&resourcekey=0-Cm6vVBuaC0SEhH2T0T7Brw
+Varios|Bestiario 4 _ Bestias Terrestres|https://drive.google.com/file/d/0B_yJXv2pEPBwS3Q1eDBOcXM4WE0/view?usp=drivesdk&resourcekey=0-FZ-PBq2CVCgw8V8iuoAFHw
+Varios|Bestiario 3 _ Bestias de la ciencia|https://drive.google.com/file/d/0B_yJXv2pEPBwVVlJLTlwYVpDbmc/view?usp=drivesdk&resourcekey=0-ILy2A7YfcSmA2SUIa8QTuw
+Varios|Bestiario 2 _ Perros y Lobos|https://drive.google.com/file/d/0B_yJXv2pEPBwaVVocUE2YkFQS00/view?usp=drivesdk&resourcekey=0-iIWSeHoK0NRxDkgZOoE64g
+Varios|Bestiario 1 _ Una nueva vision|https://drive.google.com/file/d/0B_yJXv2pEPBwMTlOVUc3bjNFOWM/view?usp=drivesdk&resourcekey=0-lU1drmbnNvvGCPd_e8y7Vg
+Varios|Bajo El Signo De Alpha, Antologia De Ciencia Ficcion Y Fant|https://drive.google.com/file/d/0B_yJXv2pEPBwRXJMay1JT0pvRUU/view?usp=drivesdk&resourcekey=0-bckcQpvlrxT9hEDiN55gmQ
+Varios|Asimov Magazine Nro13|https://drive.google.com/file/d/0B_yJXv2pEPBwdkZ6VjZfZEdjc3c/view?usp=drivesdk&resourcekey=0-HWo6k_fx6xcEyHfF9WjpbQ
+Varios|Articulos sobre Juan Bosh|https://drive.google.com/file/d/0B_yJXv2pEPBwU3hKUUVscy1VM2c/view?usp=drivesdk&resourcekey=0-DYrPkav9Wn7t_jwNy8f8ug
+Varios|Aprenda Java Como Si Estuviera En Primero|https://drive.google.com/file/d/0B_yJXv2pEPBwQmF5OEY2S0JHOGM/view?usp=drivesdk&resourcekey=0-evkfvc80PGST7Az78WA52g
+Varios|Antologia de relatos de ciencia ficcion 1973|https://drive.google.com/file/d/0B_yJXv2pEPBwZF9fRHZFaWcxZUU/view?usp=drivesdk&resourcekey=0-kHHKJH8f3ZFBaieB_KHf7A
+Varios|Antologia de Ciencia Ficcion y Fantasia Mexicana|https://drive.google.com/file/d/0B_yJXv2pEPBwak82aXpfNm5pS0k/view?usp=drivesdk&resourcekey=0-iG6mEg6AugAwLXaWDSxJDg
+Varios|Antologia CF Bruguera 03|https://drive.google.com/file/d/0B_yJXv2pEPBwa0dfMDVrZ00wc0E/view?usp=drivesdk&resourcekey=0-QbiLJU-TcSAdqNRMKG-c9Q
+Varios|Antologia CF Bruguera 02|https://drive.google.com/file/d/0B_yJXv2pEPBwa2lPV2VwUHdObmc/view?usp=drivesdk&resourcekey=0-59nz3PdaAKpRaWOy_aiygA
+Varios|Antologia CF Bruguera 01|https://drive.google.com/file/d/0B_yJXv2pEPBwYTlZRXpuZnhTMjg/view?usp=drivesdk&resourcekey=0-OusF6I9ytQpdbngL9wlxEQ
+Varios|Antologia CF 2003|https://drive.google.com/file/d/0B_yJXv2pEPBwQkYzM3Q5Y29td28/view?usp=drivesdk&resourcekey=0-J3-Nzv76fghiWiI-Pej0MQ
+Varios|Antologia CF 2002|https://drive.google.com/file/d/0B_yJXv2pEPBwNnBudW9hRzl1MU0/view?usp=drivesdk&resourcekey=0-DLIPVfv9bpSIHPMVt8Va1Q
+Varios|Antologia CF 2001|https://drive.google.com/file/d/0B_yJXv2pEPBwc3RkSkFUN0JpVzA/view?usp=drivesdk&resourcekey=0-bpQy94bEGXcT1OdbEh4u0w
+Varios|Antologia CF 2000|https://drive.google.com/file/d/0B_yJXv2pEPBwdWRWWnJVaGVvcFU/view?usp=drivesdk&resourcekey=0-ZZYA7KILMQUc7r52QTC72Q
+Varios|Antologia CF 1999|https://drive.google.com/file/d/0B_yJXv2pEPBwb0U4bEFKcndHLXM/view?usp=drivesdk&resourcekey=0-W9mrKh7hZ9-tiDU68ZaX4g
+Varios|Antologia Acervo XVIII|https://drive.google.com/file/d/0B_yJXv2pEPBwOHZha1Y3eHJZd0k/view?usp=drivesdk&resourcekey=0-8BNoxuCMIpumk3Ip1X7sMA
+Varios|Antologa De Homenaje a Weird Tales|https://drive.google.com/file/d/0B_yJXv2pEPBwSFBzcGx2b0FLUkk/view?usp=drivesdk&resourcekey=0-aGq1eEBfmH6nmxXY-XCLLA
+Varios|Angeles y Demonios|https://drive.google.com/file/d/0B_yJXv2pEPBwdVJGSEJWdnU4TzA/view?usp=drivesdk&resourcekey=0-EqRacE11rB2aWXTf-nyCHw
+Varios|Amanecer Vudu (Vocabulario)|https://drive.google.com/file/d/0B_yJXv2pEPBwUlZ2Z1dBMW9uQ2c/view?usp=drivesdk&resourcekey=0-CJl6OWmRPrchb52k7PNThQ
+Varios|Amanecer Vudu (Introduccion)|https://drive.google.com/file/d/0B_yJXv2pEPBwQzJJaF94Nlp3VkE/view?usp=drivesdk&resourcekey=0-pKvedNu-aI0aa1S_Pk89AQ
+Varios|Aborigenes de Argentina|https://drive.google.com/file/d/0B_yJXv2pEPBwTEh2MGpEckVnTzQ/view?usp=drivesdk&resourcekey=0-ePGmHsXuNk2XgLTOqLUPvQ
+Varios|49 Cuentos Fantasticos Verdes|https://drive.google.com/file/d/0B_yJXv2pEPBwNE1tNTZCZGxLY0k/view?usp=drivesdk&resourcekey=0-yFVhqEShyzGXJDx_QqKW9A
+Varios|11 M, Redes Para Ganar Una Guerra|https://drive.google.com/file/d/0B_yJXv2pEPBwX3R5azY4MUt3YW8/view?usp=drivesdk&resourcekey=0-c9eX1mZ172upHUnOqjUR8w
+Thea Von Harbou|Metropolis|https://drive.google.com/file/d/0B_yJXv2pEPBwVGpONnBkN242c3M/view?usp=drivesdk&resourcekey=0-QWq_MonXQKDYLS7-yYuSkQ
+Eduardo Acevedo Díaz|Nativa|https://drive.google.com/file/d/0B_yJXv2pEPBweEJ1Z1NQdWxUVGM/view?usp=drivesdk&resourcekey=0-aVIYO4zv9B432IJ4zZWSAQ
+Eduardo Acevedo Díaz|Ismael|https://drive.google.com/file/d/0B_yJXv2pEPBwVWlVaTQ0c2hKNlk/view?usp=drivesdk&resourcekey=0-SfLUGXh5pEvyhQnDHTcdJw
+Eduardo Acevedo Díaz|Grito de gloria|https://drive.google.com/file/d/0B_yJXv2pEPBwUF9nT2pDR1djb2c/view?usp=drivesdk&resourcekey=0-2vFM9ux7JW7rHMgn5uKcSg
+Eduardo Acevedo Díaz|El combate de la tapera|https://drive.google.com/file/d/0B_yJXv2pEPBwZ2MwY0w4VU5GRzA/view?usp=drivesdk&resourcekey=0-4NdlehpB-r2ld9kTNfprsA
+Eduardo Acevedo Díaz|Brenda|https://drive.google.com/file/d/0B_yJXv2pEPBwTVByYW5qZTRfMDQ/view?usp=drivesdk&resourcekey=0-7FskXGN_ipXbDSO58iBtOQ
+Vincent Van Gogh|Ultimas Cartas Desde La Locura|https://drive.google.com/file/d/0B_yJXv2pEPBwLVhCT3F0QWZHVHM/view?usp=drivesdk&resourcekey=0-C1HCzxAq71HleoEpuoX_2A
+Alfredo E. Van Vogt|Slan 1963|https://drive.google.com/file/d/0B_yJXv2pEPBwQk14MEZ3OGFMSkE/view?usp=drivesdk&resourcekey=0-leOSy-zD8shyC5eXz0l0Ww
+Alfredo E. Van Vogt|Seleccion de Relatos de Ciencia Ficcion|https://drive.google.com/file/d/0B_yJXv2pEPBwRFd3M2l6RmRDZEU/view?usp=drivesdk&resourcekey=0-llTK-ZxZAd9iN0GvUF4qJA
+Alfredo E. Van Vogt|Razas del futuro|https://drive.google.com/file/d/0B_yJXv2pEPBwWHA0OU5TQURCLWM/view?usp=drivesdk&resourcekey=0-7lPYMInGZUWm1nRn582xQw
+Alfredo E. Van Vogt|Proceso|https://drive.google.com/file/d/0B_yJXv2pEPBwTHJMckkxb09UTXM/view?usp=drivesdk&resourcekey=0--MckVIfl7xEYicel--f2wQ
+Alfredo E. Van Vogt|Lejano Centauro|https://drive.google.com/file/d/0B_yJXv2pEPBwWW1heThQcHRWR1E/view?usp=drivesdk&resourcekey=0-KsSx6ohIwlvXRrqH-LfbfA
+Alfredo E. Van Vogt|Las Armerias De Isher|https://drive.google.com/file/d/0B_yJXv2pEPBwTUVIZC1ZR0RUUU0/view?usp=drivesdk&resourcekey=0-9QbTGq9BS_cEkZJ80geH1Q
+Alfredo E. Van Vogt|La Bestia|https://drive.google.com/file/d/0B_yJXv2pEPBweWEwRGFXVXhBZ2c/view?usp=drivesdk&resourcekey=0-C8uslqBE3VfeIQuMjN_IxQ
+Alfredo E. Van Vogt|En Estado Latente|https://drive.google.com/file/d/0B_yJXv2pEPBwVXJ0a2tJUGpDY1U/view?usp=drivesdk&resourcekey=0-zHblXAVJ74msmCO3nJU54Q
+Alfredo E. Van Vogt|El Viaje del Beagle Espacial|https://drive.google.com/file/d/0B_yJXv2pEPBwNGVodWVfQjBNSTg/view?usp=drivesdk&resourcekey=0-tFYcam7BsMARCVMLi4XOBA
+Alfredo E. Van Vogt|Destructor Negro|https://drive.google.com/file/d/0B_yJXv2pEPBwM2Vld2FPVlFtZjg/view?usp=drivesdk&resourcekey=0-kwDM03UUxivfQimMRfvJuw
+Ryunosuke Akutagawa|Un Cuerpo De Mujer|https://drive.google.com/file/d/0B_yJXv2pEPBwV3JsYVVIMjFfRmc/view?usp=drivesdk&resourcekey=0-cHua2c34YcoLKfn92f_dSw
+Ryunosuke Akutagawa|Sennin|https://drive.google.com/file/d/0B_yJXv2pEPBwNXVBaHRJOFFEQTg/view?usp=drivesdk&resourcekey=0-ZTpgZKrjxnEv2CVlW1xYrA
+Ryunosuke Akutagawa|Rashomon|https://drive.google.com/file/d/0B_yJXv2pEPBwZG1iZ3JZMjdGV1k/view?usp=drivesdk&resourcekey=0-PC53zwI-MJDN3hcWz33sJQ
+Ryunosuke Akutagawa|La nariz|https://drive.google.com/file/d/0B_yJXv2pEPBwVlF2dk4yNVJoNjQ/view?usp=drivesdk&resourcekey=0-H5Z1j6Tdo8o6ZCPT5lB-2g
+Ryunosuke Akutagawa|Kesa y Morito|https://drive.google.com/file/d/0B_yJXv2pEPBwVlA1LUpNYi1Gck0/view?usp=drivesdk&resourcekey=0-s0o-Mj2SbRzHBoyykewd7w
+Ryunosuke Akutagawa|En el bosque|https://drive.google.com/file/d/0B_yJXv2pEPBwekN0UGp3V2o5RFE/view?usp=drivesdk&resourcekey=0-qqu2qCJbKXa4YDS9GQfQ3A
+Ryunosuke Akutagawa|El biombo del infierno|https://drive.google.com/file/d/0B_yJXv2pEPBwX1cwNGdhclNUU3c/view?usp=drivesdk&resourcekey=0-kT9bBT4LOp4dP_6WH1RzZw
+Manuel Vásquez Montalbán|Los Mares Del Sur|https://drive.google.com/file/d/0B_yJXv2pEPBwT2pVSm9ZVFJoQ2s/view?usp=drivesdk&resourcekey=0-7XpAKMUUO6bdUBJFmpCEIg
+Manuel Vásquez Montalbán|La Rosa De Alejandria|https://drive.google.com/file/d/0B_yJXv2pEPBwZUVEaDItVzBsOVE/view?usp=drivesdk&resourcekey=0-Ww2uemST6lMbSgsIhcqLUA
+Manuel Vásquez Montalbán|El Premio|https://drive.google.com/file/d/0B_yJXv2pEPBwX0tCeG5kRlV5MHc/view?usp=drivesdk&resourcekey=0-ytKctYfqBDhXHJXPMVI6Lg
+Manuel Vásquez Montalbán|Cuentos|https://drive.google.com/file/d/0B_yJXv2pEPBweGJQaTFRcmJHMWc/view?usp=drivesdk&resourcekey=0-brUt_UfzsYnEf_F0vwHJLA
+Manuel Vásquez Montalbán|Carvalho Historias De Politica Ficcion|https://drive.google.com/file/d/0B_yJXv2pEPBwcGZYdVlDT25NRzg/view?usp=drivesdk&resourcekey=0-EkCGrHTTYW4c3jbpTCq25Q
+Armando José Valle Rodríguez|Que Peligro Matar!|https://drive.google.com/file/d/0B_yJXv2pEPBwLVVmYzJxTXJvLUk/view?usp=drivesdk&resourcekey=0-u1kNXwNmVoOo0VJXjB4IbQ
+Armando José Valle Rodríguez|El caudillo|https://drive.google.com/file/d/0B_yJXv2pEPBwWVZhd3JsNmpDeE0/view?usp=drivesdk&resourcekey=0-riUJUjzFB0ZzX4xNwVAnYA
+José G. Vargas Hernandez|El Nuevo Modelo Global Emergente|https://drive.google.com/file/d/0B_yJXv2pEPBwcXpyQ25yaDdqZk0/view?usp=drivesdk&resourcekey=0-BrwbQFWoEthxwmddYkRX-Q
+Horacio Verbitsky|Robo Para La Corona|https://drive.google.com/file/d/0B_yJXv2pEPBwM0lVbnlxOTY3LVE/view?usp=drivesdk&resourcekey=0-r2dWWOrxEytCndKW9WupKQ
+Robert E. Vardeman|Star Trek 02 _ El Gambito De Los Klingon|https://drive.google.com/file/d/0B_yJXv2pEPBwa0pKdmxCeDFJRmc/view?usp=drivesdk&resourcekey=0-GJ6Ro4_4XtIT_VzhRsFFYA
+Javier Valdés Abascal|Asesino En Serio|https://drive.google.com/file/d/0B_yJXv2pEPBwa2hwY1o5MHYtTEE/view?usp=drivesdk&resourcekey=0-NLECpvtzaIBFmPZao2SmmQ
+Cesar Vidal Manzanares|Los Manuscritos Del Mar Muerto|https://drive.google.com/file/d/0B_yJXv2pEPBwZTFOdlNLbTdSTjQ/view?usp=drivesdk&resourcekey=0-BROHaBTXkedzQxNNlbuqOg
+Cesar Vidal Manzanares|El Primer Evangelio El Documento Q|https://drive.google.com/file/d/0B_yJXv2pEPBwcWFNTDFBcmcyTXc/view?usp=drivesdk&resourcekey=0-alI5VWk-rx1yM4LjU7oX3w
+Jack Vance|Principes Demonio 5 _ El Libro De Los Sueños|https://drive.google.com/file/d/0B_yJXv2pEPBwLVdhWG9oM0diUnM/view?usp=drivesdk&resourcekey=0-YR7FPMabQmnVhTQJQRbj7g
+Jack Vance|Principes Demonio 4 _ El_Rostro|https://drive.google.com/file/d/0B_yJXv2pEPBwa0lUNGs2bDVKTnc/view?usp=drivesdk&resourcekey=0-yio_N2VP7Xrs66YAyqSrdQ
+Jack Vance|Principes Demonio 3 _ El Palacio Del Amor|https://drive.google.com/file/d/0B_yJXv2pEPBwaFVfNUd4WUNYUGs/view?usp=drivesdk&resourcekey=0-hdpLZjQ5KGTZkmJ2_UOACw
+Jack Vance|Principes Demonio 2 _ La Maquina De Matar|https://drive.google.com/file/d/0B_yJXv2pEPBwUHZqMFlfQ0tFODg/view?usp=drivesdk&resourcekey=0-KJn-i-TYVe5bin2dnRfevw
+Jack Vance|Principes Demonio 1 _ El Rey Estelar|https://drive.google.com/file/d/0B_yJXv2pEPBwTDlOcmhWdFZ6bUk/view?usp=drivesdk&resourcekey=0-xTyBeYi8ApZ0c3BWLaBprg
+Jack Vance|Mundo Azul|https://drive.google.com/file/d/0B_yJXv2pEPBwbmVoeXQ5cl9LUnc/view?usp=drivesdk&resourcekey=0-sZLdrmLntLKWW4aMpu2lVg
+Jack Vance|Lyonesse 3 _ Madouc|https://drive.google.com/file/d/0B_yJXv2pEPBwQ3o0a1Y2U3JhRlE/view?usp=drivesdk&resourcekey=0-6r-pgWL_3uFnxKaHAkSO0A
+Jack Vance|Lyonesse 2 _ La Perla Verde|https://drive.google.com/file/d/0B_yJXv2pEPBwZGxjcVZMVHhqOVE/view?usp=drivesdk&resourcekey=0-o5d-5IiAZPgokbZ5KMBN6g
+Jack Vance|Lyonesse 1 _ El Jardin De Suldrun|https://drive.google.com/file/d/0B_yJXv2pEPBwY1BOc3JWbEQ2Qk0/view?usp=drivesdk&resourcekey=0-tO58JPtnzLdwHXspvbf0cg
+Jack Vance|Los Mundos De Jack Vance|https://drive.google.com/file/d/0B_yJXv2pEPBwbHFQMjNGcFJtM1E/view?usp=drivesdk&resourcekey=0-o5gwnheq0sPXUkVT_SjgiA
+Jack Vance|Los Lenguajes De Pao|https://drive.google.com/file/d/0B_yJXv2pEPBwYWlET2VRYW5iRjA/view?usp=drivesdk&resourcekey=0-a31iT5puSL8tOCHK8_Sx6g
+Jack Vance|Lo Mejor de Jack Vance|https://drive.google.com/file/d/0B_yJXv2pEPBwVnpJVUowSGM4Umc/view?usp=drivesdk&resourcekey=0-KIJfoddOhbgQmoOhbAt2tw
+Jack Vance|Lampara De Noche|https://drive.google.com/file/d/0B_yJXv2pEPBwM2lvVjhpVFBGNTg/view?usp=drivesdk&resourcekey=0-tUm7X_ABD2uth8c4G5D4xA
+Jack Vance|La Tierra Moribunda 4 _ Rhialto El Prodigioso|https://drive.google.com/file/d/0B_yJXv2pEPBwc2pzMGtRbVFqN2M/view?usp=drivesdk&resourcekey=0-Nq5ec6n56OV70I4BeONkgg
+Jack Vance|La Tierra Moribunda 3 _ La Saga De Cugel|https://drive.google.com/file/d/0B_yJXv2pEPBwN2RPN3lhRTB4Xzg/view?usp=drivesdk&resourcekey=0-iUUTLsakDoMsAwbxs3OIVQ
+Jack Vance|La Tierra Moribunda 2 _ Los Ojos Del Sobremundo|https://drive.google.com/file/d/0B_yJXv2pEPBwOVNoMGl2V1F0anc/view?usp=drivesdk&resourcekey=0-5kvS5Ia5YHX54dWC0acMvg
+Jack Vance|La Tierra Moribunda 1 _ La Tierra Moribunda|https://drive.google.com/file/d/0B_yJXv2pEPBwYk4tWUh4VFFrNHM/view?usp=drivesdk&resourcekey=0-e_M6AaKW7CMO2akuBIyKCQ
+Jack Vance|La Polilla Lunar|https://drive.google.com/file/d/0B_yJXv2pEPBwbjUzUTdid0lqOGs/view?usp=drivesdk&resourcekey=0-7nhlCXJ-lnG8ZpjxEH_GaA
+Jack Vance|La Maquina De Matar|https://drive.google.com/file/d/0B_yJXv2pEPBwN3R2bGphVkRUMGM/view?usp=drivesdk&resourcekey=0-_GYGM5ch-H1n6vVqX-7mzA
+Jack Vance|Hombres Y Dragones|https://drive.google.com/file/d/0B_yJXv2pEPBwTWNwSE5sY1BMcU0/view?usp=drivesdk&resourcekey=0-WO4wbuuUg_IgeJ6liB1PDg
+Jack Vance|Estacion de Abercrombie|https://drive.google.com/file/d/0B_yJXv2pEPBwTVJXUFNubC1zdjg/view?usp=drivesdk&resourcekey=0-AEsAFAYp1MnfhErEHS9Sag
+Jack Vance|Emphyrio|https://drive.google.com/file/d/0B_yJXv2pEPBwX1hRVW44bVdodGM/view?usp=drivesdk&resourcekey=0-xuF6cB3JjNcoTTp6GvuC_w
+Jack Vance|El Secreto|https://drive.google.com/file/d/0B_yJXv2pEPBwOWNOclZsOXIzWTA/view?usp=drivesdk&resourcekey=0-VEvhyaN-lCjzQDaqDjDRbw
+Jack Vance|El Rostro|https://drive.google.com/file/d/0B_yJXv2pEPBwaU4yanlMeHpCdTQ/view?usp=drivesdk&resourcekey=0-OAQOAu-_0P7271NZFHNAQg
+Jack Vance|El Rey Estelar|https://drive.google.com/file/d/0B_yJXv2pEPBwX0ZSSHVDbnpsR1U/view?usp=drivesdk&resourcekey=0-F_Xnu2Osz4kHTKMAlZbwSA
+Jack Vance|El Principe Gris|https://drive.google.com/file/d/0B_yJXv2pEPBwbVlFd3RMa3RXQ00/view?usp=drivesdk&resourcekey=0-FvYXvwkFodp8Tt-U_-6uBA
+Jack Vance|El Planeta Grande|https://drive.google.com/file/d/0B_yJXv2pEPBwTmc0OVJBU3dsY00/view?usp=drivesdk&resourcekey=0-oaCRigFdd-MNDr7NTu-m-w
+Jack Vance|El Palacio del Amor|https://drive.google.com/file/d/0B_yJXv2pEPBwajJrS2lKNlR1VUU/view?usp=drivesdk&resourcekey=0-7Hrt5R6u1xG6mNPlssciow
+Jack Vance|El libro de los sueños|https://drive.google.com/file/d/0B_yJXv2pEPBwY2h2VmM2UXE5WGM/view?usp=drivesdk&resourcekey=0-asPT4G_tbwTBgz75aJM4mA
+Jack Vance|Durdane 3 _ Los Asutra|https://drive.google.com/file/d/0B_yJXv2pEPBwVmRDam5WanA2eG8/view?usp=drivesdk&resourcekey=0-WVIVKasY1FX3df5yB_OyIQ
+Jack Vance|Durdane 2 _ Los Valerosos Hombres Libres|https://drive.google.com/file/d/0B_yJXv2pEPBwemdKblNIM1I0dVE/view?usp=drivesdk&resourcekey=0-AhKZ9pxHIfvvEkVxyiGqzA
+Jack Vance|Durdane 1 _ El Hombre Sin Rostro|https://drive.google.com/file/d/0B_yJXv2pEPBwWDFKeGszTTJJSmc/view?usp=drivesdk&resourcekey=0-X0euCjzU8VwijuvY1t6DEg
+Jack Vance|Cumulo Estelar 3 _ Wyst (Alastor 1716)|https://drive.google.com/file/d/0B_yJXv2pEPBwWlk0U2FmS2lqWlU/view?usp=drivesdk&resourcekey=0-vuaEPIqgt-dIWIRlpPcRiw
+Jack Vance|Cumulo Estelar 2 _ Marune (Alastor 933)|https://drive.google.com/file/d/0B_yJXv2pEPBwREZxdWZXN2FtX28/view?usp=drivesdk&resourcekey=0-xylmGOv9ravoIaD8H3iVWw
+Jack Vance|Cumulo Estelar 1 _ Trullion (Alastor 2262)|https://drive.google.com/file/d/0B_yJXv2pEPBwZUlROGR1cTJVS00/view?usp=drivesdk&resourcekey=0-DokRSWpQvT1luxb8AWehRw
+Jack Vance|Ciclo Tschai 4 _ Los Pnume|https://drive.google.com/file/d/0B_yJXv2pEPBwZ1VSMTlwdDBnOTA/view?usp=drivesdk&resourcekey=0-p3yeMHk0jlRPNLmSgvovlA
+Jack Vance|Ciclo Tschai 3 _ Los Dirdir|https://drive.google.com/file/d/0B_yJXv2pEPBwa3ZvYVgyRjRSSVk/view?usp=drivesdk&resourcekey=0-YuSaKrXWwyquhIiSrBFOnw
+Jack Vance|Ciclo de Tschai 2_Los Wankh|https://drive.google.com/file/d/0B_yJXv2pEPBwNHpfM2ROODZMZ2c/view?usp=drivesdk&resourcekey=0-TuKj4YlB1IvDZj1vHXAY_g
+Jack Vance|Ciclo de Tschai 1_Los Chasch|https://drive.google.com/file/d/0B_yJXv2pEPBwVW1udFpXQ0NmSWM/view?usp=drivesdk&resourcekey=0-PlVDqMmJ-hjsz7zkikAqFw
+Jack Vance|Cerebros De La Tierra|https://drive.google.com/file/d/0B_yJXv2pEPBwdGMydHFoc0h1OUE/view?usp=drivesdk&resourcekey=0-Qdv7UU0u0umgTZDn8fvcNA
+Jack Vance|Asalto A Una Ciudad|https://drive.google.com/file/d/0B_yJXv2pEPBwQ3c3amlqOTByaTg/view?usp=drivesdk&resourcekey=0-K9YUEdC9JuolRQEolxO3xw
+Jesco Von Puttkamer|Demasiado Joven Para La Eternidad|https://drive.google.com/file/d/0B_yJXv2pEPBwYzk1Z2Z3cnJzaWM/view?usp=drivesdk&resourcekey=0-6PDgqH6MZXI3AUJ61qUjcQ
+Erwin Von Hase|Con los gauchos de la Pampa|https://drive.google.com/file/d/0B_yJXv2pEPBwZ2txQ2JHeFZ4UU0/view?usp=drivesdk&resourcekey=0-Dtc8DjQ67UNkrI1is-S7IA
+Eliseo Verón|Prensa Escrita Y Teoria De Los Discursos Sociales Produccion, Recepcion, Regulaci|https://drive.google.com/file/d/0B_yJXv2pEPBwN3g2Y0tuODZsNFU/view?usp=drivesdk&resourcekey=0-AKiM80NjGNcplrRl-EoCTA
+Eliseo Verón|La Publicidad Mascaras Y Espejos|https://drive.google.com/file/d/0B_yJXv2pEPBwNlRYbXZYTW1ORWc/view?usp=drivesdk&resourcekey=0-1diWEhsO91dFvUR4nclVCw
+Eliseo Verón|Interfaces Sobre La Democracia Audiovisual Avanzada|https://drive.google.com/file/d/0B_yJXv2pEPBwbHRFZVZLNk84b1E/view?usp=drivesdk&resourcekey=0-cx6qL3v9hyyUvYxb_G3LSQ
+Eliseo Verón|Esta Ahi Lo Veo, Me Habla Noticiero Televisivo|https://drive.google.com/file/d/0B_yJXv2pEPBwRE9LV0JDMkdVdjA/view?usp=drivesdk&resourcekey=0-IOBsdmw6XgKQ9uEJFMtM2Q
+Eliseo Verón|Espacios Publicos En Imagenes|https://drive.google.com/file/d/0B_yJXv2pEPBwWmtVbzUzdFA5eXc/view?usp=drivesdk&resourcekey=0-xcOmvQrps6NMhhao-ZooDA
+Eliseo Verón|El Living Y Sus Dobles Arquitecturas De La Pantalla Chica|https://drive.google.com/file/d/0B_yJXv2pEPBwVFhzMWctTHo4RXc/view?usp=drivesdk&resourcekey=0-oW_61PP_-Gsxm46ds0jH1g
+Eliseo Verón|El Cuerpo Reencontrado|https://drive.google.com/file/d/0B_yJXv2pEPBwMHFvQ2VXUVQwYTg/view?usp=drivesdk&resourcekey=0-g-xXzFGJjffA4vzr8N4E_Q
+Eliseo Verón|El Analisis Del Contrato De Lectura|https://drive.google.com/file/d/0B_yJXv2pEPBwLS1leHVxYUQ0X3M/view?usp=drivesdk&resourcekey=0-T_MVHCsLAxmor0Y1omyPVg
+Eliseo Verón|Cuerpo Y Metacuerpo En Democracia Audiovisual|https://drive.google.com/file/d/0B_yJXv2pEPBwOWZmUm9SVjJTTW8/view?usp=drivesdk&resourcekey=0-x7DdZCf3Mr22yLB7LVNuOQ
+Eliseo Verón|Nobel En 1A Plana|https://drive.google.com/file/d/0B_yJXv2pEPBwSlo5WWFYalVHcG8/view?usp=drivesdk&resourcekey=0-0OjOL0ycQ1_pENsq37VCVg
+Shea Vernon|El Visitante Del Cementerio|https://drive.google.com/file/d/0B_yJXv2pEPBwVlpLS0RRTm5RQ00/view?usp=drivesdk&resourcekey=0-cTVu_Q9t_xOIwD5hmXE9RQ
+Julio Verne|Vuelta al Mundo en 80 Dias|https://drive.google.com/file/d/0B_yJXv2pEPBwdXI4bUptdUxfVW8/view?usp=drivesdk&resourcekey=0-yxggG1gvNqiE-et4LWejwA
+Julio Verne|Viaje al Centro de la Tierra|https://drive.google.com/file/d/0B_yJXv2pEPBwQV83OFNBR3VmMDg/view?usp=drivesdk&resourcekey=0-YVD9Y3rw29T-ko3rUwngcA
+Julio Verne|Veinte mil leguas de viaje submarino|https://drive.google.com/file/d/0B_yJXv2pEPBwWE9VRW9BUlJmNHM/view?usp=drivesdk&resourcekey=0-T7MNXO_FJOnzEIGL8hP-TA
+Julio Verne|Un Capitan de quince años|https://drive.google.com/file/d/0B_yJXv2pEPBwY0dPMG80TFdHMEk/view?usp=drivesdk&resourcekey=0-l5o62r7XVV9fJAOA6pU4pg
+Julio Verne|Paris En El Siglo XX|https://drive.google.com/file/d/0B_yJXv2pEPBwQlNiVE9KeW1YQmc/view?usp=drivesdk&resourcekey=0-EdOMSHIVassTd5AzZG_20g
+Julio Verne|Miguel Strogoff|https://drive.google.com/file/d/0B_yJXv2pEPBwWTM3aHBvQUMxQ1U/view?usp=drivesdk&resourcekey=0-rzf8o4NIVKHDzranKHbuXw
+Julio Verne|Martin Paz|https://drive.google.com/file/d/0B_yJXv2pEPBwWjJHV05rRWdfMTQ/view?usp=drivesdk&resourcekey=0-mUhcyHDsLtP4GkVJ-PTkng
+Julio Verne|Los Naufragos Del Jonathan|https://drive.google.com/file/d/0B_yJXv2pEPBwcE9ZVUNMRnZtMUU/view?usp=drivesdk&resourcekey=0-dZRoHNedT0WypSZ0-ACG1g
+Julio Verne|Los Hijos Del Capitan Grant En La America Del Sur|https://drive.google.com/file/d/0B_yJXv2pEPBwYWxlM290NUlVR2s/view?usp=drivesdk&resourcekey=0-3mqY38C8spWfnjO1MxVUJA
+Julio Verne|Los forzadores del bloqueo|https://drive.google.com/file/d/0B_yJXv2pEPBwUFB2cjdPX0hJc00/view?usp=drivesdk&resourcekey=0-6fVeuDLbQltwwuN8rxtm7Q
+Julio Verne|Los Amotinados De La Bounty|https://drive.google.com/file/d/0B_yJXv2pEPBwc2JHc3JTWFp5a2c/view?usp=drivesdk&resourcekey=0-YwZ9SqRhhgK01Xng01vm_A
+Julio Verne|Las tribulaciones de un chino en china|https://drive.google.com/file/d/0B_yJXv2pEPBwMDg5eVVVWVp5N28/view?usp=drivesdk&resourcekey=0-t_4gYr1bsfGaZXUPNGO62A
+Julio Verne|Las Indias Negras|https://drive.google.com/file/d/0B_yJXv2pEPBwM296b0Z3ZGYxM2M/view?usp=drivesdk&resourcekey=0-CGDqj7pZZgJHOvIcDKUwWw
+Julio Verne|La Isla Misteriosa|https://drive.google.com/file/d/0B_yJXv2pEPBwT2lvNG9oWDhaRnM/view?usp=drivesdk&resourcekey=0--shqbiVx5Ekh8GBOJUKuHA
+Julio Verne|La Isla Del Tio Robinson|https://drive.google.com/file/d/0B_yJXv2pEPBwVlZ4QzhuX3dsMm8/view?usp=drivesdk&resourcekey=0-3SbKRsQuZbgHZTfmUJdpqw
+Julio Verne|La Esfinge De Los Hielos (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwLUR1ejRIVldxa2c/view?usp=drivesdk&resourcekey=0-VUtfuQtlizkeOlbFjaySVw
+Julio Verne|La Esfinge De Los Hielos (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwcmo0WHd3bVZiUUE/view?usp=drivesdk&resourcekey=0-vXGVSCUcd-NQwgI16rE-pQ
+Julio Verne|La ciudad flotante|https://drive.google.com/file/d/0B_yJXv2pEPBwSUh5R0ZSOHRFT2M/view?usp=drivesdk&resourcekey=0-jtR1btXVxqc8ICbALZVJyQ
+Julio Verne|Historia De Los Grandes Viajes Y De Los Grandes Viajeros|https://drive.google.com/file/d/0B_yJXv2pEPBwSUtfZXBnVGM5RW8/view?usp=drivesdk&resourcekey=0-xk3l7b50g0Dt9OvQSQzczg
+Julio Verne|Gil Braltar|https://drive.google.com/file/d/0B_yJXv2pEPBwdEdaVThGNjZUcE0/view?usp=drivesdk&resourcekey=0-evVzXYU9eiAdHa13RFWMSA
+Julio Verne|Familia sin nombre|https://drive.google.com/file/d/0B_yJXv2pEPBwUC00OFNpa0NzdXM/view?usp=drivesdk&resourcekey=0-yl74zJgt8LyD36FHoBB9rw
+Julio Verne|Esfinge de los hielos|https://drive.google.com/file/d/0B_yJXv2pEPBwNE1ROU45X2tuRE0/view?usp=drivesdk&resourcekey=0-GRwJ_8e-TaFIHibaCtY41A
+Julio Verne|En El Siglo XXIX, Un Dia De Un Periodista Norteamericano En El Año 2889|https://drive.google.com/file/d/0B_yJXv2pEPBwQmdjTHVGemU3OE0/view?usp=drivesdk&resourcekey=0-vXgh8JpgKWiJG5phCnOOtA
+Julio Verne|El Volcan De Oro|https://drive.google.com/file/d/0B_yJXv2pEPBwNTQ3R0F2cDBURFk/view?usp=drivesdk&resourcekey=0-DFQYrUntJmnJmmJrR1fs_g
+Julio Verne|El Secreto de Wilhem Storitz|https://drive.google.com/file/d/0B_yJXv2pEPBwTXAzYklDX0lZQVU/view?usp=drivesdk&resourcekey=0-MNdR9s3LL4eAm5IHJH7Y6w
+Julio Verne|El Rayo Verde|https://drive.google.com/file/d/0B_yJXv2pEPBwYXdmVXJjNkNpNnM/view?usp=drivesdk&resourcekey=0-MDzpwS4GWEZTPax62V6wiA
+Julio Verne|El pueblo aereo|https://drive.google.com/file/d/0B_yJXv2pEPBwRHlzUHRKSTlwRWs/view?usp=drivesdk&resourcekey=0-ZgH09L0AJxsotOJJvLTVeg
+Julio Verne|El Matrimonio Del Señor Anselmo De Los Tilos|https://drive.google.com/file/d/0B_yJXv2pEPBwVXVraFRCTFlDc2c/view?usp=drivesdk&resourcekey=0-3lrt45UvaU5AspRkVuakbQ
+Julio Verne|El Faro del fin del mundo|https://drive.google.com/file/d/0B_yJXv2pEPBwT2dWa2pCMXkzdXM/view?usp=drivesdk&resourcekey=0-sYHcxXkFqnDH2chx57HcNg
+Julio Verne|El eterno Adan|https://drive.google.com/file/d/0B_yJXv2pEPBwMFdCMDlUZERfbU0/view?usp=drivesdk&resourcekey=0-m2NmLmi7mCGOtcFDheEtnA
+Julio Verne|El Castillo de los Carpatos|https://drive.google.com/file/d/0B_yJXv2pEPBweTBiRWlrUnBaS1U/view?usp=drivesdk&resourcekey=0-DSNF3B5keo1HXKovYbt7vg
+Julio Verne|El camino de Francia 2|https://drive.google.com/file/d/0B_yJXv2pEPBwT1hKcC1pQWVUWE0/view?usp=drivesdk&resourcekey=0-AsooQazzToMNWlHdSS5_yw
+Julio Verne|El camino de Francia 1|https://drive.google.com/file/d/0B_yJXv2pEPBwOGRLWU0wMzBwdzA/view?usp=drivesdk&resourcekey=0-vu1sk8Iztb0C4bI3qrjjZA
+Julio Verne|Edgar Poe Y Sus Obras|https://drive.google.com/file/d/0B_yJXv2pEPBwWUtib1IzUTNWYTA/view?usp=drivesdk&resourcekey=0-YJxzoVvjau7KaWf92U2EFw
+Julio Verne|Dos años de vacaciones (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwNUhaMTI4a0lJYzg/view?usp=drivesdk&resourcekey=0-KPN74CPxzeex_lcA0mcXFA
+Julio Verne|Dos años de vacaciones (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwQkhLYTU4bWdqaGc/view?usp=drivesdk&resourcekey=0-nVITDRNyOPGf_5DQPnDDww
+Julio Verne|De la Tierra a la Luna|https://drive.google.com/file/d/0B_yJXv2pEPBwWURTcGdzUTROQm8/view?usp=drivesdk&resourcekey=0-LeuVmX9-c59TlfET3u98HA
+Julio Verne|Clovis Dardentor (Parte 3)|https://drive.google.com/file/d/0B_yJXv2pEPBwVnlvTUdvTncwMEk/view?usp=drivesdk&resourcekey=0-LbSaK9IiAguysEh_8XhbQA
+Julio Verne|Clovis Dardentor (Parte 2)|https://drive.google.com/file/d/0B_yJXv2pEPBwTW1kWEtZTUlxU0k/view?usp=drivesdk&resourcekey=0-eKcENbY9nKNOEM8XFyk4LQ
+Julio Verne|Clovis Dardentor (Parte 1)|https://drive.google.com/file/d/0B_yJXv2pEPBwMWZmeFhCVmlHLTQ/view?usp=drivesdk&resourcekey=0-NbJZbULRQtTVolse51hMcg
+Julio Verne|Cinco semanas en globo|https://drive.google.com/file/d/0B_yJXv2pEPBwN3dsd0sxQWJhSVU/view?usp=drivesdk&resourcekey=0-DB6oUIH8gCr058MKGx9iMg
+Julio Verne|Castillo De Los Carpatos|https://drive.google.com/file/d/0B_yJXv2pEPBwUndLZmNRa3NyRjg/view?usp=drivesdk&resourcekey=0-yMkEJaO2Uhr1_YaRXGsFdw
+Julio Verne|Aventuras de tres rusos y tres ingleses en el Africa Austral|https://drive.google.com/file/d/0B_yJXv2pEPBwODFvQ0hBcEY3T0k/view?usp=drivesdk&resourcekey=0-hq2jenSC4EmxH2vX-pCUlQ
+Julio Verne|Ante la bandera|https://drive.google.com/file/d/0B_yJXv2pEPBwRktiTGdwVlRrblE/view?usp=drivesdk&resourcekey=0-4hLn2qFOLTfYxAbTAhngJg
+Julio Verne|Amotinados de la Bounty|https://drive.google.com/file/d/0B_yJXv2pEPBwZmlQNWlDc0U1ZDA/view?usp=drivesdk&resourcekey=0-Rc5gretws8Y61iCRYMxjsA
+José Luis Velarde|La Sombra Descendio Desde Lo Mas Alto|https://drive.google.com/file/d/0B_yJXv2pEPBwUXpQMzQwTU45Sk0/view?usp=drivesdk&resourcekey=0-zfgeoGCIIZds2GdTRUyamg
+Alberto Vásquez Figueroa|Yaiza|https://drive.google.com/file/d/0B_yJXv2pEPBwczNoUjZJcDdqdEE/view?usp=drivesdk&resourcekey=0-dwTWoxhKGe_dXGo5gOLrTg
+Alberto Vásquez Figueroa|Utero Siete Poemas De Amor|https://drive.google.com/file/d/0B_yJXv2pEPBweEJTU1JUM0V2YW8/view?usp=drivesdk&resourcekey=0-4OAEzEQSNXD_Kw0cfGxwmw
+Alberto Vásquez Figueroa|Un Mundo Mejor|https://drive.google.com/file/d/0B_yJXv2pEPBwX2RiNTU3SUV3U00/view?usp=drivesdk&resourcekey=0-qEzzNQ0tccV2p67RkjwOOA
+Alberto Vásquez Figueroa|Tuareg|https://drive.google.com/file/d/0B_yJXv2pEPBwMFBON00ycFlWQUk/view?usp=drivesdk&resourcekey=0-V_c2EAm0XJh8ivNktz6gJA
+Alberto Vásquez Figueroa|Todos Somos Culpables|https://drive.google.com/file/d/0B_yJXv2pEPBwRmFSbG45bEhhZlE/view?usp=drivesdk&resourcekey=0-HThNx_Kaj4Z-BKxNeJUA4A
+Alberto Vásquez Figueroa|Tierra Virgen|https://drive.google.com/file/d/0B_yJXv2pEPBwSnBicDZfWHkwTVk/view?usp=drivesdk&resourcekey=0-inJSu0H39EKWHsSBbpvzyg
+Alberto Vásquez Figueroa|Tiempo de Conquistadores|https://drive.google.com/file/d/0B_yJXv2pEPBwdklOcS1tWERER28/view?usp=drivesdk&resourcekey=0-ozfSSwsLT0EXqL1Dqh5lwg
+Alberto Vásquez Figueroa|Sultana Roja|https://drive.google.com/file/d/0B_yJXv2pEPBwaUwyb2QyTFJCWFE/view?usp=drivesdk&resourcekey=0-vF38GozKm9CiMnGnuF6Fbg
+Alberto Vásquez Figueroa|Sicario|https://drive.google.com/file/d/0B_yJXv2pEPBwVWlKZW1kLVJqNnM/view?usp=drivesdk&resourcekey=0-PaxDPPVegzf5_1QFSV4SGQ
+Alberto Vásquez Figueroa|Piratas|https://drive.google.com/file/d/0B_yJXv2pEPBwN3VoTWJMLUhuc1k/view?usp=drivesdk&resourcekey=0-AGMV79u8vSHCLAtBBD0j7A
+Alberto Vásquez Figueroa|Palmira|https://drive.google.com/file/d/0B_yJXv2pEPBwYVRaUlhmZlNmc2M/view?usp=drivesdk&resourcekey=0-YWIMw4_VPSoRaU4-XPObeA
+Alberto Vásquez Figueroa|Oceano|https://drive.google.com/file/d/0B_yJXv2pEPBwMmtGOUdHcE5qWVk/view?usp=drivesdk&resourcekey=0-1gTooUpwRG4Qov8lTF0onA
+Alberto Vásquez Figueroa|Morir En Sudafrica|https://drive.google.com/file/d/0B_yJXv2pEPBwU1NVQ1ZQdEx5Rmc/view?usp=drivesdk&resourcekey=0-vTGxzjEYiuKdTN06guwg0Q
+Alberto Vásquez Figueroa|Matar A Gadafi|https://drive.google.com/file/d/0B_yJXv2pEPBwZ1lmODFLUDlUVWc/view?usp=drivesdk&resourcekey=0-KZE_iq_KLL1gV4UXiTtQDw
+Alberto Vásquez Figueroa|Marfil|https://drive.google.com/file/d/0B_yJXv2pEPBwQzNCRlNvSDN2RHc/view?usp=drivesdk&resourcekey=0-_uKOsuBHdEjMnJaeB1uYXg
+Alberto Vásquez Figueroa|Maremagnum|https://drive.google.com/file/d/0B_yJXv2pEPBwSWVyU3RYSHpMb1E/view?usp=drivesdk&resourcekey=0-ztgND-Ggxv1CkRh-COGYsg
+Alberto Vásquez Figueroa|Manaos|https://drive.google.com/file/d/0B_yJXv2pEPBwRDNsb0owX2RKNjQ/view?usp=drivesdk&resourcekey=0-5vcSsNByiooKOeBmFaDqLQ
+Alberto Vásquez Figueroa|La Vida Automatica|https://drive.google.com/file/d/0B_yJXv2pEPBwWDA2dHhiY01RSk0/view?usp=drivesdk&resourcekey=0-U8LHS663rtnIMToSKSkVkQ
+Alberto Vásquez Figueroa|La Ordalia Del Veneno|https://drive.google.com/file/d/0B_yJXv2pEPBwelM4eVNCU3BkdHM/view?usp=drivesdk&resourcekey=0-qYAlFg9w0f2NtGkw6vMpcA
+Alberto Vásquez Figueroa|Fuerteventura|https://drive.google.com/file/d/0B_yJXv2pEPBwUjhBbG5vWHdRcEE/view?usp=drivesdk&resourcekey=0-OOQfcIh7MNYXuSEj9H2HmA
+Alberto Vásquez Figueroa|El señor de las tinieblas|https://drive.google.com/file/d/0B_yJXv2pEPBwOVp0N2JmR1VKVjg/view?usp=drivesdk&resourcekey=0-GNT4f3Fbzc8lzAK3T1N7lA
+Alberto Vásquez Figueroa|El Leon Invisible|https://drive.google.com/file/d/0B_yJXv2pEPBwQU14a3JWTzV1Rk0/view?usp=drivesdk&resourcekey=0-S7tp4emYyWYwFn0Z7QJNxg
+Alberto Vásquez Figueroa|Ebano|https://drive.google.com/file/d/0B_yJXv2pEPBwUFlXLXJPUm9QR0E/view?usp=drivesdk&resourcekey=0-9SEcUkPR-96IEqXeOqlvng
+Alberto Vásquez Figueroa|Delfines|https://drive.google.com/file/d/0B_yJXv2pEPBwUkVYNDlQUWxvc0k/view?usp=drivesdk&resourcekey=0-v27vwuk_Lp374_HOxxrqPQ
+Alberto Vásquez Figueroa|Cienfuegos6 _ Xaragua|https://drive.google.com/file/d/0B_yJXv2pEPBwUFRZTTJYNHl1dmM/view?usp=drivesdk&resourcekey=0-JcFKUrWdqL51lux7KrcU6A
+Alberto Vásquez Figueroa|Cienfuegos5 _ Brazofuerte|https://drive.google.com/file/d/0B_yJXv2pEPBwSnllWW5meTFxT1E/view?usp=drivesdk&resourcekey=0-fL4oh5R6LX8mfCrqIoyDig
+Alberto Vásquez Figueroa|Cienfuegos4 _ Montenegro|https://drive.google.com/file/d/0B_yJXv2pEPBwZTc5RGRxSlFKMWc/view?usp=drivesdk&resourcekey=0-f-5pyTpxuJO4mxn1HrVz3g
+Alberto Vásquez Figueroa|Cienfuegos3 _ Azabache|https://drive.google.com/file/d/0B_yJXv2pEPBwUFJwXzEyWWJYdFk/view?usp=drivesdk&resourcekey=0-SJFT7ZDtQEW4ggzORp-uxA
+Alberto Vásquez Figueroa|Cienfuegos2 _ Caribes|https://drive.google.com/file/d/0B_yJXv2pEPBwLXoySE15Rk5kaWs/view?usp=drivesdk&resourcekey=0-Ngf8pDkkUBQ8QdJARGodEA
+Alberto Vásquez Figueroa|Cienfuegos1|https://drive.google.com/file/d/0B_yJXv2pEPBwdGdHOU4yVmRVNmM/view?usp=drivesdk&resourcekey=0-QnLyqoTbiuixl6uDCqGshQ
+Alberto Vásquez Figueroa|Bora Bora|https://drive.google.com/file/d/0B_yJXv2pEPBwQXpDVHliNUZEMjQ/view?usp=drivesdk&resourcekey=0-f_1lDmsU68jODClTnAHJCA
+Alberto Vásquez Figueroa|Bajo Siete Mares|https://drive.google.com/file/d/0B_yJXv2pEPBwbUNwTjNKd2JyREE/view?usp=drivesdk&resourcekey=0-ACxlrPDO1wcpxYy1R8JZqw
+Alberto Vásquez Figueroa|Arena Y Viento|https://drive.google.com/file/d/0B_yJXv2pEPBwQkd0emlGRFhUN3M/view?usp=drivesdk&resourcekey=0-7V4A2yCgWK5uppf7srw0dg
+Alberto Vásquez Figueroa|Anaconda|https://drive.google.com/file/d/0B_yJXv2pEPBwMmo1RDNIU3VSQkU/view?usp=drivesdk&resourcekey=0-2wwGinZcKpFSmnLCm6zCpQ
+Alberto Vásquez Figueroa|Ali En El Pais De Las Maravillas|https://drive.google.com/file/d/0B_yJXv2pEPBwT2hzSGtVMGlReUE/view?usp=drivesdk&resourcekey=0-tSpxZTMkAFanSJiuAqjcxA
+Alberto Vásquez Figueroa|Africa Llora|https://drive.google.com/file/d/0B_yJXv2pEPBwVWYzanFfb3RoQnM/view?usp=drivesdk&resourcekey=0-0IKsVYpQy2D9ZmNfzE-t_w
+Florencio Varela|El Coronel Don Jose de Olavarria|https://drive.google.com/file/d/0B_yJXv2pEPBwbDdtR25lTW05NWc/view?usp=drivesdk&resourcekey=0-xDh4mPDDAkDwScrsTTUy6g
+Lope de Vega|Novelas A Marcia Leonarda|https://drive.google.com/file/d/0B_yJXv2pEPBwdjZGYXJkaFI3VkE/view?usp=drivesdk&resourcekey=0-rpDcHJtkOUrZvHUBvAu_cQ
+Lope de Vega|Los Cinco Misterios De La Pasion|https://drive.google.com/file/d/0B_yJXv2pEPBwUmFMQWpSX2VzVzQ/view?usp=drivesdk&resourcekey=0-vE1S1xbULzRSxIKGEHOaLw
+Lope de Vega|Las Famosas Asturianas|https://drive.google.com/file/d/0B_yJXv2pEPBwZ2h4QW1wMGNZWms/view?usp=drivesdk&resourcekey=0-hBDJk-iG9AgpN1lWpNnw2g
+Lope de Vega|Las Cortes De La Muerte|https://drive.google.com/file/d/0B_yJXv2pEPBwclBlaUtmVEpkYzA/view?usp=drivesdk&resourcekey=0-jhT25CncaXzgVZ5td3If4Q
+Lope de Vega|La Grandeza De Alejandro|https://drive.google.com/file/d/0B_yJXv2pEPBwUXlOSVlxRHBpN1k/view?usp=drivesdk&resourcekey=0-lY1oz25Mxw8AiDGIPhMFiw
+Lope de Vega|La Fianza Satisfecha|https://drive.google.com/file/d/0B_yJXv2pEPBwUzFsbVpreTJnTmc/view?usp=drivesdk&resourcekey=0-ysf6n-tLsx1KWzCt53uoTA
+Lope de Vega|La Devocion Del Rosario|https://drive.google.com/file/d/0B_yJXv2pEPBwMFJCanQ2eEViMWc/view?usp=drivesdk&resourcekey=0-Vo-PDylfH7De2gkS-Eg4DA
+Lope de Vega|La Dama Boba|https://drive.google.com/file/d/0B_yJXv2pEPBwdXZNXzNvNGt0aG8/view?usp=drivesdk&resourcekey=0-HUvoLIy8nfspurLBLFyyRw
+Lope de Vega|La Buena Guarda|https://drive.google.com/file/d/0B_yJXv2pEPBwb01IZkhzWE0ydG8/view?usp=drivesdk&resourcekey=0-BCVjv1beDId3n7aG6h1_bg
+Lope de Vega|La Bella Aurora|https://drive.google.com/file/d/0B_yJXv2pEPBwdk5ZUWxOZmNHdjA/view?usp=drivesdk&resourcekey=0-tpLT5qo8CNaGkqg-xd1lew
+Lope de Vega|Fuenteovejuna|https://drive.google.com/file/d/0B_yJXv2pEPBwSTFScVFaU2loN0U/view?usp=drivesdk&resourcekey=0-xBWSDv0WpEKVicHVFD0a3w
+Lope de Vega|En Anzuelo De Fenisa|https://drive.google.com/file/d/0B_yJXv2pEPBwMEJScWJBZ0J1WkE/view?usp=drivesdk&resourcekey=0-6lrCSszqmTFwRRx9ejMIiw
+Lope de Vega|El Verdadero amante|https://drive.google.com/file/d/0B_yJXv2pEPBwOGtidTV1Uzc5NWM/view?usp=drivesdk&resourcekey=0-ZY-U1QXYVcd8v5FuOlgYHA
+Lope de Vega|El perro del hortelano|https://drive.google.com/file/d/0B_yJXv2pEPBwV1BMNE5pcVpNWlU/view?usp=drivesdk&resourcekey=0-xXMfD8kqTsMjdNaJYNp1Vg
+Lope de Vega|El Castigo sin venganza|https://drive.google.com/file/d/0B_yJXv2pEPBwQkJtbVVpREZ3UE0/view?usp=drivesdk&resourcekey=0-Sdt4FlZsXf4ZYNMbacBHpA
+Lope de Vega|El Caballero De Olmedo|https://drive.google.com/file/d/0B_yJXv2pEPBwck1KMURtODg1M0k/view?usp=drivesdk&resourcekey=0-br8daEfLbDH_vIN_B2Rlnw
+Lope de Vega|El Arte Nuevo De Hacer Comedias|https://drive.google.com/file/d/0B_yJXv2pEPBwWWxuYndLTWpfdGc/view?usp=drivesdk&resourcekey=0-rXUUrFL9vvKAYCrpCATNxw
+Lope de Vega|El Antecristo|https://drive.google.com/file/d/0B_yJXv2pEPBwNDJtcUkwTUoyR3M/view?usp=drivesdk&resourcekey=0-oyguYYakxD5d3GYu500lPg
+Lope de Vega|El Amor enamorado|https://drive.google.com/file/d/0B_yJXv2pEPBwQXN1dEQwdVJCd3M/view?usp=drivesdk&resourcekey=0-NJtyHI8BTQvyeIaTT0fnlQ
+Lope de Vega|Del pan y del Palo|https://drive.google.com/file/d/0B_yJXv2pEPBwUmVmekt5dDV2SDA/view?usp=drivesdk&resourcekey=0-EciTxDsAx57eZeTEeC0YKw
+Lope de Vega|De los cantares|https://drive.google.com/file/d/0B_yJXv2pEPBwN1VFT204Wm9KMjQ/view?usp=drivesdk&resourcekey=0-8fFbrLrdbzOSD01SxXG44g
+Lope de Vega|David perseguido y montes de Gelboe|https://drive.google.com/file/d/0B_yJXv2pEPBwRFh3aHIxVGZobE0/view?usp=drivesdk&resourcekey=0-YZ50eo57ASJXPU-nAriksw
+Lope de Vega|Contra Valor No Hay Desdicha|https://drive.google.com/file/d/0B_yJXv2pEPBweHdLOFM0dzFDWTA/view?usp=drivesdk&resourcekey=0-F7DtY9AUng5BNZY2FdAzdQ
+Lope de Vega|Caballero de Olmedo|https://drive.google.com/file/d/0B_yJXv2pEPBwckNLNGZJN2J4bm8/view?usp=drivesdk&resourcekey=0-yDfDhrtT4BBiDBeFovO2dg
+Lope de Vega|Ay Verdades Que En Amor|https://drive.google.com/file/d/0B_yJXv2pEPBwaV9HdXlobEY5aVE/view?usp=drivesdk&resourcekey=0-Y_IDstz0F8m-yF-MVd8fLA
+Lope de Vega|Antologia poetica|https://drive.google.com/file/d/0B_yJXv2pEPBwVFVSdE55Mjd1YW8/view?usp=drivesdk&resourcekey=0-P2gd7VeMoUqhqvgJpbWjQg
+Henry R, Van Til|El Concepto Calvinista De La Cultura|https://drive.google.com/file/d/0B_yJXv2pEPBwNVM4akFBcVVQLUE/view?usp=drivesdk&resourcekey=0-VGCj0CjxwAqKzYJY3dvciw
+Cesar Vallejo|Mas Alla De La Vida Y La Muerte|https://drive.google.com/file/d/0B_yJXv2pEPBwWElqLW44QWh1LWM/view?usp=drivesdk&resourcekey=0-ogZn2dftDie9KQ11Dg7Nbg
+Cesar Vallejo|El romanticismo en la poesia castellana|https://drive.google.com/file/d/0B_yJXv2pEPBwQ1RTdEJDYVZ0ZWM/view?usp=drivesdk&resourcekey=0-uuy9GTA1niQZ-CMPWV0cYg
+Cesar Vallejo|Poesia completa|https://drive.google.com/file/d/0B_yJXv2pEPBwSThiRWtya0Qwdjg/view?usp=drivesdk&resourcekey=0-f9CdEX-_aSvqaqCnYw8oiw
+Xavier Velasco|Diablo Guardian|https://drive.google.com/file/d/0B_yJXv2pEPBwbzgzU2Z2R0h3U0E/view?usp=drivesdk&resourcekey=0-3GHAx2SCYwTnU0NR3gkEIQ
+Juan Valera|Teatro|https://drive.google.com/file/d/0B_yJXv2pEPBwZU5lYUNQZno5TGs/view?usp=drivesdk&resourcekey=0-q0aGcuZlRnz3GpIUIhskmQ
+Juan Valera|Quien No Te Conozca Que Te Compre|https://drive.google.com/file/d/0B_yJXv2pEPBwQVJrbEZFNURBUzQ/view?usp=drivesdk&resourcekey=0-UXSh_TXbZ_WDGBIKwJHunA
+Juan Valera|Pepita Jimenez|https://drive.google.com/file/d/0B_yJXv2pEPBweW1XQ2h1VGZuczg/view?usp=drivesdk&resourcekey=0-APVQUkrOZNmfTapd3bXULw
+Juan Valera|Parsondes|https://drive.google.com/file/d/0B_yJXv2pEPBwV1RPYmlGeHRxaTA/view?usp=drivesdk&resourcekey=0-fTp-Bw1W_3WO1OVqf9vViw
+Juan Valera|Morsamor|https://drive.google.com/file/d/0B_yJXv2pEPBwXzFVSEVVR0FxcFE/view?usp=drivesdk&resourcekey=0-8-pA67qxebRVjStPsPthog
+Juan Valera|Milagro De La Dialectica|https://drive.google.com/file/d/0B_yJXv2pEPBwV2o2Z2x5Z0JQYlU/view?usp=drivesdk&resourcekey=0-fc7dpBBKH3IOGycx3MYuow
+Juan Valera|Mariquita Y Antonio|https://drive.google.com/file/d/0B_yJXv2pEPBwNldsUFIzbVZCUzQ/view?usp=drivesdk&resourcekey=0-Rrm99UbEXwJ444nMbwKfYg
+Juan Valera|Los Santos De Francia|https://drive.google.com/file/d/0B_yJXv2pEPBwNlhTZ292VE5oSWc/view?usp=drivesdk&resourcekey=0--gtHGTQ9uPhXnAKRWQzQfw
+Juan Valera|Los Emigrantes|https://drive.google.com/file/d/0B_yJXv2pEPBwaElGMnNUZ2dDOTQ/view?usp=drivesdk&resourcekey=0-4no9PAIUCj4n6ZYf8pMQ6w
+Juan Valera|Los Cordobeses En Creta|https://drive.google.com/file/d/0B_yJXv2pEPBwTjNQWlhXUHljN3M/view?usp=drivesdk&resourcekey=0-ODUvbX102iOjfkA-74Mikw
+Juan Valera|Leyendas Del Antiguo Oriente|https://drive.google.com/file/d/0B_yJXv2pEPBwTkttTzBocWsyMjA/view?usp=drivesdk&resourcekey=0-ONh652eFrJuIkTNdZtnRtg
+Juan Valera|Las Gafas|https://drive.google.com/file/d/0B_yJXv2pEPBwbVVxa05zb090OHc/view?usp=drivesdk&resourcekey=0-5Zm-B3uFCu6cJmpHB_RCcA
+Juan Valera|Las Castañas|https://drive.google.com/file/d/0B_yJXv2pEPBwejFDU3dHMEZ5SWc/view?usp=drivesdk&resourcekey=0-0DXH9mJI4fMkHnuAJ7eJSw
+Juan Valera|La Muñequita|https://drive.google.com/file/d/0B_yJXv2pEPBwWjZQWUVUNXl1V3c/view?usp=drivesdk&resourcekey=0-UAY1LFHhgk8kdDtUYff7JA
+Juan Valera|La Karaba|https://drive.google.com/file/d/0B_yJXv2pEPBwV3dORDZMcXF2VG8/view?usp=drivesdk&resourcekey=0-wdYik9F8JpVwWpSmrXOjwQ
+Juan Valera|La Col Y La Calera|https://drive.google.com/file/d/0B_yJXv2pEPBwX293eVY2Rl9PX00/view?usp=drivesdk&resourcekey=0-WW4usy7R_HdArFNIoPsbnw
+Juan Valera|La Buena Fama|https://drive.google.com/file/d/0B_yJXv2pEPBwT3Uxd2lsU0RyemM/view?usp=drivesdk&resourcekey=0-aO77UbM0Iie0UMahQOWoTQ
+Juan Valera|Juanita la larga|https://drive.google.com/file/d/0B_yJXv2pEPBwaEJBVVptckhiWTQ/view?usp=drivesdk&resourcekey=0-tRu_V6gIVd3N0_89AeF8Ow
+Juan Valera|Fecundidad De La Memoria|https://drive.google.com/file/d/0B_yJXv2pEPBwZDhPQVJWQ1JKN28/view?usp=drivesdk&resourcekey=0-TZ55Io354Z3-ikLzA-Mf5g
+Juan Valera|Elisa La Malagueña|https://drive.google.com/file/d/0B_yJXv2pEPBwT3hJNEJwMG1MZzg/view?usp=drivesdk&resourcekey=0-3ZQL-h194NshJO9c1XuI8A
+Juan Valera|El Ultimo Pecado|https://drive.google.com/file/d/0B_yJXv2pEPBwS0xPblUyUG16N1U/view?usp=drivesdk&resourcekey=0-JwH24oQSMlasT0jXlxURIw
+Juan Valera|El Señor Nichtverstehen|https://drive.google.com/file/d/0B_yJXv2pEPBwUGFWWGg0N2VtNlk/view?usp=drivesdk&resourcekey=0-bv6QkAVS0tnObmUjSw-6kQ
+Juan Valera|El San Vicente Ferrer De Talla|https://drive.google.com/file/d/0B_yJXv2pEPBwS1hWLWpZUlZ5QWM/view?usp=drivesdk&resourcekey=0-VNFwAaR8Krl5YtfC50OnBA
+Juan Valera|El Pescadorcito Urashima|https://drive.google.com/file/d/0B_yJXv2pEPBwNlc1R0c1TnNfemc/view?usp=drivesdk&resourcekey=0-yVvGRZ_iUQARR5arD1TwrA
+Juan Valera|El Pajaro Verde|https://drive.google.com/file/d/0B_yJXv2pEPBwbHU0YURfRDM0XzQ/view?usp=drivesdk&resourcekey=0-7CE0Vf_gvHc122_iH3j_JA
+Juan Valera|El Maestro Raimundico|https://drive.google.com/file/d/0B_yJXv2pEPBwRkg5dk83X2VCbTA/view?usp=drivesdk&resourcekey=0-abMhUdkeYyimD2EgIj0ieg
+Juan Valera|El Hechicero|https://drive.google.com/file/d/0B_yJXv2pEPBwVVVPMXEwb01rdE0/view?usp=drivesdk&resourcekey=0-BQxZFbIusONXtGTWwhIP4g
+Juan Valera|El Espejo De Matsuyama|https://drive.google.com/file/d/0B_yJXv2pEPBwN3l2aDFxODZ5Umc/view?usp=drivesdk&resourcekey=0-pFV6tS7hy-9g7413-Vj7_w
+Juan Valera|El Duende Beso|https://drive.google.com/file/d/0B_yJXv2pEPBwYzhmeUlOaGRPNkE/view?usp=drivesdk&resourcekey=0-JumOW5iyzIf40xSRsJd1XQ
+Juan Valera|El Doble Sacrificio|https://drive.google.com/file/d/0B_yJXv2pEPBwQnlaM0t1UzMzalE/view?usp=drivesdk&resourcekey=0-QVT3qtXQ1AgtBNFJnvM3gQ
+Juan Valera|El Comendador Mendoza|https://drive.google.com/file/d/0B_yJXv2pEPBwS0UwYTd6dEotdlk/view?usp=drivesdk&resourcekey=0-K9cA2LLp9YXJGXAphh_k-Q
+Juan Valera|El Cocinero Del Arzobispo|https://drive.google.com/file/d/0B_yJXv2pEPBwN1FoRXgxdXlHVFE/view?usp=drivesdk&resourcekey=0-3TnPQebf94MRzD8gewWG3A
+Juan Valera|El Cautivo De Doña Mencia|https://drive.google.com/file/d/0B_yJXv2pEPBwaXFFUHJXX2NRRzQ/view?usp=drivesdk&resourcekey=0-KbZpIXKQOtUbxe3Z-s5P8g
+Juan Valera|El Caballero Del Azor|https://drive.google.com/file/d/0B_yJXv2pEPBwTFY5RjE1MVpTZzQ/view?usp=drivesdk&resourcekey=0-wElIWNCUh7eVn7vdTGYLVQ
+Juan Valera|El Bermejino Prehistorico|https://drive.google.com/file/d/0B_yJXv2pEPBwaTdoUTM1V0NJNTA/view?usp=drivesdk&resourcekey=0-2OBwRaYG9OhYqwWxTgWNzw
+Juan Valera|Don Lorenzo Tostado|https://drive.google.com/file/d/0B_yJXv2pEPBwVlcwLVFBUkh4WWc/view?usp=drivesdk&resourcekey=0-mzKJm4X-3awNJLlmlzWS4w
+Juan Valera|Discurso Del Tercer Centenario Del Quijote|https://drive.google.com/file/d/0B_yJXv2pEPBwTVEzU1cyRkpsd0E/view?usp=drivesdk&resourcekey=0-XCiT3K-Cm4kzNgF35jZ7qw
+Juan Valera|Dafnis Y Cloe|https://drive.google.com/file/d/0B_yJXv2pEPBwck1BeTdMTlJXUTg/view?usp=drivesdk&resourcekey=0-_TkrquSaQDmk1GBwEBgSfA
+Juan Valera|Cuentos|https://drive.google.com/file/d/0B_yJXv2pEPBwcnM1N1lMT2s3ZDg/view?usp=drivesdk&resourcekey=0-yMAOXLH0rTEcKRDu0shDiA
+Juan Valera|Correspondencia|https://drive.google.com/file/d/0B_yJXv2pEPBwTUVTRko4WUFUZ2s/view?usp=drivesdk&resourcekey=0-zDJCYqC09U5x9nvMkb-xaQ
+Juan Valera|A Quien Debe Darse Credito|https://drive.google.com/file/d/0B_yJXv2pEPBwcHJtZ3NEQ2xxMVU/view?usp=drivesdk&resourcekey=0-qraTYP3Wzeoq0cOzNr_FKw
+Jorge Adoum|Yo Soy|https://drive.google.com/file/d/0B_yJXv2pEPBwX0YtdmR4YUFsa1U/view?usp=drivesdk&resourcekey=0-Fy0Hs21BUZojNFqxhL28JQ
+Jorge Adoum|Poderes|https://drive.google.com/file/d/0B_yJXv2pEPBwTmtPM2F4QzRTeXc/view?usp=drivesdk&resourcekey=0-YEhPbskfXgPxqVXZ2k3v9Q
+Jorge Adoum|La Magia Del verbo|https://drive.google.com/file/d/0B_yJXv2pEPBwRUtyQjFNdXNNN1E/view?usp=drivesdk&resourcekey=0-cv72YzwXnAmWoo9vFWD0QQ
+Jorge Adoum|Adonay|https://drive.google.com/file/d/0B_yJXv2pEPBwNVZMUTFhSlZ6MFE/view?usp=drivesdk&resourcekey=0-HCBHN4BA1jAcM-eKBKRjRw
+Francisco Varela|Etica Y Accion|https://drive.google.com/file/d/0B_yJXv2pEPBwZjBONmViZU9nYXM/view?usp=drivesdk&resourcekey=0-UnouoAwFrJpajBwgJGKVcw
+Francisco Vera|20 Matematicos Celebres|https://drive.google.com/file/d/0B_yJXv2pEPBwMzdIVW9SNzFicWs/view?usp=drivesdk&resourcekey=0-fdjoPpDCmQrtFxqjkAdiEg
+J. M. Valverde Pacheco|La epica medieval|https://drive.google.com/file/d/0B_yJXv2pEPBwa01mdDRTZnR0TUU/view?usp=drivesdk&resourcekey=0-JR6AD7k3n-teaUA4i7bkEg
+Amir Valle|Habana Babilonia|https://drive.google.com/file/d/0B_yJXv2pEPBwckRqeWZVUUZkNXc/view?usp=drivesdk&resourcekey=0-1cg0V4OqQQQOhsX6I8URqw
+Juan Antonio Vallejo Nagera|Yo, El Rey|https://drive.google.com/file/d/0B_yJXv2pEPBwNHNvVkZtVGs2dFU/view?usp=drivesdk&resourcekey=0-nu9XghyPB8QvkuR10JYycw
+Juan Antonio Vallejo Nagera|Vallejo Y Yo|https://drive.google.com/file/d/0B_yJXv2pEPBwaEZabFJyRDI3Zjg/view?usp=drivesdk&resourcekey=0-p9YNbVgb7speZ9ZVZ2JYIg
