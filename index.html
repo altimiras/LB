@@ -19,6 +19,12 @@
       --glass-bg: rgba(19, 27, 46, 0.85);
       --radius: 12px;
       --gold: #f59e0b;
+      
+      /* Nuevos colores para diferenciar el Autor */
+      --author-bg: #1a233a;
+      --author-border: rgba(16, 185, 129, 0.3);
+      --book-bg: #0d1526;
+      --book-hover: #16223b;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -100,26 +106,27 @@
       font-weight: 500;
     }
 
-    /* Acordeón por Autor */
+    /* Estilo del Contenedor Principal por Autor */
     .author-accordion {
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      margin-bottom: 14px;
+      margin-bottom: 16px;
       overflow: hidden;
       box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
-      transition: border-color 0.2s;
     }
 
+    /* ESTILO DESTACADO: Tarjeta / Encabezado del Autor */
     .author-header {
       width: 100%;
-      padding: 16px 18px;
-      background: var(--card-bg);
+      padding: 18px 20px;
+      background: var(--author-bg);
       border: none;
+      border-left: 4px solid var(--accent); /* Línea verde distintiva */
       text-align: left;
-      font-size: 1.1rem;
+      font-size: 1.15rem;
       font-weight: 700;
-      color: var(--text);
+      color: #ffffff;
       cursor: pointer;
       display: flex;
       justify-content: space-between;
@@ -128,7 +135,7 @@
     }
 
     .author-header:hover {
-      background: var(--card-hover);
+      background: #222d4a;
     }
 
     .author-badge {
@@ -136,16 +143,17 @@
       font-weight: 600;
       color: #6ee7b7;
       background: rgba(16, 185, 129, 0.15);
-      padding: 4px 10px;
+      padding: 4px 12px;
       border-radius: 20px;
       border: 1px solid rgba(16, 185, 129, 0.3);
     }
 
+    /* Área interior donde van las tarjetas de libros */
     .author-content {
       display: none;
-      padding: 16px;
+      padding: 18px;
       border-top: 1px solid var(--border);
-      background: rgba(9, 13, 22, 0.6);
+      background: rgba(6, 9, 15, 0.8); /* Fondo más oscuro para contrastar las obras */
     }
 
     .author-content.open { display: block; }
@@ -153,15 +161,16 @@
     /* Rejilla de Tarjetas de Libros */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-      gap: 12px;
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      gap: 14px;
     }
 
+    /* ESTILO DIFERENCIADO: Tarjetas de los Libros */
     .card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 16px;
+      background: var(--book-bg);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 8px;
+      padding: 14px;
       text-decoration: none;
       color: inherit;
       display: flex;
@@ -172,38 +181,38 @@
     }
 
     .card:hover {
-      transform: translateY(-2px);
-      background: var(--card-hover);
+      transform: translateY(-3px);
+      background: var(--book-hover);
       border-color: rgba(16, 185, 129, 0.4);
-      box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.5);
     }
 
     .card-title {
-      font-weight: 600;
-      font-size: 0.98rem;
-      margin-bottom: 14px;
+      font-weight: 500;
+      font-size: 0.92rem;
+      margin-bottom: 12px;
       line-height: 1.4;
-      color: #f8fafc;
+      color: #e2e8f0;
     }
 
     .card-meta {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       color: var(--text-muted);
-      border-top: 1px dashed rgba(255, 255, 255, 0.08);
-      padding-top: 10px;
+      border-top: 1px dashed rgba(255, 255, 255, 0.06);
+      padding-top: 8px;
     }
 
     .tag-format {
-      background: rgba(245, 158, 11, 0.15);
+      background: rgba(245, 158, 11, 0.12);
       color: var(--gold);
-      padding: 3px 8px;
-      border-radius: 6px;
+      padding: 2px 7px;
+      border-radius: 4px;
       font-weight: 600;
-      font-size: 0.75rem;
-      border: 1px solid rgba(245, 158, 11, 0.25);
+      font-size: 0.72rem;
+      border: 1px solid rgba(245, 158, 11, 0.2);
     }
 
     .card-action {
@@ -217,9 +226,9 @@
     .load-more-btn {
       display: block;
       width: 100%;
-      margin-top: 14px;
+      margin-top: 16px;
       padding: 12px;
-      background: rgba(16, 185, 129, 0.1);
+      background: rgba(16, 185, 129, 0.08);
       border: 1px dashed var(--accent);
       color: #6ee7b7;
       border-radius: 8px;
@@ -270,7 +279,6 @@
     const PAGE_SIZE = 8;
     const pageState = {};
 
-    // Función auxiliar para normalizar texto (quita acentos, convierte a minúsculas)
     function normalizeText(text) {
       return text
         .toLowerCase()
@@ -278,7 +286,6 @@
         .replace(/[\u0300-\u036f]/g, "");
     }
 
-    // Carga de datos desde libros_extraidos.txt
     async function loadData() {
       try {
         const res = await fetch('libros_extraidos.txt');
@@ -287,7 +294,7 @@
         rawData = text
           .split('\n')
           .map(line => line.trim())
-          .filter(line => line.length > 0 && !line.startsWith('Autor del libro')) // Omitir encabezado
+          .filter(line => line.length > 0 && !line.startsWith('Autor del libro'))
           .map(line => {
             const parts = line.split('|').map(item => item.trim());
             const autorNombre = parts[0] ? parts[0] : 'Autor Anónimo / Varios';
@@ -342,14 +349,12 @@
         return;
       }
 
-      // Agrupar por Autor
       const grouped = filtered.reduce((acc, item) => {
         acc[item.autor] = acc[item.autor] || [];
         acc[item.autor].push(item);
         return acc;
       }, {});
 
-      // Ordenar autores alfabéticamente
       const sortedAuthors = Object.keys(grouped).sort((a, b) => a.localeCompare(b));
 
       sortedAuthors.forEach((author, index) => {
