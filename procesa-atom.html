@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Extractor de Libros Atom a TXT</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 15px;
+      background-color: #f4f6f9;
+      color: #333;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 { margin-top: 0; color: #1a73e8; }
+    input[type="file"], input[type="url"] {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background-color: #1a73e8;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    button:disabled { background-color: #ccc; }
+    #status {
+      margin-top: 15px;
+      font-weight: bold;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card">
+  <h2>Extractor de Libros Atom</h2>
+  <p>Selecciona tu archivo <code>.atom</code> desde tu Android o ingresa la URL RAW de GitHub:</p>
+  
+  <label><strong>1. Desde archivo local:</strong></label>
+  <input type="file" id="atomFile" accept=".atom,.xml">
+  
+  <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+  
+  <label><strong>2. O mediante URL RAW de GitHub:</strong></label>
+  <input type="url" id="atomUrl" placeholder="https://raw.githubusercontent.com/usuario/repo/main/blog.atom">
+  <button id="btnFetch" onclick="procesarDesdeUrl()" style="margin-bottom: 15px; background-color: #34a853;">Cargar desde URL</button>
+
+  <div id="status"></div>
+</div>
+
+<script>
+  const fileInput = document.getElementById('atomFile');
+  const statusDiv = document.getElementById('status');
+
+  fileInput.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    
+    statusDiv.textContent = "Procesando archivo local...";
+    const reader = new FileReader();
+    reader.onload = (event) => parseAndDownload(event.target.result);
+    reader.readAsText(file);
+  });
+
+  async function procesarDesdeUrl() {
+    const url = document.getElementById('atomUrl').value.trim();
+    if (!url) {
+      alert("Por favor ingresa una URL válida.");
+      return;
+    }
+    statusDiv.textContent = "Descargando archivo desde GitHub...";
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error("No se pudo cargar la URL.");
+      const text = await response.text();
+      parseAndDownload(text);
+    } catch (err) {
+      statusDiv.textContent = "Error al cargar la URL: " + err.message + "\nPrueba seleccionando el archivo manualmente arriba.";
+    }
+  }
+
+  function parseAndDownload(xmlText) {
+    statusDiv.textContent = "Analizando contenido Atom...";
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+    const entries = xmlDoc.getElementsByTagName("entry");
+    
+    let lineas = ["Autor del libro|título del libro|link para descarga"];
+    let contador = 0;
+
+    Array.from(entries).forEach(entry => {
+      const titleNode = entry.getElementsByTagName("title")[0];
+      const autorDefecto = titleNode ? titleNode.textContent.trim() : "Desconocido";
+      const contentNode = entry.getElementsByTagName("content")[0];
+      
+      if (contentNode && contentNode.textContent) {
+        const tempDiv = document.createElement("div");
+        tempDiv.innerHTML = contentNode.textContent;
+        
+        // Estructura en tablas
+        const rows = tempDiv.querySelectorAll("tr");
+        if (rows.length > 0) {
+          rows.forEach(row => {
+            const cols = row.querySelectorAll("td");
+            if (cols.length >= 3) {
+              const titulo = cols[0].textContent.trim();
+              const a = cols[2].querySelector("a");
+              if (a && a.href && titulo) {
+                lineas.push(`${autorDefecto}|${titulo}|${a.href}`);
+                contador++;
+              }
+            }
+          });
+        } else {
+          // Estructura en enlaces planos
+          const links = tempDiv.querySelectorAll("a");
+          links.forEach(a => {
+            if (a.href.includes("drive.google.com") || a.href.match(/\.(rar|pdf|epub)$/i)) {
+              let strong = a.previousElementSibling;
+              let titulo = (strong && strong.tagName === 'STRONG') ? strong.textContent.trim() : a.textContent.trim();
+              lineas.push(`${autorDefecto}|${titulo}|${a.href}`);
+              contador++;
+            }
+          });
+        }
+      }
+    });
+
+    if (contador === 0) {
+      statusDiv.textContent = "No se encontraron enlaces de descarga válidos en el archivo.";
+      return;
+    }
+
+    // Crear y descargar el archivo .txt
+    const blob = new Blob([lineas.join("\n")], { type: 'text/plain;charset=utf-8' });
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = "libros_extraidos.txt";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+
+    statusDiv.textContent = `¡Proceso completado con éxito!\nSe extrajeron ${contador} libros y se descargó el archivo "libros_extraidos.txt".`;
+  }
+</script>
+
+</body>
+</html>
